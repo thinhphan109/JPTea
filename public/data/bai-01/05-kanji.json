@@ -1,0 +1,786 @@
+{
+  "title": "Ôn tập Kanji — Bài 1: はじめまして",
+  "type": "kanji",
+  "questions": [
+    {
+      "id": 1,
+      "prompt": "私",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "かいしゃいん",
+        "しゃいん",
+        "だいがく",
+        "わたし"
+      ],
+      "correctIndex": 3,
+      "explanation": "私 đọc là わたし = Tôi"
+    },
+    {
+      "id": 2,
+      "prompt": "私たち",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Chúng tôi",
+        "Điện, đèn",
+        "Hàn Quốc",
+        "Cậu (cho bé trai/bạn nam)"
+      ],
+      "correctIndex": 0,
+      "explanation": "私たち【わたしたち】= Chúng tôi"
+    },
+    {
+      "id": 3,
+      "prompt": "あの人",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ちゅうごく",
+        "だいがく",
+        "あのひと",
+        "がくせい"
+      ],
+      "correctIndex": 2,
+      "explanation": "あの人 đọc là あのひと = Người kia"
+    },
+    {
+      "id": 4,
+      "prompt": "あの方",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Người kia",
+        "Vị kia (lịch sự)",
+        "Chúng tôi",
+        "Bao nhiêu tuổi"
+      ],
+      "correctIndex": 1,
+      "explanation": "あの方【あのかた】= Vị kia (lịch sự)"
+    },
+    {
+      "id": 5,
+      "prompt": "皆さん",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "けんきゅうしゃ",
+        "ちゅうごく",
+        "がくせい",
+        "みなさん"
+      ],
+      "correctIndex": 3,
+      "explanation": "皆さん đọc là みなさん = Mọi người, các bạn"
+    },
+    {
+      "id": 6,
+      "prompt": "～君",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Cậu (cho bé trai/bạn nam)",
+        "Nhật Bản",
+        "Nhân viên công ty",
+        "Người nước..."
+      ],
+      "correctIndex": 0,
+      "explanation": "～君【～くん】= Cậu (cho bé trai/bạn nam)"
+    },
+    {
+      "id": 7,
+      "prompt": "～人",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ちゅうごく",
+        "おなまえは",
+        "だれ",
+        "～じん"
+      ],
+      "correctIndex": 3,
+      "explanation": "～人 đọc là ～じん = Người nước..."
+    },
+    {
+      "id": 8,
+      "prompt": "先生",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Học sinh, sinh viên",
+        "Bác sĩ",
+        "Người nước...",
+        "Thầy/Cô giáo"
+      ],
+      "correctIndex": 3,
+      "explanation": "先生【せんせい】= Thầy/Cô giáo"
+    },
+    {
+      "id": 9,
+      "prompt": "教師",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "きょうし",
+        "かんこく",
+        "はじめまして",
+        "なんさい"
+      ],
+      "correctIndex": 0,
+      "explanation": "教師 đọc là きょうし = Giáo viên (nghề)"
+    },
+    {
+      "id": 10,
+      "prompt": "学生",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Nhật Bản",
+        "Người kia",
+        "Học sinh, sinh viên",
+        "Tôi"
+      ],
+      "correctIndex": 2,
+      "explanation": "学生【がくせい】= Học sinh, sinh viên"
+    },
+    {
+      "id": 11,
+      "prompt": "会社員",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "どうぞよろしくおねがいします",
+        "かいしゃいん",
+        "おなまえは",
+        "いしゃ"
+      ],
+      "correctIndex": 1,
+      "explanation": "会社員 đọc là かいしゃいん = Nhân viên công ty"
+    },
+    {
+      "id": 12,
+      "prompt": "社員",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Đại học",
+        "Người nước...",
+        "Nhân viên của công ty ~",
+        "Rất hân hạnh được gặp"
+      ],
+      "correctIndex": 2,
+      "explanation": "社員【しゃいん】= Nhân viên của công ty ~"
+    },
+    {
+      "id": 13,
+      "prompt": "銀行員",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "～くん",
+        "せんせい",
+        "ぎんこういん",
+        "はじめまして"
+      ],
+      "correctIndex": 2,
+      "explanation": "銀行員 đọc là ぎんこういん = Nhân viên ngân hàng"
+    },
+    {
+      "id": 14,
+      "prompt": "医者",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Thầy/Cô giáo",
+        "Giáo viên (nghề)",
+        "Tôi",
+        "Bác sĩ"
+      ],
+      "correctIndex": 3,
+      "explanation": "医者【いしゃ】= Bác sĩ"
+    },
+    {
+      "id": 15,
+      "prompt": "研究者",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "わたし",
+        "しゃいん",
+        "けんきゅうしゃ",
+        "あのかた"
+      ],
+      "correctIndex": 2,
+      "explanation": "研究者 đọc là けんきゅうしゃ = Nhà nghiên cứu"
+    },
+    {
+      "id": 16,
+      "prompt": "大学",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tôi",
+        "Đại học",
+        "Nhân viên công ty",
+        "Tên của bạn là gì?"
+      ],
+      "correctIndex": 1,
+      "explanation": "大学【だいがく】= Đại học"
+    },
+    {
+      "id": 17,
+      "prompt": "病院",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "びょういん",
+        "どうぞよろしくおねがいします",
+        "わたしたち",
+        "かいしゃいん"
+      ],
+      "correctIndex": 0,
+      "explanation": "病院 đọc là びょういん = Bệnh viện"
+    },
+    {
+      "id": 18,
+      "prompt": "電気",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Rất mong được giúp đỡ",
+        "Điện, đèn",
+        "Tôi",
+        "Người nước..."
+      ],
+      "correctIndex": 1,
+      "explanation": "電気【でんき】= Điện, đèn"
+    },
+    {
+      "id": 19,
+      "prompt": "誰",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "がくせい",
+        "おなまえは",
+        "ぎんこういん",
+        "だれ"
+      ],
+      "correctIndex": 3,
+      "explanation": "誰 đọc là だれ = Ai"
+    },
+    {
+      "id": 20,
+      "prompt": "～歳",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "~ tuổi",
+        "Người nước...",
+        "Nhân viên công ty",
+        "Cậu (cho bé trai/bạn nam)"
+      ],
+      "correctIndex": 0,
+      "explanation": "～歳【～さい】= ~ tuổi"
+    },
+    {
+      "id": 21,
+      "prompt": "何歳",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "せんせい",
+        "あのひと",
+        "なんさい",
+        "みなさん"
+      ],
+      "correctIndex": 2,
+      "explanation": "何歳 đọc là なんさい = Bao nhiêu tuổi"
+    },
+    {
+      "id": 22,
+      "prompt": "初めまして",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Vị kia (lịch sự)",
+        "Giáo viên (nghề)",
+        "Bệnh viện",
+        "Rất hân hạnh được gặp"
+      ],
+      "correctIndex": 3,
+      "explanation": "初めまして【はじめまして】= Rất hân hạnh được gặp"
+    },
+    {
+      "id": 23,
+      "prompt": "どうぞよろしくお願いします",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ちゅうごく",
+        "わたしたち",
+        "にほん",
+        "どうぞよろしくおねがいします"
+      ],
+      "correctIndex": 3,
+      "explanation": "どうぞよろしくお願いします đọc là どうぞよろしくおねがいします = Rất mong được giúp đỡ"
+    },
+    {
+      "id": 24,
+      "prompt": "失礼ですが",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Nhà nghiên cứu",
+        "Xin lỗi (làm phiền)...",
+        "Tôi",
+        "Hàn Quốc"
+      ],
+      "correctIndex": 1,
+      "explanation": "失礼ですが【しつれいですが】= Xin lỗi (làm phiền)..."
+    },
+    {
+      "id": 25,
+      "prompt": "お名前は",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "だれ",
+        "あのかた",
+        "おなまえは",
+        "～くん"
+      ],
+      "correctIndex": 2,
+      "explanation": "お名前は đọc là おなまえは = Tên của bạn là gì?"
+    },
+    {
+      "id": 26,
+      "prompt": "～から来ました",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Thầy/Cô giáo",
+        "Giáo viên (nghề)",
+        "Đến từ nước ~",
+        "~ tuổi"
+      ],
+      "correctIndex": 2,
+      "explanation": "～から来ました【～からきました】= Đến từ nước ~"
+    },
+    {
+      "id": 27,
+      "prompt": "韓国",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "かんこく",
+        "わたしたち",
+        "がくせい",
+        "わたし"
+      ],
+      "correctIndex": 0,
+      "explanation": "韓国 đọc là かんこく = Hàn Quốc"
+    },
+    {
+      "id": 28,
+      "prompt": "中国",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Đại học",
+        "Mọi người, các bạn",
+        "Trung Quốc",
+        "Giáo viên (nghề)"
+      ],
+      "correctIndex": 2,
+      "explanation": "中国【ちゅうごく】= Trung Quốc"
+    },
+    {
+      "id": 29,
+      "prompt": "日本",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "にほん",
+        "しゃいん",
+        "だれ",
+        "びょういん"
+      ],
+      "correctIndex": 0,
+      "explanation": "日本 đọc là にほん = Nhật Bản"
+    },
+    {
+      "id": 30,
+      "prompt": "私",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Hàn Quốc",
+        "Vị kia (lịch sự)",
+        "Nhân viên của công ty ~",
+        "Tôi"
+      ],
+      "correctIndex": 3,
+      "explanation": "私【わたし】= Tôi"
+    },
+    {
+      "id": 31,
+      "prompt": "私たち",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "～じん",
+        "きょうし",
+        "わたしたち",
+        "だいがく"
+      ],
+      "correctIndex": 2,
+      "explanation": "私たち đọc là わたしたち = Chúng tôi"
+    },
+    {
+      "id": 32,
+      "prompt": "あの人",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Nhân viên công ty",
+        "Rất hân hạnh được gặp",
+        "Người kia",
+        "Rất mong được giúp đỡ"
+      ],
+      "correctIndex": 2,
+      "explanation": "あの人【あのひと】= Người kia"
+    },
+    {
+      "id": 33,
+      "prompt": "あの方",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "～じん",
+        "なんさい",
+        "～くん",
+        "あのかた"
+      ],
+      "correctIndex": 3,
+      "explanation": "あの方 đọc là あのかた = Vị kia (lịch sự)"
+    },
+    {
+      "id": 34,
+      "prompt": "皆さん",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Người kia",
+        "Cậu (cho bé trai/bạn nam)",
+        "Mọi người, các bạn",
+        "Điện, đèn"
+      ],
+      "correctIndex": 2,
+      "explanation": "皆さん【みなさん】= Mọi người, các bạn"
+    },
+    {
+      "id": 35,
+      "prompt": "～君",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "しつれいですが",
+        "～くん",
+        "おなまえは",
+        "だいがく"
+      ],
+      "correctIndex": 1,
+      "explanation": "～君 đọc là ～くん = Cậu (cho bé trai/bạn nam)"
+    },
+    {
+      "id": 36,
+      "prompt": "～人",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Rất mong được giúp đỡ",
+        "Đến từ nước ~",
+        "Nhân viên ngân hàng",
+        "Người nước..."
+      ],
+      "correctIndex": 3,
+      "explanation": "～人【～じん】= Người nước..."
+    },
+    {
+      "id": 37,
+      "prompt": "先生",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "せんせい",
+        "わたしたち",
+        "～からきました",
+        "ぎんこういん"
+      ],
+      "correctIndex": 0,
+      "explanation": "先生 đọc là せんせい = Thầy/Cô giáo"
+    },
+    {
+      "id": 38,
+      "prompt": "教師",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Nhân viên công ty",
+        "Xin lỗi (làm phiền)...",
+        "Giáo viên (nghề)",
+        "Tên của bạn là gì?"
+      ],
+      "correctIndex": 2,
+      "explanation": "教師【きょうし】= Giáo viên (nghề)"
+    },
+    {
+      "id": 39,
+      "prompt": "学生",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "しつれいですが",
+        "～さい",
+        "がくせい",
+        "かんこく"
+      ],
+      "correctIndex": 2,
+      "explanation": "学生 đọc là がくせい = Học sinh, sinh viên"
+    },
+    {
+      "id": 40,
+      "prompt": "会社員",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Xin lỗi (làm phiền)...",
+        "Nhân viên công ty",
+        "Ai",
+        "Người nước..."
+      ],
+      "correctIndex": 1,
+      "explanation": "会社員【かいしゃいん】= Nhân viên công ty"
+    },
+    {
+      "id": 41,
+      "prompt": "社員",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "あのひと",
+        "～さい",
+        "かんこく",
+        "しゃいん"
+      ],
+      "correctIndex": 3,
+      "explanation": "社員 đọc là しゃいん = Nhân viên của công ty ~"
+    },
+    {
+      "id": 42,
+      "prompt": "銀行員",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Học sinh, sinh viên",
+        "Điện, đèn",
+        "Đại học",
+        "Nhân viên ngân hàng"
+      ],
+      "correctIndex": 3,
+      "explanation": "銀行員【ぎんこういん】= Nhân viên ngân hàng"
+    },
+    {
+      "id": 43,
+      "prompt": "医者",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "いしゃ",
+        "わたしたち",
+        "ぎんこういん",
+        "おなまえは"
+      ],
+      "correctIndex": 0,
+      "explanation": "医者 đọc là いしゃ = Bác sĩ"
+    },
+    {
+      "id": 44,
+      "prompt": "研究者",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Nhà nghiên cứu",
+        "Điện, đèn",
+        "Giáo viên (nghề)",
+        "~ tuổi"
+      ],
+      "correctIndex": 0,
+      "explanation": "研究者【けんきゅうしゃ】= Nhà nghiên cứu"
+    },
+    {
+      "id": 45,
+      "prompt": "大学",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "～くん",
+        "でんき",
+        "きょうし",
+        "だいがく"
+      ],
+      "correctIndex": 3,
+      "explanation": "大学 đọc là だいがく = Đại học"
+    },
+    {
+      "id": 46,
+      "prompt": "病院",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Nhà nghiên cứu",
+        "Nhật Bản",
+        "Điện, đèn",
+        "Bệnh viện"
+      ],
+      "correctIndex": 3,
+      "explanation": "病院【びょういん】= Bệnh viện"
+    },
+    {
+      "id": 47,
+      "prompt": "電気",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "きょうし",
+        "でんき",
+        "がくせい",
+        "ちゅうごく"
+      ],
+      "correctIndex": 1,
+      "explanation": "電気 đọc là でんき = Điện, đèn"
+    },
+    {
+      "id": 48,
+      "prompt": "誰",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Ai",
+        "Người kia",
+        "Điện, đèn",
+        "Bác sĩ"
+      ],
+      "correctIndex": 0,
+      "explanation": "誰【だれ】= Ai"
+    },
+    {
+      "id": 49,
+      "prompt": "～歳",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "だれ",
+        "せんせい",
+        "かんこく",
+        "～さい"
+      ],
+      "correctIndex": 3,
+      "explanation": "～歳 đọc là ～さい = ~ tuổi"
+    },
+    {
+      "id": 50,
+      "prompt": "何歳",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Bao nhiêu tuổi",
+        "Tên của bạn là gì?",
+        "Tôi",
+        "Xin lỗi (làm phiền)..."
+      ],
+      "correctIndex": 0,
+      "explanation": "何歳【なんさい】= Bao nhiêu tuổi"
+    },
+    {
+      "id": 51,
+      "prompt": "初めまして",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "はじめまして",
+        "わたし",
+        "だいがく",
+        "がくせい"
+      ],
+      "correctIndex": 0,
+      "explanation": "初めまして đọc là はじめまして = Rất hân hạnh được gặp"
+    },
+    {
+      "id": 52,
+      "prompt": "どうぞよろしくお願いします",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Bác sĩ",
+        "Người kia",
+        "Rất mong được giúp đỡ",
+        "Bệnh viện"
+      ],
+      "correctIndex": 2,
+      "explanation": "どうぞよろしくお願いします【どうぞよろしくおねがいします】= Rất mong được giúp đỡ"
+    },
+    {
+      "id": 53,
+      "prompt": "失礼ですが",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "しつれいですが",
+        "みなさん",
+        "～からきました",
+        "あのひと"
+      ],
+      "correctIndex": 0,
+      "explanation": "失礼ですが đọc là しつれいですが = Xin lỗi (làm phiền)..."
+    },
+    {
+      "id": 54,
+      "prompt": "お名前は",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Chúng tôi",
+        "Tên của bạn là gì?",
+        "Người kia",
+        "~ tuổi"
+      ],
+      "correctIndex": 1,
+      "explanation": "お名前は【おなまえは】= Tên của bạn là gì?"
+    },
+    {
+      "id": 55,
+      "prompt": "～から来ました",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "だいがく",
+        "けんきゅうしゃ",
+        "がくせい",
+        "～からきました"
+      ],
+      "correctIndex": 3,
+      "explanation": "～から来ました đọc là ～からきました = Đến từ nước ~"
+    },
+    {
+      "id": 56,
+      "prompt": "韓国",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Bao nhiêu tuổi",
+        "Rất mong được giúp đỡ",
+        "Học sinh, sinh viên",
+        "Hàn Quốc"
+      ],
+      "correctIndex": 3,
+      "explanation": "韓国【かんこく】= Hàn Quốc"
+    },
+    {
+      "id": 57,
+      "prompt": "中国",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ぎんこういん",
+        "だいがく",
+        "ちゅうごく",
+        "かいしゃいん"
+      ],
+      "correctIndex": 2,
+      "explanation": "中国 đọc là ちゅうごく = Trung Quốc"
+    },
+    {
+      "id": 58,
+      "prompt": "日本",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Xin lỗi (làm phiền)...",
+        "Nhật Bản",
+        "Bệnh viện",
+        "Rất mong được giúp đỡ"
+      ],
+      "correctIndex": 1,
+      "explanation": "日本【にほん】= Nhật Bản"
+    },
+    {
+      "id": 59,
+      "prompt": "私",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ちゅうごく",
+        "がくせい",
+        "わたし",
+        "おなまえは"
+      ],
+      "correctIndex": 2,
+      "explanation": "私 đọc là わたし = Tôi"
+    },
+    {
+      "id": 60,
+      "prompt": "私たち",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Bác sĩ",
+        "Chúng tôi",
+        "Cậu (cho bé trai/bạn nam)",
+        "Bệnh viện"
+      ],
+      "correctIndex": 1,
+      "explanation": "私たち【わたしたち】= Chúng tôi"
+    }
+  ]
+}

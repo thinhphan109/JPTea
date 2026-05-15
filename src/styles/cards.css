@@ -1,0 +1,173 @@
+/* ===== Lesson Cards + Quiz Type Cards ===== */
+
+/* --- Lesson Grid --- */
+.hero {
+  text-align: center;
+  padding: var(--space-12) 0 var(--space-6);
+}
+
+.hero__title { font-size: var(--text-4xl); margin-bottom: var(--space-3); }
+.hero__subtitle { font-size: var(--text-lg); color: var(--color-text-secondary); max-width: 500px; margin: 0 auto; }
+
+.lesson-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(175px, 1fr));
+  gap: var(--space-4);
+  padding: var(--space-6) 0 var(--space-16);
+}
+
+.lesson-card {
+  background: var(--color-bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-2xl);
+  padding: var(--space-6);
+  cursor: pointer;
+  transition: all var(--transition-base);
+  position: relative;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  box-shadow: var(--shadow-card);
+}
+
+.lesson-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: var(--gradient-accent);
+  opacity: 0;
+  transition: opacity var(--transition-base);
+}
+
+.lesson-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg);
+}
+
+.lesson-card:hover::before { opacity: 1; }
+
+.lesson-card__number {
+  font-size: var(--text-3xl);
+  font-weight: var(--weight-bold);
+  color: var(--color-accent);
+  margin-bottom: var(--space-2);
+}
+
+.lesson-card__title {
+  font-size: var(--text-sm);
+  color: var(--color-text-secondary);
+  font-family: var(--font-jp);
+  line-height: var(--leading-relaxed);
+}
+
+.lesson-card__title-vi {
+  font-size: var(--text-xs);
+  color: var(--color-text-muted);
+  margin-top: var(--space-1);
+}
+
+.lesson-card__progress {
+  margin-top: var(--space-4);
+  height: 3px;
+  background: var(--color-bg-elevated);
+  border-radius: var(--radius-full);
+  overflow: hidden;
+}
+
+.lesson-card__progress-bar {
+  height: 100%;
+  background: var(--gradient-teal);
+  border-radius: var(--radius-full);
+  transition: width var(--transition-slow);
+}
+
+/* --- Lesson Header --- */
+.lesson-header { padding: var(--space-10) 0 var(--space-4); }
+
+.lesson-header__badge {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-2) var(--space-4);
+  background: var(--color-accent-subtle);
+  border-radius: var(--radius-full);
+  font-size: var(--text-sm);
+  color: var(--color-accent);
+  margin-bottom: var(--space-4);
+  font-weight: var(--weight-medium);
+}
+
+.lesson-header__title { font-size: var(--text-3xl); margin-bottom: var(--space-2); }
+.lesson-header__subtitle { color: var(--color-text-secondary); font-family: var(--font-jp); }
+
+/* --- Quiz Type Cards --- */
+.quiz-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: var(--space-5);
+  padding: var(--space-6) 0 var(--space-16);
+}
+
+.quiz-card {
+  background: var(--color-bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-2xl);
+  padding: var(--space-6) var(--space-8);
+  cursor: pointer;
+  transition: all var(--transition-base);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  text-decoration: none;
+  color: inherit;
+  position: relative;
+  overflow: hidden;
+  box-shadow: var(--shadow-card);
+}
+
+.quiz-card::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 4px;
+}
+
+.quiz-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-lg); }
+
+.quiz-card--vocab::before { background: var(--color-accent); }
+.quiz-card--practice::before { background: var(--color-teal); }
+.quiz-card--reading::before { background: var(--color-gold); }
+.quiz-card--grammar::before { background: var(--color-purple); }
+.quiz-card--kanji::before { background: var(--color-orange); }
+
+.quiz-card__icon {
+  font-size: var(--text-2xl);
+  width: 48px; height: 48px;
+  display: flex; align-items: center; justify-content: center;
+  border-radius: var(--radius-xl);
+}
+
+.quiz-card--vocab .quiz-card__icon { background: var(--color-accent-subtle); }
+.quiz-card--practice .quiz-card__icon { background: var(--color-teal-subtle); }
+.quiz-card--reading .quiz-card__icon { background: var(--color-gold-subtle); }
+.quiz-card--grammar .quiz-card__icon { background: var(--color-purple-subtle); }
+.quiz-card--kanji .quiz-card__icon { background: var(--color-orange-subtle); }
+
+.quiz-card__title { font-size: var(--text-lg); font-weight: var(--weight-semibold); }
+.quiz-card__desc { font-size: var(--text-sm); color: var(--color-text-secondary); line-height: var(--leading-relaxed); }
+
+.quiz-card__meta {
+  display: flex; align-items: center; gap: var(--space-3);
+  font-size: var(--text-xs); color: var(--color-text-muted);
+  margin-top: auto; padding-top: var(--space-3);
+  border-top: 1px solid var(--border-subtle);
+}
+
+/* --- Responsive --- */
+@media (max-width: 768px) {
+  .lesson-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: var(--space-3); }
+  .quiz-grid { grid-template-columns: 1fr; }
+  .hero__title { font-size: var(--text-3xl); }
+}

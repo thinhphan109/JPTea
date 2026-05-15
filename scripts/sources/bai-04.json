@@ -1,0 +1,86 @@
+{
+  "lesson": 4,
+  "title": "いま 何時ですか",
+  "titleVi": "Bây giờ mấy giờ?",
+  "source": "Minna no Nihongo Sơ cấp I — Lesson 4",
+  "vocab": [
+    { "kanji": "今", "kana": "いま", "vi": "Bây giờ", "en": "now", "pos": "danh từ" },
+    { "kanji": "～時", "kana": "～じ", "vi": "~ giờ", "en": "~ o'clock", "pos": "hậu tố" },
+    { "kanji": "～分", "kana": "～ふん／～ぷん", "vi": "~ phút", "en": "~ minute", "pos": "hậu tố" },
+    { "kanji": "半", "kana": "はん", "vi": "Rưỡi (30 phút)", "en": "half past", "pos": "danh từ" },
+    { "kanji": "何時", "kana": "なんじ", "vi": "Mấy giờ", "en": "what time", "pos": "đại từ" },
+    { "kanji": "何分", "kana": "なんぷん", "vi": "Bao nhiêu phút", "en": "how many minutes", "pos": "đại từ" },
+    { "kanji": "午前", "kana": "ごぜん", "vi": "Sáng (a.m.)", "en": "AM", "pos": "danh từ" },
+    { "kanji": "午後", "kana": "ごご", "vi": "Chiều (p.m.)", "en": "PM", "pos": "danh từ" },
+    { "kanji": "朝", "kana": "あさ", "vi": "Buổi sáng", "en": "morning", "pos": "danh từ" },
+    { "kanji": "昼", "kana": "ひる", "vi": "Buổi trưa, ban ngày", "en": "noon, daytime", "pos": "danh từ" },
+    { "kanji": "晩", "kana": "ばん", "vi": "Buổi tối", "en": "evening", "pos": "danh từ" },
+    { "kanji": "夜", "kana": "よる", "vi": "Ban đêm", "en": "night", "pos": "danh từ" },
+    { "kanji": "おととい", "kana": "おととい", "vi": "Hôm kia", "en": "day before yesterday", "pos": "danh từ" },
+    { "kanji": "昨日", "kana": "きのう", "vi": "Hôm qua", "en": "yesterday", "pos": "danh từ" },
+    { "kanji": "今日", "kana": "きょう", "vi": "Hôm nay", "en": "today", "pos": "danh từ" },
+    { "kanji": "明日", "kana": "あした", "vi": "Ngày mai", "en": "tomorrow", "pos": "danh từ" },
+    { "kanji": "あさって", "kana": "あさって", "vi": "Ngày kia", "en": "day after tomorrow", "pos": "danh từ" },
+    { "kanji": "今朝", "kana": "けさ", "vi": "Sáng nay", "en": "this morning", "pos": "danh từ" },
+    { "kanji": "今晩", "kana": "こんばん", "vi": "Tối nay", "en": "tonight", "pos": "danh từ" },
+    { "kanji": "毎日", "kana": "まいにち", "vi": "Mỗi ngày", "en": "every day", "pos": "danh từ" },
+    { "kanji": "毎朝", "kana": "まいあさ", "vi": "Mỗi sáng", "en": "every morning", "pos": "danh từ" },
+    { "kanji": "毎晩", "kana": "まいばん", "vi": "Mỗi tối", "en": "every night", "pos": "danh từ" },
+    { "kanji": "起きます", "kana": "おきます", "vi": "Thức dậy", "en": "wake up", "pos": "động từ" },
+    { "kanji": "寝ます", "kana": "ねます", "vi": "Đi ngủ", "en": "sleep, go to bed", "pos": "động từ" },
+    { "kanji": "働きます", "kana": "はたらきます", "vi": "Làm việc", "en": "work", "pos": "động từ" },
+    { "kanji": "休みます", "kana": "やすみます", "vi": "Nghỉ ngơi", "en": "rest, take a holiday", "pos": "động từ" },
+    { "kanji": "勉強します", "kana": "べんきょうします", "vi": "Học", "en": "study", "pos": "động từ" },
+    { "kanji": "終わります", "kana": "おわります", "vi": "Kết thúc", "en": "finish", "pos": "động từ" },
+    { "kanji": "始まります", "kana": "はじまります", "vi": "Bắt đầu", "en": "begin", "pos": "động từ" },
+    { "kanji": "デパート", "kana": "デパート", "vi": "Cửa hàng bách hóa", "en": "department store", "pos": "danh từ" },
+    { "kanji": "銀行", "kana": "ぎんこう", "vi": "Ngân hàng", "en": "bank", "pos": "danh từ" },
+    { "kanji": "郵便局", "kana": "ゆうびんきょく", "vi": "Bưu điện", "en": "post office", "pos": "danh từ" },
+    { "kanji": "図書館", "kana": "としょかん", "vi": "Thư viện", "en": "library", "pos": "danh từ" },
+    { "kanji": "美術館", "kana": "びじゅつかん", "vi": "Bảo tàng nghệ thuật", "en": "art museum", "pos": "danh từ" },
+    { "kanji": "月曜日", "kana": "げつようび", "vi": "Thứ Hai", "en": "Monday", "pos": "danh từ" },
+    { "kanji": "火曜日", "kana": "かようび", "vi": "Thứ Ba", "en": "Tuesday", "pos": "danh từ" },
+    { "kanji": "水曜日", "kana": "すいようび", "vi": "Thứ Tư", "en": "Wednesday", "pos": "danh từ" },
+    { "kanji": "木曜日", "kana": "もくようび", "vi": "Thứ Năm", "en": "Thursday", "pos": "danh từ" },
+    { "kanji": "金曜日", "kana": "きんようび", "vi": "Thứ Sáu", "en": "Friday", "pos": "danh từ" },
+    { "kanji": "土曜日", "kana": "どようび", "vi": "Thứ Bảy", "en": "Saturday", "pos": "danh từ" },
+    { "kanji": "日曜日", "kana": "にちようび", "vi": "Chủ Nhật", "en": "Sunday", "pos": "danh từ" },
+    { "kanji": "何曜日", "kana": "なんようび", "vi": "Thứ mấy", "en": "what day of the week", "pos": "đại từ" }
+  ],
+  "grammar": [
+    {
+      "title": "Hỏi giờ: 今 何時ですか",
+      "structure": "今 何時ですか",
+      "viExplain": "Bây giờ mấy giờ rồi?",
+      "examples": [
+        { "jp": "今 何時ですか", "kana": "いま なんじですか", "vi": "Bây giờ mấy giờ?" },
+        { "jp": "9時半です", "kana": "くじはんです", "vi": "9 giờ rưỡi" }
+      ]
+    },
+    {
+      "title": "～時に + Động từ",
+      "structure": "～時に + V",
+      "viExplain": "Vào lúc ~ giờ làm gì (に là trợ từ chỉ thời điểm)",
+      "examples": [
+        { "jp": "7時に起きます", "kana": "しちじにおきます", "vi": "7 giờ thức dậy" },
+        { "jp": "11時に寝ます", "kana": "じゅういちじにねます", "vi": "11 giờ đi ngủ" }
+      ]
+    },
+    {
+      "title": "N から N まで",
+      "structure": "N1 から N2 まで",
+      "viExplain": "Từ N1 đến N2 (chỉ thời gian/nơi chốn)",
+      "examples": [
+        { "jp": "9時から5時まで働きます", "kana": "くじからごじまではたらきます", "vi": "Làm việc từ 9h đến 5h" }
+      ]
+    },
+    {
+      "title": "～曜日 (thứ trong tuần)",
+      "structure": "N + 曜日に",
+      "viExplain": "Vào thứ ~",
+      "examples": [
+        { "jp": "土曜日に休みます", "kana": "どようびにやすみます", "vi": "Nghỉ vào thứ Bảy" }
+      ]
+    }
+  ]
+}

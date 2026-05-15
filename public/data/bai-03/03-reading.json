@@ -1,0 +1,279 @@
+{
+  "title": "Đọc hiểu — Bài 3: ここ・そこ・あそこ",
+  "type": "reading",
+  "questions": [
+    {
+      "id": 1,
+      "passageHtml": "<div class=\"quiz-question__passage\"><ruby>私<rt>わたし</rt></ruby>はマイクです。アメリカから<ruby>来<rt>き</rt></ruby>ました。<ruby>会社員<rt>かいしゃいん</rt></ruby>です。<ruby>初<rt>はじ</rt></ruby>めまして。どうぞよろしくお<ruby>願<rt>ねが</rt></ruby>いします。</div>",
+      "prompt": "マイクさんは何人ですか?",
+      "options": [
+        "Rượu vang",
+        "Phòng học",
+        "Mỹ",
+        "Điện thoại"
+      ],
+      "correctIndex": 2,
+      "explanation": "アメリカから来ました = đến từ Mỹ"
+    },
+    {
+      "id": 2,
+      "passageHtml": "<div class=\"quiz-question__passage\"><ruby>私<rt>わたし</rt></ruby>はマイクです。アメリカから<ruby>来<rt>き</rt></ruby>ました。<ruby>会社員<rt>かいしゃいん</rt></ruby>です。<ruby>初<rt>はじ</rt></ruby>めまして。どうぞよろしくお<ruby>願<rt>ねが</rt></ruby>いします。</div>",
+      "prompt": "マイクさんの仕事は?",
+      "options": [
+        "Phòng học",
+        "Thang cuốn",
+        "Nhân viên công ty",
+        "Điện thoại"
+      ],
+      "correctIndex": 2,
+      "explanation": "会社員 = nhân viên công ty"
+    },
+    {
+      "id": 3,
+      "passageHtml": "<div class=\"quiz-question__passage\"><ruby>私<rt>わたし</rt></ruby>はマイクです。アメリカから<ruby>来<rt>き</rt></ruby>ました。<ruby>会社員<rt>かいしゃいん</rt></ruby>です。<ruby>初<rt>はじ</rt></ruby>めまして。どうぞよろしくお<ruby>願<rt>ねが</rt></ruby>いします。</div>",
+      "prompt": "マイクさんの初対面の挨拶は?",
+      "options": [
+        "Ở đâu",
+        "Rất hân hạnh được gặp",
+        "Rượu vang",
+        "Tầng mấy"
+      ],
+      "correctIndex": 1,
+      "explanation": "初めまして = rất hân hạnh được gặp"
+    },
+    {
+      "id": 4,
+      "passageHtml": "<div class=\"quiz-question__passage\"><ruby>私<rt>わたし</rt></ruby>はマイクです。アメリカから<ruby>来<rt>き</rt></ruby>ました。<ruby>会社員<rt>かいしゃいん</rt></ruby>です。<ruby>初<rt>はじ</rt></ruby>めまして。どうぞよろしくお<ruby>願<rt>ねが</rt></ruby>いします。</div>",
+      "prompt": "マイクさんは学生ですか?",
+      "options": [
+        "Văn phòng",
+        "Nhà vệ sinh",
+        "~ yên",
+        "Không"
+      ],
+      "correctIndex": 3,
+      "explanation": "Không phải. Anh ấy là 会社員"
+    },
+    {
+      "id": 5,
+      "passageHtml": "<div class=\"quiz-question__passage\"><ruby>私<rt>わたし</rt></ruby>はマイクです。アメリカから<ruby>来<rt>き</rt></ruby>ました。<ruby>会社員<rt>かいしゃいん</rt></ruby>です。<ruby>初<rt>はじ</rt></ruby>めまして。どうぞよろしくお<ruby>願<rt>ねが</rt></ruby>いします。</div>",
+      "prompt": "マイクさんの国籍は?",
+      "options": [
+        "Mỹ",
+        "Bao nhiêu tiền",
+        "Phía đó (lịch sự)",
+        "Tầng hầm"
+      ],
+      "correctIndex": 0,
+      "explanation": "アメリカ人 = người Mỹ"
+    },
+    {
+      "id": 6,
+      "passageHtml": "<div class=\"quiz-question__passage\"><ruby>私<rt>わたし</rt></ruby>はマイクです。アメリカから<ruby>来<rt>き</rt></ruby>ました。<ruby>会社員<rt>かいしゃいん</rt></ruby>です。<ruby>初<rt>はじ</rt></ruby>めまして。どうぞよろしくお<ruby>願<rt>ねが</rt></ruby>いします。</div>",
+      "prompt": "マイクさんは医者ですか?",
+      "options": [
+        "Ở đó (gần người nghe)",
+        "Không",
+        "Phòng họp",
+        "Nhà vệ sinh"
+      ],
+      "correctIndex": 1,
+      "explanation": "医者 không xuất hiện"
+    },
+    {
+      "id": 7,
+      "passageHtml": "<div class=\"quiz-question__passage\"><ruby>私<rt>わたし</rt></ruby>はマイクです。アメリカから<ruby>来<rt>き</rt></ruby>ました。<ruby>会社員<rt>かいしゃいん</rt></ruby>です。<ruby>初<rt>はじ</rt></ruby>めまして。どうぞよろしくお<ruby>願<rt>ねが</rt></ruby>いします。</div>",
+      "prompt": "マイクさんは何と挨拶しましたか?",
+      "options": [
+        "Cà vạt",
+        "Phòng",
+        "Rất mong được giúp đỡ",
+        "Quầy bán hàng"
+      ],
+      "correctIndex": 2,
+      "explanation": "よろしくお願いします"
+    },
+    {
+      "id": 8,
+      "passageHtml": "<div class=\"quiz-question__passage\"><ruby>田中<rt>たなか</rt></ruby>さんは<ruby>日本人<rt>にほんじん</rt></ruby>です。<ruby>先生<rt>せんせい</rt></ruby>です。<ruby>大学<rt>だいがく</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。25<ruby>歳<rt>さい</rt></ruby>です。</div>",
+      "prompt": "田中さんの国は?",
+      "options": [
+        "Phía này (lịch sự)",
+        "Ở kia (xa cả hai)",
+        "Thang cuốn",
+        "Nhật Bản"
+      ],
+      "correctIndex": 3,
+      "explanation": "日本人 = người Nhật"
+    },
+    {
+      "id": 9,
+      "passageHtml": "",
+      "prompt": "田中さんの仕事は?",
+      "options": [
+        "Thang cuốn",
+        "Vạn (10.000)",
+        "Rượu vang",
+        "Thầy/Cô giáo"
+      ],
+      "correctIndex": 3,
+      "explanation": "先生 = giáo viên"
+    },
+    {
+      "id": 10,
+      "passageHtml": "",
+      "prompt": "田中さんはどこで働きますか?",
+      "options": [
+        "Nhà (của mình)",
+        "Đại học",
+        "Trăm",
+        "Sảnh"
+      ],
+      "correctIndex": 1,
+      "explanation": "大学 = đại học"
+    },
+    {
+      "id": 11,
+      "passageHtml": "",
+      "prompt": "田中さんは何歳ですか?",
+      "options": [
+        "Phòng họp",
+        "Ở đây (gần người nói)",
+        "~ yên",
+        "25 tuổi"
+      ],
+      "correctIndex": 3,
+      "explanation": "25歳 = 25 tuổi"
+    },
+    {
+      "id": 12,
+      "passageHtml": "",
+      "prompt": "田中さんは医者ですか?",
+      "options": [
+        "Không",
+        "Bao nhiêu tiền",
+        "Nhà (của mình)",
+        "Cầu thang"
+      ],
+      "correctIndex": 0,
+      "explanation": "Là 先生, không phải 医者"
+    },
+    {
+      "id": 13,
+      "passageHtml": "",
+      "prompt": "田中さんは学生ですか?",
+      "options": [
+        "Không",
+        "Phía đó (lịch sự)",
+        "Nhà vệ sinh",
+        "Giày"
+      ],
+      "correctIndex": 0,
+      "explanation": "Là 先生 (giáo viên)"
+    },
+    {
+      "id": 14,
+      "passageHtml": "",
+      "prompt": "田中さんはアメリカ人ですか?",
+      "options": [
+        "Phòng họp",
+        "Quầy lễ tân",
+        "Không",
+        "Công ty"
+      ],
+      "correctIndex": 2,
+      "explanation": "日本人 = người Nhật"
+    },
+    {
+      "id": 15,
+      "passageHtml": "<div class=\"quiz-question__passage\">リンさんはベトナム<ruby>人<rt>じん</rt></ruby>です。<ruby>学生<rt>がくせい</rt></ruby>です。<ruby>東京<rt>とうきょう</rt></ruby>大学の学生です。20歳です。</div>",
+      "prompt": "リンさんの国は?",
+      "options": [
+        "Việt Nam",
+        "Ở đó (gần người nghe)",
+        "Giày",
+        "Phía đó (lịch sự)"
+      ],
+      "correctIndex": 0,
+      "explanation": "ベトナム人 = người Việt"
+    },
+    {
+      "id": 16,
+      "passageHtml": "",
+      "prompt": "リンさんの仕事は?",
+      "options": [
+        "Học sinh, sinh viên",
+        "Ở đây (gần người nói)",
+        "Công ty",
+        "Quầy lễ tân"
+      ],
+      "correctIndex": 0,
+      "explanation": "学生 = sinh viên"
+    },
+    {
+      "id": 17,
+      "passageHtml": "",
+      "prompt": "リンさんはどこの大学?",
+      "options": [
+        "Nhà ăn, canteen",
+        "Thang máy",
+        "Đại học (Tokyo)",
+        "Phía này (lịch sự)"
+      ],
+      "correctIndex": 2,
+      "explanation": "東京大学 = ĐH Tokyo"
+    },
+    {
+      "id": 18,
+      "passageHtml": "",
+      "prompt": "リンさんは何歳?",
+      "options": [
+        "20 tuổi",
+        "Tầng hầm",
+        "Cà vạt",
+        "Thang cuốn"
+      ],
+      "correctIndex": 0,
+      "explanation": "20歳 = 20 tuổi"
+    },
+    {
+      "id": 19,
+      "passageHtml": "",
+      "prompt": "リンさんは先生ですか?",
+      "options": [
+        "Nghìn",
+        "Không",
+        "Rượu vang",
+        "Quà lưu niệm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Là 学生 (sinh viên)"
+    },
+    {
+      "id": 20,
+      "passageHtml": "",
+      "prompt": "リンさんは中国人ですか?",
+      "options": [
+        "Phía này (lịch sự)",
+        "Điện thoại",
+        "Phía nào (lịch sự)",
+        "Không"
+      ],
+      "correctIndex": 3,
+      "explanation": "Là ベトナム人"
+    },
+    {
+      "id": 21,
+      "passageHtml": "",
+      "prompt": "リンさんは会社員ですか?",
+      "options": [
+        "Quầy lễ tân",
+        "Không",
+        "Nhà ăn, canteen",
+        "Phía nào (lịch sự)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Là 学生"
+    }
+  ]
+}

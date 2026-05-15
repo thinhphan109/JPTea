@@ -1,0 +1,968 @@
+{
+  "title": "Từ vựng luyện tập — Bài 3: ここ・そこ・あそこ",
+  "type": "vocab-practice",
+  "questions": [
+    {
+      "id": 1,
+      "prompt": "ここ",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Quà lưu niệm",
+        "Ở đây (gần người nói)",
+        "Phòng họp",
+        "Quầy bán hàng"
+      ],
+      "correctIndex": 1,
+      "explanation": "ここ【ここ】= Ở đây (gần người nói)"
+    },
+    {
+      "id": 2,
+      "prompt": "Ở đó (gần người nghe)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "地下",
+        "エスカレーター",
+        "そこ",
+        "売り場"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ở đó (gần người nghe) = そこ【そこ】"
+    },
+    {
+      "id": 3,
+      "prompt": "あそこ",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Nước, quốc gia",
+        "Phòng học",
+        "Ở kia (xa cả hai)",
+        "Sảnh"
+      ],
+      "correctIndex": 2,
+      "explanation": "あそこ【あそこ】= Ở kia (xa cả hai)"
+    },
+    {
+      "id": 4,
+      "prompt": "Ở đâu",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "ワイン",
+        "どこ",
+        "会社",
+        "ロビー"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ở đâu = どこ【どこ】"
+    },
+    {
+      "id": 5,
+      "prompt": "こちら",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Phòng học",
+        "Quà lưu niệm",
+        "Phía này (lịch sự)",
+        "Thang cuốn"
+      ],
+      "correctIndex": 2,
+      "explanation": "こちら【こちら】= Phía này (lịch sự)"
+    },
+    {
+      "id": 6,
+      "prompt": "Phía đó (lịch sự)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "そちら",
+        "教室",
+        "うち",
+        "エレベーター"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phía đó (lịch sự) = そちら【そちら】"
+    },
+    {
+      "id": 7,
+      "prompt": "あちら",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Phía kia (lịch sự)",
+        "Tầng mấy",
+        "Nhà vệ sinh",
+        "Nhà (của mình)"
+      ],
+      "correctIndex": 0,
+      "explanation": "あちら【あちら】= Phía kia (lịch sự)"
+    },
+    {
+      "id": 8,
+      "prompt": "Phía nào (lịch sự)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "どちら",
+        "ここ",
+        "地下",
+        "千"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phía nào (lịch sự) = どちら【どちら】"
+    },
+    {
+      "id": 9,
+      "prompt": "教室",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Quầy lễ tân",
+        "Ở đâu",
+        "Phòng học",
+        "Vạn (10.000)"
+      ],
+      "correctIndex": 2,
+      "explanation": "教室【きょうしつ】= Phòng học"
+    },
+    {
+      "id": 10,
+      "prompt": "Nhà ăn, canteen",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "ここ",
+        "食堂",
+        "万",
+        "百"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nhà ăn, canteen = 食堂【しょくどう】"
+    },
+    {
+      "id": 11,
+      "prompt": "事務所",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Văn phòng",
+        "Thang máy",
+        "Ở đó (gần người nghe)",
+        "Tầng mấy"
+      ],
+      "correctIndex": 0,
+      "explanation": "事務所【じむしょ】= Văn phòng"
+    },
+    {
+      "id": 12,
+      "prompt": "Phòng họp",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "会議室",
+        "万",
+        "そちら",
+        "どこ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phòng họp = 会議室【かいぎしつ】"
+    },
+    {
+      "id": 13,
+      "prompt": "受付",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Phòng học",
+        "Nước, quốc gia",
+        "Quầy lễ tân",
+        "Giày"
+      ],
+      "correctIndex": 2,
+      "explanation": "受付【うけつけ】= Quầy lễ tân"
+    },
+    {
+      "id": 14,
+      "prompt": "Sảnh",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "教室",
+        "ロビー",
+        "電話",
+        "いくら"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sảnh = ロビー【ロビー】"
+    },
+    {
+      "id": 15,
+      "prompt": "部屋",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Thang cuốn",
+        "Phòng",
+        "Nhà vệ sinh",
+        "Phía này (lịch sự)"
+      ],
+      "correctIndex": 1,
+      "explanation": "部屋【へや】= Phòng"
+    },
+    {
+      "id": 16,
+      "prompt": "Nhà vệ sinh",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "電話",
+        "受付",
+        "トイレ",
+        "千"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nhà vệ sinh = トイレ【トイレ】"
+    },
+    {
+      "id": 17,
+      "prompt": "お手洗い",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "~ yên",
+        "Quầy lễ tân",
+        "Giày",
+        "Nhà vệ sinh (lịch sự)"
+      ],
+      "correctIndex": 3,
+      "explanation": "お手洗い【おてあらい】= Nhà vệ sinh (lịch sự)"
+    },
+    {
+      "id": 18,
+      "prompt": "Cầu thang",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "あそこ",
+        "お手洗い",
+        "どこ",
+        "階段"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cầu thang = 階段【かいだん】"
+    },
+    {
+      "id": 19,
+      "prompt": "エレベーター",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Giày",
+        "Nhà ăn, canteen",
+        "Thang máy",
+        "Phía này (lịch sự)"
+      ],
+      "correctIndex": 2,
+      "explanation": "エレベーター【エレベーター】= Thang máy"
+    },
+    {
+      "id": 20,
+      "prompt": "Thang cuốn",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "どこ",
+        "エスカレーター",
+        "事務所",
+        "ネクタイ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thang cuốn = エスカレーター【エスカレーター】"
+    },
+    {
+      "id": 21,
+      "prompt": "売り場",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Quầy bán hàng",
+        "Thang cuốn",
+        "Điện thoại",
+        "Phía nào (lịch sự)"
+      ],
+      "correctIndex": 0,
+      "explanation": "売り場【うりば】= Quầy bán hàng"
+    },
+    {
+      "id": 22,
+      "prompt": "Tầng hầm",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "お土産",
+        "地下",
+        "会社",
+        "エスカレーター"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tầng hầm = 地下【ちか】"
+    },
+    {
+      "id": 23,
+      "prompt": "～階",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Phòng họp",
+        "Nhà vệ sinh (lịch sự)",
+        "Tầng mấy",
+        "Tầng ~"
+      ],
+      "correctIndex": 3,
+      "explanation": "～階【～かい】= Tầng ~"
+    },
+    {
+      "id": 24,
+      "prompt": "Tầng mấy",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "国",
+        "そちら",
+        "何階",
+        "売り場"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tầng mấy = 何階【なんがい】"
+    },
+    {
+      "id": 25,
+      "prompt": "～円",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Công ty",
+        "Thang máy",
+        "~ yên",
+        "Nghìn"
+      ],
+      "correctIndex": 2,
+      "explanation": "～円【～えん】= ~ yên"
+    },
+    {
+      "id": 26,
+      "prompt": "Bao nhiêu tiền",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "地下",
+        "いくら",
+        "食堂",
+        "ここ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bao nhiêu tiền = いくら【いくら】"
+    },
+    {
+      "id": 27,
+      "prompt": "百",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Trăm",
+        "Quầy bán hàng",
+        "Phía này (lịch sự)",
+        "Phía nào (lịch sự)"
+      ],
+      "correctIndex": 0,
+      "explanation": "百【ひゃく】= Trăm"
+    },
+    {
+      "id": 28,
+      "prompt": "Nghìn",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "何階",
+        "千",
+        "教室",
+        "部屋"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nghìn = 千【せん】"
+    },
+    {
+      "id": 29,
+      "prompt": "万",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Phía đó (lịch sự)",
+        "Tầng mấy",
+        "Phòng",
+        "Vạn (10.000)"
+      ],
+      "correctIndex": 3,
+      "explanation": "万【まん】= Vạn (10.000)"
+    },
+    {
+      "id": 30,
+      "prompt": "Nước, quốc gia",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "うち",
+        "～階",
+        "国",
+        "靴"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nước, quốc gia = 国【くに】"
+    },
+    {
+      "id": 31,
+      "prompt": "会社",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Cầu thang",
+        "Ở đó (gần người nghe)",
+        "~ yên",
+        "Công ty"
+      ],
+      "correctIndex": 3,
+      "explanation": "会社【かいしゃ】= Công ty"
+    },
+    {
+      "id": 32,
+      "prompt": "Nhà (của mình)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "階段",
+        "百",
+        "ワイン",
+        "うち"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nhà (của mình) = うち【うち】"
+    },
+    {
+      "id": 33,
+      "prompt": "電話",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Nước, quốc gia",
+        "Điện thoại",
+        "Nhà vệ sinh",
+        "Tầng ~"
+      ],
+      "correctIndex": 1,
+      "explanation": "電話【でんわ】= Điện thoại"
+    },
+    {
+      "id": 34,
+      "prompt": "Giày",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "千",
+        "ここ",
+        "靴",
+        "あそこ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Giày = 靴【くつ】"
+    },
+    {
+      "id": 35,
+      "prompt": "ネクタイ",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Công ty",
+        "Phòng",
+        "Phía kia (lịch sự)",
+        "Cà vạt"
+      ],
+      "correctIndex": 3,
+      "explanation": "ネクタイ【ネクタイ】= Cà vạt"
+    },
+    {
+      "id": 36,
+      "prompt": "Rượu vang",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "～円",
+        "万",
+        "受付",
+        "ワイン"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rượu vang = ワイン【ワイン】"
+    },
+    {
+      "id": 37,
+      "prompt": "お土産",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Điện thoại",
+        "Nhà vệ sinh",
+        "Quà lưu niệm",
+        "~ yên"
+      ],
+      "correctIndex": 2,
+      "explanation": "お土産【おみやげ】= Quà lưu niệm"
+    },
+    {
+      "id": 38,
+      "prompt": "Ở đây (gần người nói)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "そこ",
+        "ここ",
+        "うち",
+        "電話"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ở đây (gần người nói) = ここ【ここ】"
+    },
+    {
+      "id": 39,
+      "prompt": "そこ",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Ở đó (gần người nghe)",
+        "Phía đó (lịch sự)",
+        "Phía kia (lịch sự)",
+        "Cà vạt"
+      ],
+      "correctIndex": 0,
+      "explanation": "そこ【そこ】= Ở đó (gần người nghe)"
+    },
+    {
+      "id": 40,
+      "prompt": "Ở kia (xa cả hai)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "あそこ",
+        "売り場",
+        "ワイン",
+        "そこ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ở kia (xa cả hai) = あそこ【あそこ】"
+    },
+    {
+      "id": 41,
+      "prompt": "どこ",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Ở đó (gần người nghe)",
+        "Thang cuốn",
+        "Ở đâu",
+        "~ yên"
+      ],
+      "correctIndex": 2,
+      "explanation": "どこ【どこ】= Ở đâu"
+    },
+    {
+      "id": 42,
+      "prompt": "Phía này (lịch sự)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "売り場",
+        "こちら",
+        "ネクタイ",
+        "どちら"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phía này (lịch sự) = こちら【こちら】"
+    },
+    {
+      "id": 43,
+      "prompt": "そちら",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Phía đó (lịch sự)",
+        "Ở đâu",
+        "Phòng học",
+        "Ở đó (gần người nghe)"
+      ],
+      "correctIndex": 0,
+      "explanation": "そちら【そちら】= Phía đó (lịch sự)"
+    },
+    {
+      "id": 44,
+      "prompt": "Phía kia (lịch sự)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "食堂",
+        "あちら",
+        "受付",
+        "事務所"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phía kia (lịch sự) = あちら【あちら】"
+    },
+    {
+      "id": 45,
+      "prompt": "どちら",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Phía nào (lịch sự)",
+        "Phía đó (lịch sự)",
+        "Bao nhiêu tiền",
+        "Vạn (10.000)"
+      ],
+      "correctIndex": 0,
+      "explanation": "どちら【どちら】= Phía nào (lịch sự)"
+    },
+    {
+      "id": 46,
+      "prompt": "Phòng học",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "エスカレーター",
+        "食堂",
+        "教室",
+        "ワイン"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phòng học = 教室【きょうしつ】"
+    },
+    {
+      "id": 47,
+      "prompt": "食堂",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Trăm",
+        "Ở đó (gần người nghe)",
+        "Nhà ăn, canteen",
+        "Thang cuốn"
+      ],
+      "correctIndex": 2,
+      "explanation": "食堂【しょくどう】= Nhà ăn, canteen"
+    },
+    {
+      "id": 48,
+      "prompt": "Văn phòng",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "お土産",
+        "百",
+        "事務所",
+        "～円"
+      ],
+      "correctIndex": 2,
+      "explanation": "Văn phòng = 事務所【じむしょ】"
+    },
+    {
+      "id": 49,
+      "prompt": "会議室",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Điện thoại",
+        "Tầng mấy",
+        "Phòng họp",
+        "Quầy lễ tân"
+      ],
+      "correctIndex": 2,
+      "explanation": "会議室【かいぎしつ】= Phòng họp"
+    },
+    {
+      "id": 50,
+      "prompt": "Quầy lễ tân",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "国",
+        "～円",
+        "受付",
+        "売り場"
+      ],
+      "correctIndex": 2,
+      "explanation": "Quầy lễ tân = 受付【うけつけ】"
+    },
+    {
+      "id": 51,
+      "prompt": "ロビー",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Tầng mấy",
+        "Bao nhiêu tiền",
+        "Sảnh",
+        "Nhà vệ sinh (lịch sự)"
+      ],
+      "correctIndex": 2,
+      "explanation": "ロビー【ロビー】= Sảnh"
+    },
+    {
+      "id": 52,
+      "prompt": "Phòng",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "電話",
+        "部屋",
+        "百",
+        "ロビー"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phòng = 部屋【へや】"
+    },
+    {
+      "id": 53,
+      "prompt": "トイレ",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "~ yên",
+        "Nhà vệ sinh",
+        "Phòng",
+        "Quầy bán hàng"
+      ],
+      "correctIndex": 1,
+      "explanation": "トイレ【トイレ】= Nhà vệ sinh"
+    },
+    {
+      "id": 54,
+      "prompt": "Nhà vệ sinh (lịch sự)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "お手洗い",
+        "会議室",
+        "事務所",
+        "～円"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nhà vệ sinh (lịch sự) = お手洗い【おてあらい】"
+    },
+    {
+      "id": 55,
+      "prompt": "階段",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Nhà vệ sinh",
+        "Quà lưu niệm",
+        "Tầng hầm",
+        "Cầu thang"
+      ],
+      "correctIndex": 3,
+      "explanation": "階段【かいだん】= Cầu thang"
+    },
+    {
+      "id": 56,
+      "prompt": "Thang máy",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "～階",
+        "エレベーター",
+        "～円",
+        "そちら"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thang máy = エレベーター【エレベーター】"
+    },
+    {
+      "id": 57,
+      "prompt": "エスカレーター",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Thang cuốn",
+        "Phía kia (lịch sự)",
+        "Ở đâu",
+        "Quầy lễ tân"
+      ],
+      "correctIndex": 0,
+      "explanation": "エスカレーター【エスカレーター】= Thang cuốn"
+    },
+    {
+      "id": 58,
+      "prompt": "Quầy bán hàng",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "そちら",
+        "エスカレーター",
+        "売り場",
+        "地下"
+      ],
+      "correctIndex": 2,
+      "explanation": "Quầy bán hàng = 売り場【うりば】"
+    },
+    {
+      "id": 59,
+      "prompt": "地下",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Nhà ăn, canteen",
+        "Công ty",
+        "Phía nào (lịch sự)",
+        "Tầng hầm"
+      ],
+      "correctIndex": 3,
+      "explanation": "地下【ちか】= Tầng hầm"
+    },
+    {
+      "id": 60,
+      "prompt": "Tầng ~",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "ネクタイ",
+        "～階",
+        "そちら",
+        "階段"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tầng ~ = ～階【～かい】"
+    },
+    {
+      "id": 61,
+      "prompt": "何階",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Công ty",
+        "Cà vạt",
+        "Thang máy",
+        "Tầng mấy"
+      ],
+      "correctIndex": 3,
+      "explanation": "何階【なんがい】= Tầng mấy"
+    },
+    {
+      "id": 62,
+      "prompt": "~ yên",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "あちら",
+        "教室",
+        "会社",
+        "～円"
+      ],
+      "correctIndex": 3,
+      "explanation": "~ yên = ～円【～えん】"
+    },
+    {
+      "id": 63,
+      "prompt": "いくら",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Phía nào (lịch sự)",
+        "Công ty",
+        "Bao nhiêu tiền",
+        "Ở đâu"
+      ],
+      "correctIndex": 2,
+      "explanation": "いくら【いくら】= Bao nhiêu tiền"
+    },
+    {
+      "id": 64,
+      "prompt": "Trăm",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "いくら",
+        "百",
+        "部屋",
+        "どこ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trăm = 百【ひゃく】"
+    },
+    {
+      "id": 65,
+      "prompt": "千",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Nghìn",
+        "Phía nào (lịch sự)",
+        "Sảnh",
+        "Bao nhiêu tiền"
+      ],
+      "correctIndex": 0,
+      "explanation": "千【せん】= Nghìn"
+    },
+    {
+      "id": 66,
+      "prompt": "Vạn (10.000)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "エスカレーター",
+        "～円",
+        "万",
+        "靴"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vạn (10.000) = 万【まん】"
+    },
+    {
+      "id": 67,
+      "prompt": "国",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Nhà vệ sinh (lịch sự)",
+        "Nước, quốc gia",
+        "Vạn (10.000)",
+        "Quà lưu niệm"
+      ],
+      "correctIndex": 1,
+      "explanation": "国【くに】= Nước, quốc gia"
+    },
+    {
+      "id": 68,
+      "prompt": "Công ty",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "そこ",
+        "靴",
+        "受付",
+        "会社"
+      ],
+      "correctIndex": 3,
+      "explanation": "Công ty = 会社【かいしゃ】"
+    },
+    {
+      "id": 69,
+      "prompt": "うち",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Vạn (10.000)",
+        "Giày",
+        "Nhà (của mình)",
+        "Điện thoại"
+      ],
+      "correctIndex": 2,
+      "explanation": "うち【うち】= Nhà (của mình)"
+    },
+    {
+      "id": 70,
+      "prompt": "Điện thoại",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "ここ",
+        "食堂",
+        "階段",
+        "電話"
+      ],
+      "correctIndex": 3,
+      "explanation": "Điện thoại = 電話【でんわ】"
+    },
+    {
+      "id": 71,
+      "prompt": "靴",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Nghìn",
+        "Phòng họp",
+        "Giày",
+        "Quầy lễ tân"
+      ],
+      "correctIndex": 2,
+      "explanation": "靴【くつ】= Giày"
+    },
+    {
+      "id": 72,
+      "prompt": "Cà vạt",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "地下",
+        "ネクタイ",
+        "千",
+        "百"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cà vạt = ネクタイ【ネクタイ】"
+    },
+    {
+      "id": 73,
+      "prompt": "ワイン",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Vạn (10.000)",
+        "Rượu vang",
+        "Phòng họp",
+        "Thang máy"
+      ],
+      "correctIndex": 1,
+      "explanation": "ワイン【ワイン】= Rượu vang"
+    },
+    {
+      "id": 74,
+      "prompt": "Quà lưu niệm",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "お土産",
+        "売り場",
+        "事務所",
+        "受付"
+      ],
+      "correctIndex": 0,
+      "explanation": "Quà lưu niệm = お土産【おみやげ】"
+    }
+  ]
+}

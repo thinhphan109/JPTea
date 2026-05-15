@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fda4af"/>
+      <stop offset="50%" stop-color="#f9a8d4"/>
+      <stop offset="100%" stop-color="#0d9488"/>
+    </linearGradient>
+    <radialGradient id="petal" cx="0.3" cy="0.3" r="0.8">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.95"/>
+      <stop offset="60%" stop-color="#fce7f3"/>
+      <stop offset="100%" stop-color="#fbcfe8"/>
+    </radialGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6"/>
+      <feOffset dx="0" dy="4"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.3"/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+
+  <g transform="translate(256 256)" filter="url(#shadow)">
+    <g fill="url(#petal)" stroke="#ec4899" stroke-width="3" opacity="0.95">
+      <ellipse cx="0" cy="-96" rx="48" ry="72"/>
+      <ellipse cx="0" cy="-96" rx="48" ry="72" transform="rotate(72)"/>
+      <ellipse cx="0" cy="-96" rx="48" ry="72" transform="rotate(144)"/>
+      <ellipse cx="0" cy="-96" rx="48" ry="72" transform="rotate(216)"/>
+      <ellipse cx="0" cy="-96" rx="48" ry="72" transform="rotate(288)"/>
+    </g>
+    <circle cx="0" cy="0" r="24" fill="#fbbf24"/>
+    <circle cx="0" cy="0" r="14" fill="#f59e0b"/>
+  </g>
+
+  <!-- Subtle "JP" text at bottom -->
+  <text x="256" y="450" font-family="system-ui, -apple-system, sans-serif"
+        font-size="56" font-weight="700" fill="#fff" text-anchor="middle"
+        opacity="0.9" letter-spacing="2">JPTea</text>
+</svg>

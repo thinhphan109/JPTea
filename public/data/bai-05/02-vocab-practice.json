@@ -1,0 +1,968 @@
+{
+  "title": "Từ vựng luyện tập — Bài 5: ～へ いきます",
+  "type": "vocab-practice",
+  "questions": [
+    {
+      "id": 1,
+      "prompt": "行きます",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Đi",
+        "Tàu điện ngầm",
+        "Năm ngoái",
+        "Xe đạp"
+      ],
+      "correctIndex": 0,
+      "explanation": "行きます【いきます】= Đi"
+    },
+    {
+      "id": 2,
+      "prompt": "Đến",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "一人で",
+        "去年",
+        "来ます",
+        "何日"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đến = 来ます【きます】"
+    },
+    {
+      "id": 3,
+      "prompt": "帰ります",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Máy bay",
+        "Về (nhà/quê)",
+        "Xe buýt",
+        "Gia đình"
+      ],
+      "correctIndex": 1,
+      "explanation": "帰ります【かえります】= Về (nhà/quê)"
+    },
+    {
+      "id": 4,
+      "prompt": "Trường học",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "彼女",
+        "学校",
+        "行きます",
+        "歩いて"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trường học = 学校【がっこう】"
+    },
+    {
+      "id": 5,
+      "prompt": "スーパー",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Siêu thị",
+        "Năm ~",
+        "Tháng này",
+        "Đi"
+      ],
+      "correctIndex": 0,
+      "explanation": "スーパー【スーパー】= Siêu thị"
+    },
+    {
+      "id": 6,
+      "prompt": "Nhà ga",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "駅",
+        "今年",
+        "今月",
+        "スーパー"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nhà ga = 駅【えき】"
+    },
+    {
+      "id": 7,
+      "prompt": "飛行機",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Về (nhà/quê)",
+        "Cô ấy, người yêu (nữ)",
+        "Máy bay",
+        "Gia đình"
+      ],
+      "correctIndex": 2,
+      "explanation": "飛行機【ひこうき】= Máy bay"
+    },
+    {
+      "id": 8,
+      "prompt": "Tàu thủy",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "一人で",
+        "彼女",
+        "～日",
+        "船"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tàu thủy = 船【ふね】"
+    },
+    {
+      "id": 9,
+      "prompt": "電車",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Tàu điện",
+        "Máy bay",
+        "Anh ấy, người yêu (nam)",
+        "Tàu Shinkansen"
+      ],
+      "correctIndex": 0,
+      "explanation": "電車【でんしゃ】= Tàu điện"
+    },
+    {
+      "id": 10,
+      "prompt": "Tàu điện ngầm",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "船",
+        "～年",
+        "今年",
+        "地下鉄"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tàu điện ngầm = 地下鉄【ちかてつ】"
+    },
+    {
+      "id": 11,
+      "prompt": "新幹線",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Trường học",
+        "Cô ấy, người yêu (nữ)",
+        "Tàu Shinkansen",
+        "Người"
+      ],
+      "correctIndex": 2,
+      "explanation": "新幹線【しんかんせん】= Tàu Shinkansen"
+    },
+    {
+      "id": 12,
+      "prompt": "Xe buýt",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "彼女",
+        "自転車",
+        "スーパー",
+        "バス"
+      ],
+      "correctIndex": 3,
+      "explanation": "Xe buýt = バス【バス】"
+    },
+    {
+      "id": 13,
+      "prompt": "タクシー",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Gia đình",
+        "Taxi",
+        "Tháng sau",
+        "Một mình"
+      ],
+      "correctIndex": 1,
+      "explanation": "タクシー【タクシー】= Taxi"
+    },
+    {
+      "id": 14,
+      "prompt": "Xe đạp",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "船",
+        "自転車",
+        "来月",
+        "来年"
+      ],
+      "correctIndex": 1,
+      "explanation": "Xe đạp = 自転車【じてんしゃ】"
+    },
+    {
+      "id": 15,
+      "prompt": "歩いて",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Người",
+        "Xe đạp",
+        "Đến",
+        "Đi bộ"
+      ],
+      "correctIndex": 3,
+      "explanation": "歩いて【あるいて】= Đi bộ"
+    },
+    {
+      "id": 16,
+      "prompt": "Người",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "友達",
+        "今月",
+        "人",
+        "～月"
+      ],
+      "correctIndex": 2,
+      "explanation": "Người = 人【ひと】"
+    },
+    {
+      "id": 17,
+      "prompt": "友達",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Cô ấy, người yêu (nữ)",
+        "Năm ngoái",
+        "Xe đạp",
+        "Bạn bè"
+      ],
+      "correctIndex": 3,
+      "explanation": "友達【ともだち】= Bạn bè"
+    },
+    {
+      "id": 18,
+      "prompt": "Anh ấy, người yêu (nam)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "来ます",
+        "行きます",
+        "地下鉄",
+        "彼"
+      ],
+      "correctIndex": 3,
+      "explanation": "Anh ấy, người yêu (nam) = 彼【かれ】"
+    },
+    {
+      "id": 19,
+      "prompt": "彼女",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Xe buýt",
+        "Năm ~",
+        "Cô ấy, người yêu (nữ)",
+        "Tuần trước"
+      ],
+      "correctIndex": 2,
+      "explanation": "彼女【かのじょ】= Cô ấy, người yêu (nữ)"
+    },
+    {
+      "id": 20,
+      "prompt": "Gia đình",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "家族",
+        "バス",
+        "歩いて",
+        "～月"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gia đình = 家族【かぞく】"
+    },
+    {
+      "id": 21,
+      "prompt": "一人で",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Năm ngoái",
+        "Tàu Shinkansen",
+        "Một mình",
+        "Tàu thủy"
+      ],
+      "correctIndex": 2,
+      "explanation": "一人で【ひとりで】= Một mình"
+    },
+    {
+      "id": 22,
+      "prompt": "Tuần trước",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "飛行機",
+        "何日",
+        "人",
+        "先週"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tuần trước = 先週【せんしゅう】"
+    },
+    {
+      "id": 23,
+      "prompt": "今週",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Nhà ga",
+        "Tháng trước",
+        "Tuần này",
+        "Tuần trước"
+      ],
+      "correctIndex": 2,
+      "explanation": "今週【こんしゅう】= Tuần này"
+    },
+    {
+      "id": 24,
+      "prompt": "Tuần sau",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "来週",
+        "来年",
+        "人",
+        "船"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tuần sau = 来週【らいしゅう】"
+    },
+    {
+      "id": 25,
+      "prompt": "先月",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Taxi",
+        "Tháng trước",
+        "Tuần trước",
+        "Về (nhà/quê)"
+      ],
+      "correctIndex": 1,
+      "explanation": "先月【せんげつ】= Tháng trước"
+    },
+    {
+      "id": 26,
+      "prompt": "Tháng này",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "タクシー",
+        "今年",
+        "電車",
+        "今月"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tháng này = 今月【こんげつ】"
+    },
+    {
+      "id": 27,
+      "prompt": "来月",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Tháng sau",
+        "Khi nào",
+        "Nhà ga",
+        "Máy bay"
+      ],
+      "correctIndex": 0,
+      "explanation": "来月【らいげつ】= Tháng sau"
+    },
+    {
+      "id": 28,
+      "prompt": "Năm ngoái",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "今月",
+        "飛行機",
+        "去年",
+        "来ます"
+      ],
+      "correctIndex": 2,
+      "explanation": "Năm ngoái = 去年【きょねん】"
+    },
+    {
+      "id": 29,
+      "prompt": "今年",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Tháng này",
+        "Tuần này",
+        "Năm nay",
+        "Sinh nhật"
+      ],
+      "correctIndex": 2,
+      "explanation": "今年【ことし】= Năm nay"
+    },
+    {
+      "id": 30,
+      "prompt": "Năm sau",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "自転車",
+        "彼女",
+        "来年",
+        "何日"
+      ],
+      "correctIndex": 2,
+      "explanation": "Năm sau = 来年【らいねん】"
+    },
+    {
+      "id": 31,
+      "prompt": "～年",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Năm ~",
+        "Tuần trước",
+        "Năm ngoái",
+        "Người"
+      ],
+      "correctIndex": 0,
+      "explanation": "～年【～ねん】= Năm ~"
+    },
+    {
+      "id": 32,
+      "prompt": "Tháng ~",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "来週",
+        "駅",
+        "～月",
+        "～日"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tháng ~ = ～月【～がつ】"
+    },
+    {
+      "id": 33,
+      "prompt": "～日",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Ngày ~",
+        "Nhà ga",
+        "Tháng trước",
+        "Máy bay"
+      ],
+      "correctIndex": 0,
+      "explanation": "～日【～にち】= Ngày ~"
+    },
+    {
+      "id": 34,
+      "prompt": "Tháng mấy",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "何月",
+        "誕生日",
+        "飛行機",
+        "一人で"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tháng mấy = 何月【なんがつ】"
+    },
+    {
+      "id": 35,
+      "prompt": "何日",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Ngày mấy",
+        "Tuần này",
+        "Gia đình",
+        "Xe đạp"
+      ],
+      "correctIndex": 0,
+      "explanation": "何日【なんにち】= Ngày mấy"
+    },
+    {
+      "id": 36,
+      "prompt": "Khi nào",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "新幹線",
+        "帰ります",
+        "何月",
+        "いつ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Khi nào = いつ【いつ】"
+    },
+    {
+      "id": 37,
+      "prompt": "誕生日",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Một mình",
+        "Tuần này",
+        "Sinh nhật",
+        "Taxi"
+      ],
+      "correctIndex": 2,
+      "explanation": "誕生日【たんじょうび】= Sinh nhật"
+    },
+    {
+      "id": 38,
+      "prompt": "Đi",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "一人で",
+        "～日",
+        "行きます",
+        "何日"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đi = 行きます【いきます】"
+    },
+    {
+      "id": 39,
+      "prompt": "来ます",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Gia đình",
+        "Taxi",
+        "Đến",
+        "Tháng ~"
+      ],
+      "correctIndex": 2,
+      "explanation": "来ます【きます】= Đến"
+    },
+    {
+      "id": 40,
+      "prompt": "Về (nhà/quê)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "帰ります",
+        "何月",
+        "～年",
+        "去年"
+      ],
+      "correctIndex": 0,
+      "explanation": "Về (nhà/quê) = 帰ります【かえります】"
+    },
+    {
+      "id": 41,
+      "prompt": "学校",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Xe buýt",
+        "Đến",
+        "Tuần sau",
+        "Trường học"
+      ],
+      "correctIndex": 3,
+      "explanation": "学校【がっこう】= Trường học"
+    },
+    {
+      "id": 42,
+      "prompt": "Siêu thị",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "スーパー",
+        "彼",
+        "地下鉄",
+        "今週"
+      ],
+      "correctIndex": 0,
+      "explanation": "Siêu thị = スーパー【スーパー】"
+    },
+    {
+      "id": 43,
+      "prompt": "駅",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Nhà ga",
+        "Đến",
+        "Cô ấy, người yêu (nữ)",
+        "Tháng mấy"
+      ],
+      "correctIndex": 0,
+      "explanation": "駅【えき】= Nhà ga"
+    },
+    {
+      "id": 44,
+      "prompt": "Máy bay",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "学校",
+        "電車",
+        "飛行機",
+        "地下鉄"
+      ],
+      "correctIndex": 2,
+      "explanation": "Máy bay = 飛行機【ひこうき】"
+    },
+    {
+      "id": 45,
+      "prompt": "船",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Tàu thủy",
+        "Xe buýt",
+        "Một mình",
+        "Taxi"
+      ],
+      "correctIndex": 0,
+      "explanation": "船【ふね】= Tàu thủy"
+    },
+    {
+      "id": 46,
+      "prompt": "Tàu điện",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "電車",
+        "来週",
+        "何月",
+        "先月"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tàu điện = 電車【でんしゃ】"
+    },
+    {
+      "id": 47,
+      "prompt": "地下鉄",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Tháng trước",
+        "Người",
+        "Tháng mấy",
+        "Tàu điện ngầm"
+      ],
+      "correctIndex": 3,
+      "explanation": "地下鉄【ちかてつ】= Tàu điện ngầm"
+    },
+    {
+      "id": 48,
+      "prompt": "Tàu Shinkansen",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "家族",
+        "友達",
+        "新幹線",
+        "飛行機"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tàu Shinkansen = 新幹線【しんかんせん】"
+    },
+    {
+      "id": 49,
+      "prompt": "バス",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Một mình",
+        "Xe buýt",
+        "Tàu điện",
+        "Tuần sau"
+      ],
+      "correctIndex": 1,
+      "explanation": "バス【バス】= Xe buýt"
+    },
+    {
+      "id": 50,
+      "prompt": "Taxi",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "彼女",
+        "タクシー",
+        "来週",
+        "来月"
+      ],
+      "correctIndex": 1,
+      "explanation": "Taxi = タクシー【タクシー】"
+    },
+    {
+      "id": 51,
+      "prompt": "自転車",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Xe đạp",
+        "Tàu thủy",
+        "Tàu Shinkansen",
+        "Taxi"
+      ],
+      "correctIndex": 0,
+      "explanation": "自転車【じてんしゃ】= Xe đạp"
+    },
+    {
+      "id": 52,
+      "prompt": "Đi bộ",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "今月",
+        "歩いて",
+        "バス",
+        "学校"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đi bộ = 歩いて【あるいて】"
+    },
+    {
+      "id": 53,
+      "prompt": "人",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Máy bay",
+        "Trường học",
+        "Siêu thị",
+        "Người"
+      ],
+      "correctIndex": 3,
+      "explanation": "人【ひと】= Người"
+    },
+    {
+      "id": 54,
+      "prompt": "Bạn bè",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "彼女",
+        "友達",
+        "去年",
+        "歩いて"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bạn bè = 友達【ともだち】"
+    },
+    {
+      "id": 55,
+      "prompt": "彼",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Tháng mấy",
+        "Đi bộ",
+        "Anh ấy, người yêu (nam)",
+        "Tháng ~"
+      ],
+      "correctIndex": 2,
+      "explanation": "彼【かれ】= Anh ấy, người yêu (nam)"
+    },
+    {
+      "id": 56,
+      "prompt": "Cô ấy, người yêu (nữ)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "スーパー",
+        "飛行機",
+        "先週",
+        "彼女"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cô ấy, người yêu (nữ) = 彼女【かのじょ】"
+    },
+    {
+      "id": 57,
+      "prompt": "家族",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Đi",
+        "Tàu thủy",
+        "Tuần này",
+        "Gia đình"
+      ],
+      "correctIndex": 3,
+      "explanation": "家族【かぞく】= Gia đình"
+    },
+    {
+      "id": 58,
+      "prompt": "Một mình",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "自転車",
+        "一人で",
+        "スーパー",
+        "何月"
+      ],
+      "correctIndex": 1,
+      "explanation": "Một mình = 一人で【ひとりで】"
+    },
+    {
+      "id": 59,
+      "prompt": "先週",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Tuần trước",
+        "Sinh nhật",
+        "Tàu Shinkansen",
+        "Khi nào"
+      ],
+      "correctIndex": 0,
+      "explanation": "先週【せんしゅう】= Tuần trước"
+    },
+    {
+      "id": 60,
+      "prompt": "Tuần này",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "来ます",
+        "今週",
+        "彼女",
+        "電車"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tuần này = 今週【こんしゅう】"
+    },
+    {
+      "id": 61,
+      "prompt": "来週",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Năm sau",
+        "Tuần sau",
+        "Nhà ga",
+        "Người"
+      ],
+      "correctIndex": 1,
+      "explanation": "来週【らいしゅう】= Tuần sau"
+    },
+    {
+      "id": 62,
+      "prompt": "Tháng trước",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "先月",
+        "人",
+        "船",
+        "去年"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tháng trước = 先月【せんげつ】"
+    },
+    {
+      "id": 63,
+      "prompt": "今月",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Ngày mấy",
+        "Tàu điện ngầm",
+        "Tháng này",
+        "Nhà ga"
+      ],
+      "correctIndex": 2,
+      "explanation": "今月【こんげつ】= Tháng này"
+    },
+    {
+      "id": 64,
+      "prompt": "Tháng sau",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "来月",
+        "誕生日",
+        "今月",
+        "行きます"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tháng sau = 来月【らいげつ】"
+    },
+    {
+      "id": 65,
+      "prompt": "去年",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Đi bộ",
+        "Tàu thủy",
+        "Năm ngoái",
+        "Đến"
+      ],
+      "correctIndex": 2,
+      "explanation": "去年【きょねん】= Năm ngoái"
+    },
+    {
+      "id": 66,
+      "prompt": "Năm nay",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "来ます",
+        "今年",
+        "先週",
+        "自転車"
+      ],
+      "correctIndex": 1,
+      "explanation": "Năm nay = 今年【ことし】"
+    },
+    {
+      "id": 67,
+      "prompt": "来年",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Ngày mấy",
+        "Năm ngoái",
+        "Tuần trước",
+        "Năm sau"
+      ],
+      "correctIndex": 3,
+      "explanation": "来年【らいねん】= Năm sau"
+    },
+    {
+      "id": 68,
+      "prompt": "Năm ~",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "先月",
+        "いつ",
+        "人",
+        "～年"
+      ],
+      "correctIndex": 3,
+      "explanation": "Năm ~ = ～年【～ねん】"
+    },
+    {
+      "id": 69,
+      "prompt": "～月",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Tháng ~",
+        "Đến",
+        "Tàu điện",
+        "Đi bộ"
+      ],
+      "correctIndex": 0,
+      "explanation": "～月【～がつ】= Tháng ~"
+    },
+    {
+      "id": 70,
+      "prompt": "Ngày ~",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "船",
+        "先週",
+        "人",
+        "～日"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ngày ~ = ～日【～にち】"
+    },
+    {
+      "id": 71,
+      "prompt": "何月",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Tháng mấy",
+        "Xe đạp",
+        "Tàu Shinkansen",
+        "Bạn bè"
+      ],
+      "correctIndex": 0,
+      "explanation": "何月【なんがつ】= Tháng mấy"
+    },
+    {
+      "id": 72,
+      "prompt": "Ngày mấy",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "今月",
+        "バス",
+        "何日",
+        "来月"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ngày mấy = 何日【なんにち】"
+    },
+    {
+      "id": 73,
+      "prompt": "いつ",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Năm ngoái",
+        "Đi bộ",
+        "Tuần này",
+        "Khi nào"
+      ],
+      "correctIndex": 3,
+      "explanation": "いつ【いつ】= Khi nào"
+    },
+    {
+      "id": 74,
+      "prompt": "Sinh nhật",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "バス",
+        "誕生日",
+        "～年",
+        "来ます"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sinh nhật = 誕生日【たんじょうび】"
+    }
+  ]
+}

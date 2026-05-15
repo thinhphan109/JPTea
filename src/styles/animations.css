@@ -1,0 +1,39 @@
+/* ===== Animations ===== */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes bounceIn {
+  0% { opacity: 0; transform: scale(0.3); }
+  50% { transform: scale(1.1); }
+  70% { transform: scale(0.9); }
+  100% { opacity: 1; transform: scale(1); }
+}
+
+.animate-fade { animation: fadeIn var(--transition-base) ease-out; }
+
+/* Staggered grid items */
+.lesson-card { animation: fadeIn var(--transition-slow) ease-out backwards; }
+.lesson-card:nth-child(1) { animation-delay: 0ms; }
+.lesson-card:nth-child(2) { animation-delay: 30ms; }
+.lesson-card:nth-child(3) { animation-delay: 60ms; }
+.lesson-card:nth-child(4) { animation-delay: 90ms; }
+.lesson-card:nth-child(5) { animation-delay: 120ms; }
+.lesson-card:nth-child(6) { animation-delay: 150ms; }
+.lesson-card:nth-child(7) { animation-delay: 180ms; }
+.lesson-card:nth-child(8) { animation-delay: 210ms; }
+.lesson-card:nth-child(9) { animation-delay: 240ms; }
+.lesson-card:nth-child(10) { animation-delay: 270ms; }
+
+.quiz-card { animation: fadeIn var(--transition-slow) ease-out backwards; }
+.quiz-card:nth-child(1) { animation-delay: 50ms; }
+.quiz-card:nth-child(2) { animation-delay: 100ms; }
+.quiz-card:nth-child(3) { animation-delay: 150ms; }
+.quiz-card:nth-child(4) { animation-delay: 200ms; }
+.quiz-card:nth-child(5) { animation-delay: 250ms; }

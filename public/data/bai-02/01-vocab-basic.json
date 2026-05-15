@@ -1,0 +1,706 @@
+{
+  "title": "Từ vựng cơ bản — Bài 2: これ・それ・あれ",
+  "type": "vocab-basic",
+  "questions": [
+    {
+      "id": 1,
+      "promptHtml": "これ",
+      "prompt": "これ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Đúng vậy",
+        "Cái này (gần người nói)",
+        "Tiếng Anh",
+        "Vậy à?"
+      ],
+      "correctIndex": 1,
+      "explanation": "これ【これ】= Cái này (gần người nói)"
+    },
+    {
+      "id": 2,
+      "promptHtml": "それ",
+      "prompt": "それ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Cái đó (gần người nghe)",
+        "Tạp chí",
+        "Chìa khóa",
+        "Báo"
+      ],
+      "correctIndex": 0,
+      "explanation": "それ【それ】= Cái đó (gần người nghe)"
+    },
+    {
+      "id": 3,
+      "promptHtml": "あれ",
+      "prompt": "あれ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "~ kia (trước danh từ)",
+        "Cái đó (gần người nghe)",
+        "Tiếng Nhật",
+        "Cái kia (xa cả hai)"
+      ],
+      "correctIndex": 3,
+      "explanation": "あれ【あれ】= Cái kia (xa cả hai)"
+    },
+    {
+      "id": 4,
+      "promptHtml": "この",
+      "prompt": "この",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Bút chì",
+        "Bút chì bấm",
+        "Ô tô",
+        "~ này (trước danh từ)"
+      ],
+      "correctIndex": 3,
+      "explanation": "この【この】= ~ này (trước danh từ)"
+    },
+    {
+      "id": 5,
+      "promptHtml": "その",
+      "prompt": "その",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Cà phê",
+        "Bút chì",
+        "Chìa khóa",
+        "~ đó (trước danh từ)"
+      ],
+      "correctIndex": 3,
+      "explanation": "その【その】= ~ đó (trước danh từ)"
+    },
+    {
+      "id": 6,
+      "promptHtml": "あの",
+      "prompt": "あの",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Vở, sổ tay",
+        "Cảm ơn (thân mật)",
+        "Đúng vậy",
+        "~ kia (trước danh từ)"
+      ],
+      "correctIndex": 3,
+      "explanation": "あの【あの】= ~ kia (trước danh từ)"
+    },
+    {
+      "id": 7,
+      "promptHtml": "<ruby>本<rt>ほん</rt></ruby>",
+      "prompt": "ほん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Sách",
+        "Cảm ơn (thân mật)",
+        "Mời, xin mời",
+        "Ô, dù"
+      ],
+      "correctIndex": 0,
+      "explanation": "本【ほん】= Sách"
+    },
+    {
+      "id": 8,
+      "promptHtml": "<ruby>辞書<rt>じしょ</rt></ruby>",
+      "prompt": "じしょ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Từ điển",
+        "Chìa khóa",
+        "Sách",
+        "Bút chì"
+      ],
+      "correctIndex": 0,
+      "explanation": "辞書【じしょ】= Từ điển"
+    },
+    {
+      "id": 9,
+      "promptHtml": "<ruby>雑誌<rt>ざっし</rt></ruby>",
+      "prompt": "ざっし",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tạp chí",
+        "Cái đó (gần người nghe)",
+        "Vở, sổ tay",
+        "Ô tô"
+      ],
+      "correctIndex": 0,
+      "explanation": "雑誌【ざっし】= Tạp chí"
+    },
+    {
+      "id": 10,
+      "promptHtml": "<ruby>新聞<rt>しんぶん</rt></ruby>",
+      "prompt": "しんぶん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Báo",
+        "Tiếng Anh",
+        "Mời, xin mời",
+        "Ô, dù"
+      ],
+      "correctIndex": 0,
+      "explanation": "新聞【しんぶん】= Báo"
+    },
+    {
+      "id": 11,
+      "promptHtml": "ノート",
+      "prompt": "ノート",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Vở, sổ tay",
+        "~ này (trước danh từ)",
+        "Ghế",
+        "Mời, xin mời"
+      ],
+      "correctIndex": 0,
+      "explanation": "ノート【ノート】= Vở, sổ tay"
+    },
+    {
+      "id": 12,
+      "promptHtml": "<ruby>手帳<rt>てちょう</rt></ruby>",
+      "prompt": "てちょう",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Danh thiếp",
+        "Ô tô",
+        "Máy ảnh",
+        "Sổ tay nhỏ"
+      ],
+      "correctIndex": 3,
+      "explanation": "手帳【てちょう】= Sổ tay nhỏ"
+    },
+    {
+      "id": 13,
+      "promptHtml": "<ruby>名刺<rt>めいし</rt></ruby>",
+      "prompt": "めいし",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Cái này (gần người nói)",
+        "Danh thiếp",
+        "Bút chì bấm",
+        "Từ điển"
+      ],
+      "correctIndex": 1,
+      "explanation": "名刺【めいし】= Danh thiếp"
+    },
+    {
+      "id": 14,
+      "promptHtml": "カード",
+      "prompt": "カード",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Cái gì",
+        "Thẻ",
+        "Bàn học",
+        "Vở, sổ tay"
+      ],
+      "correctIndex": 1,
+      "explanation": "カード【カード】= Thẻ"
+    },
+    {
+      "id": 15,
+      "promptHtml": "<ruby>鉛筆<rt>えんぴつ</rt></ruby>",
+      "prompt": "えんぴつ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tiếng ~",
+        "Bút chì",
+        "~ kia (trước danh từ)",
+        "Tiếng Nhật"
+      ],
+      "correctIndex": 1,
+      "explanation": "鉛筆【えんぴつ】= Bút chì"
+    },
+    {
+      "id": 16,
+      "promptHtml": "ボールペン",
+      "prompt": "ボールペン",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Mời, xin mời",
+        "Danh thiếp",
+        "Bút bi",
+        "Sách"
+      ],
+      "correctIndex": 2,
+      "explanation": "ボールペン【ボールペン】= Bút bi"
+    },
+    {
+      "id": 17,
+      "promptHtml": "シャープペンシル",
+      "prompt": "シャープペンシル",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Ti vi",
+        "Cảm ơn (thân mật)",
+        "Báo",
+        "Bút chì bấm"
+      ],
+      "correctIndex": 3,
+      "explanation": "シャープペンシル【シャープペンシル】= Bút chì bấm"
+    },
+    {
+      "id": 18,
+      "promptHtml": "<ruby>鍵<rt>かぎ</rt></ruby>",
+      "prompt": "かぎ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Vở, sổ tay",
+        "Ờm... (do dự)",
+        "Ghế",
+        "Chìa khóa"
+      ],
+      "correctIndex": 3,
+      "explanation": "鍵【かぎ】= Chìa khóa"
+    },
+    {
+      "id": 19,
+      "promptHtml": "<ruby>時計<rt>とけい</rt></ruby>",
+      "prompt": "とけい",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Ô, dù",
+        "Đồng hồ",
+        "Danh thiếp",
+        "Tiếng Anh"
+      ],
+      "correctIndex": 1,
+      "explanation": "時計【とけい】= Đồng hồ"
+    },
+    {
+      "id": 20,
+      "promptHtml": "<ruby>傘<rt>かさ</rt></ruby>",
+      "prompt": "かさ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Bút chì bấm",
+        "Từ điển",
+        "Ô, dù",
+        "Máy ảnh"
+      ],
+      "correctIndex": 2,
+      "explanation": "傘【かさ】= Ô, dù"
+    },
+    {
+      "id": 21,
+      "promptHtml": "かばん",
+      "prompt": "かばん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Cặp, túi xách",
+        "Tiếng Nhật",
+        "Ô tô",
+        "~ đó (trước danh từ)"
+      ],
+      "correctIndex": 0,
+      "explanation": "かばん【かばん】= Cặp, túi xách"
+    },
+    {
+      "id": 22,
+      "promptHtml": "テレビ",
+      "prompt": "テレビ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Chìa khóa",
+        "~ này (trước danh từ)",
+        "Ti vi",
+        "Mời, xin mời"
+      ],
+      "correctIndex": 2,
+      "explanation": "テレビ【テレビ】= Ti vi"
+    },
+    {
+      "id": 23,
+      "promptHtml": "ラジオ",
+      "prompt": "ラジオ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Cà phê",
+        "Ghế",
+        "Radio",
+        "Chìa khóa"
+      ],
+      "correctIndex": 2,
+      "explanation": "ラジオ【ラジオ】= Radio"
+    },
+    {
+      "id": 24,
+      "promptHtml": "カメラ",
+      "prompt": "カメラ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Bút chì",
+        "Bàn học",
+        "Đúng vậy",
+        "Máy ảnh"
+      ],
+      "correctIndex": 3,
+      "explanation": "カメラ【カメラ】= Máy ảnh"
+    },
+    {
+      "id": 25,
+      "promptHtml": "コンピューター",
+      "prompt": "コンピューター",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Ô tô",
+        "Cái gì",
+        "Máy tính",
+        "Cái đó (gần người nghe)"
+      ],
+      "correctIndex": 2,
+      "explanation": "コンピューター【コンピューター】= Máy tính"
+    },
+    {
+      "id": 26,
+      "promptHtml": "<ruby>自動車<rt>じどうしゃ</rt></ruby>",
+      "prompt": "じどうしゃ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Thẻ",
+        "Cái đó (gần người nghe)",
+        "Ô tô",
+        "Máy ảnh"
+      ],
+      "correctIndex": 2,
+      "explanation": "自動車【じどうしゃ】= Ô tô"
+    },
+    {
+      "id": 27,
+      "promptHtml": "<ruby>机<rt>つくえ</rt></ruby>",
+      "prompt": "つくえ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Bút chì",
+        "Bàn học",
+        "Chìa khóa",
+        "Cặp, túi xách"
+      ],
+      "correctIndex": 1,
+      "explanation": "机【つくえ】= Bàn học"
+    },
+    {
+      "id": 28,
+      "promptHtml": "いす",
+      "prompt": "いす",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Ghế",
+        "Cái đó (gần người nghe)",
+        "Chìa khóa",
+        "Thẻ"
+      ],
+      "correctIndex": 0,
+      "explanation": "いす【いす】= Ghế"
+    },
+    {
+      "id": 29,
+      "promptHtml": "チョコレート",
+      "prompt": "チョコレート",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Mời, xin mời",
+        "Tiếng Anh",
+        "Sô-cô-la",
+        "Vậy à?"
+      ],
+      "correctIndex": 2,
+      "explanation": "チョコレート【チョコレート】= Sô-cô-la"
+    },
+    {
+      "id": 30,
+      "promptHtml": "コーヒー",
+      "prompt": "コーヒー",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Cà phê",
+        "Chìa khóa",
+        "Ô tô",
+        "Thẻ"
+      ],
+      "correctIndex": 0,
+      "explanation": "コーヒー【コーヒー】= Cà phê"
+    },
+    {
+      "id": 31,
+      "promptHtml": "<ruby>英語<rt>えいご</rt></ruby>",
+      "prompt": "えいご",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tiếng Anh",
+        "Vở, sổ tay",
+        "Tiếng ~",
+        "Chìa khóa"
+      ],
+      "correctIndex": 0,
+      "explanation": "英語【えいご】= Tiếng Anh"
+    },
+    {
+      "id": 32,
+      "promptHtml": "<ruby>日本語<rt>にほんご</rt></ruby>",
+      "prompt": "にほんご",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Không phải, sai rồi",
+        "Ô tô",
+        "Tiếng Nhật",
+        "Cái gì"
+      ],
+      "correctIndex": 2,
+      "explanation": "日本語【にほんご】= Tiếng Nhật"
+    },
+    {
+      "id": 33,
+      "promptHtml": "<ruby>～語<rt>～ご</rt></ruby>",
+      "prompt": "～ご",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Vậy à?",
+        "Ghế",
+        "Thẻ",
+        "Tiếng ~"
+      ],
+      "correctIndex": 3,
+      "explanation": "～語【～ご】= Tiếng ~"
+    },
+    {
+      "id": 34,
+      "promptHtml": "<ruby>何<rt>なん</rt></ruby>",
+      "prompt": "なん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tiếng Anh",
+        "~ đó (trước danh từ)",
+        "Cái gì",
+        "Đúng vậy"
+      ],
+      "correctIndex": 2,
+      "explanation": "何【なん】= Cái gì"
+    },
+    {
+      "id": 35,
+      "promptHtml": "そう",
+      "prompt": "そう",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Đúng vậy",
+        "Bút chì",
+        "Ô tô",
+        "Mời, xin mời"
+      ],
+      "correctIndex": 0,
+      "explanation": "そう【そう】= Đúng vậy"
+    },
+    {
+      "id": 36,
+      "promptHtml": "<ruby>違います<rt>ちがいます</rt></ruby>",
+      "prompt": "ちがいます",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Radio",
+        "Không phải, sai rồi",
+        "Ờm... (do dự)",
+        "Đồng hồ"
+      ],
+      "correctIndex": 1,
+      "explanation": "違います【ちがいます】= Không phải, sai rồi"
+    },
+    {
+      "id": 37,
+      "promptHtml": "そうですか",
+      "prompt": "そうですか",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Sô-cô-la",
+        "Tiếng Nhật",
+        "Cái này (gần người nói)",
+        "Vậy à?"
+      ],
+      "correctIndex": 3,
+      "explanation": "そうですか【そうですか】= Vậy à?"
+    },
+    {
+      "id": 38,
+      "promptHtml": "あのう",
+      "prompt": "あのう",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Cặp, túi xách",
+        "Báo",
+        "Chìa khóa",
+        "Ờm... (do dự)"
+      ],
+      "correctIndex": 3,
+      "explanation": "あのう【あのう】= Ờm... (do dự)"
+    },
+    {
+      "id": 39,
+      "promptHtml": "どうぞ",
+      "prompt": "どうぞ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Ghế",
+        "Bút chì",
+        "~ kia (trước danh từ)",
+        "Mời, xin mời"
+      ],
+      "correctIndex": 3,
+      "explanation": "どうぞ【どうぞ】= Mời, xin mời"
+    },
+    {
+      "id": 40,
+      "promptHtml": "どうも",
+      "prompt": "どうも",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "~ này (trước danh từ)",
+        "Tiếng Nhật",
+        "Cảm ơn (thân mật)",
+        "Ghế"
+      ],
+      "correctIndex": 2,
+      "explanation": "どうも【どうも】= Cảm ơn (thân mật)"
+    },
+    {
+      "id": 41,
+      "promptHtml": "これ",
+      "prompt": "これ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Không phải, sai rồi",
+        "Báo",
+        "Ti vi",
+        "Cái này (gần người nói)"
+      ],
+      "correctIndex": 3,
+      "explanation": "これ【これ】= Cái này (gần người nói)"
+    },
+    {
+      "id": 42,
+      "promptHtml": "それ",
+      "prompt": "それ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Cà phê",
+        "Danh thiếp",
+        "Cái đó (gần người nghe)",
+        "Ờm... (do dự)"
+      ],
+      "correctIndex": 2,
+      "explanation": "それ【それ】= Cái đó (gần người nghe)"
+    },
+    {
+      "id": 43,
+      "promptHtml": "あれ",
+      "prompt": "あれ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Sô-cô-la",
+        "Cái gì",
+        "Máy tính",
+        "Cái kia (xa cả hai)"
+      ],
+      "correctIndex": 3,
+      "explanation": "あれ【あれ】= Cái kia (xa cả hai)"
+    },
+    {
+      "id": 44,
+      "promptHtml": "この",
+      "prompt": "この",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Máy tính",
+        "~ kia (trước danh từ)",
+        "~ này (trước danh từ)",
+        "Ờm... (do dự)"
+      ],
+      "correctIndex": 2,
+      "explanation": "この【この】= ~ này (trước danh từ)"
+    },
+    {
+      "id": 45,
+      "promptHtml": "その",
+      "prompt": "その",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Ti vi",
+        "Cái gì",
+        "~ đó (trước danh từ)",
+        "Sổ tay nhỏ"
+      ],
+      "correctIndex": 2,
+      "explanation": "その【その】= ~ đó (trước danh từ)"
+    },
+    {
+      "id": 46,
+      "promptHtml": "あの",
+      "prompt": "あの",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Vậy à?",
+        "Radio",
+        "Từ điển",
+        "~ kia (trước danh từ)"
+      ],
+      "correctIndex": 3,
+      "explanation": "あの【あの】= ~ kia (trước danh từ)"
+    },
+    {
+      "id": 47,
+      "promptHtml": "<ruby>本<rt>ほん</rt></ruby>",
+      "prompt": "ほん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tiếng ~",
+        "Ti vi",
+        "Ờm... (do dự)",
+        "Sách"
+      ],
+      "correctIndex": 3,
+      "explanation": "本【ほん】= Sách"
+    },
+    {
+      "id": 48,
+      "promptHtml": "<ruby>辞書<rt>じしょ</rt></ruby>",
+      "prompt": "じしょ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Ghế",
+        "Máy ảnh",
+        "Đồng hồ",
+        "Từ điển"
+      ],
+      "correctIndex": 3,
+      "explanation": "辞書【じしょ】= Từ điển"
+    },
+    {
+      "id": 49,
+      "promptHtml": "<ruby>雑誌<rt>ざっし</rt></ruby>",
+      "prompt": "ざっし",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Sô-cô-la",
+        "Radio",
+        "Ti vi",
+        "Tạp chí"
+      ],
+      "correctIndex": 3,
+      "explanation": "雑誌【ざっし】= Tạp chí"
+    },
+    {
+      "id": 50,
+      "promptHtml": "<ruby>新聞<rt>しんぶん</rt></ruby>",
+      "prompt": "しんぶん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Cảm ơn (thân mật)",
+        "Sách",
+        "Sổ tay nhỏ",
+        "Báo"
+      ],
+      "correctIndex": 3,
+      "explanation": "新聞【しんぶん】= Báo"
+    }
+  ]
+}

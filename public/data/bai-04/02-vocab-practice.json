@@ -1,0 +1,1098 @@
+{
+  "title": "Từ vựng luyện tập — Bài 4: いま 何時ですか",
+  "type": "vocab-practice",
+  "questions": [
+    {
+      "id": 1,
+      "prompt": "今",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Thứ Tư",
+        "Bắt đầu",
+        "Bây giờ",
+        "Chủ Nhật"
+      ],
+      "correctIndex": 2,
+      "explanation": "今【いま】= Bây giờ"
+    },
+    {
+      "id": 2,
+      "prompt": "~ giờ",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "終わります",
+        "～時",
+        "朝",
+        "毎日"
+      ],
+      "correctIndex": 1,
+      "explanation": "~ giờ = ～時【～じ】"
+    },
+    {
+      "id": 3,
+      "prompt": "～分",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "~ phút",
+        "Buổi sáng",
+        "Hôm kia",
+        "Ngân hàng"
+      ],
+      "correctIndex": 0,
+      "explanation": "～分【～ふん／～ぷん】= ~ phút"
+    },
+    {
+      "id": 4,
+      "prompt": "Rưỡi (30 phút)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "明日",
+        "働きます",
+        "デパート",
+        "半"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rưỡi (30 phút) = 半【はん】"
+    },
+    {
+      "id": 5,
+      "prompt": "何時",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Thư viện",
+        "Mấy giờ",
+        "Hôm nay",
+        "Kết thúc"
+      ],
+      "correctIndex": 1,
+      "explanation": "何時【なんじ】= Mấy giờ"
+    },
+    {
+      "id": 6,
+      "prompt": "Bao nhiêu phút",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "土曜日",
+        "夜",
+        "何分",
+        "寝ます"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bao nhiêu phút = 何分【なんぷん】"
+    },
+    {
+      "id": 7,
+      "prompt": "午前",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Tối nay",
+        "Hôm kia",
+        "Mấy giờ",
+        "Sáng (a.m.)"
+      ],
+      "correctIndex": 3,
+      "explanation": "午前【ごぜん】= Sáng (a.m.)"
+    },
+    {
+      "id": 8,
+      "prompt": "Chiều (p.m.)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "午後",
+        "晩",
+        "デパート",
+        "今晩"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chiều (p.m.) = 午後【ごご】"
+    },
+    {
+      "id": 9,
+      "prompt": "朝",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Buổi sáng",
+        "Thức dậy",
+        "Bao nhiêu phút",
+        "Đi ngủ"
+      ],
+      "correctIndex": 0,
+      "explanation": "朝【あさ】= Buổi sáng"
+    },
+    {
+      "id": 10,
+      "prompt": "Buổi trưa, ban ngày",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "デパート",
+        "金曜日",
+        "～分",
+        "昼"
+      ],
+      "correctIndex": 3,
+      "explanation": "Buổi trưa, ban ngày = 昼【ひる】"
+    },
+    {
+      "id": 11,
+      "prompt": "晩",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Bảo tàng nghệ thuật",
+        "Buổi tối",
+        "Sáng nay",
+        "Bây giờ"
+      ],
+      "correctIndex": 1,
+      "explanation": "晩【ばん】= Buổi tối"
+    },
+    {
+      "id": 12,
+      "prompt": "Ban đêm",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "夜",
+        "午後",
+        "木曜日",
+        "終わります"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ban đêm = 夜【よる】"
+    },
+    {
+      "id": 13,
+      "prompt": "おととい",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Bưu điện",
+        "Bắt đầu",
+        "Học",
+        "Hôm kia"
+      ],
+      "correctIndex": 3,
+      "explanation": "おととい【おととい】= Hôm kia"
+    },
+    {
+      "id": 14,
+      "prompt": "Hôm qua",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "火曜日",
+        "銀行",
+        "あさって",
+        "昨日"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hôm qua = 昨日【きのう】"
+    },
+    {
+      "id": 15,
+      "prompt": "今日",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Hôm qua",
+        "Chiều (p.m.)",
+        "Hôm nay",
+        "Mấy giờ"
+      ],
+      "correctIndex": 2,
+      "explanation": "今日【きょう】= Hôm nay"
+    },
+    {
+      "id": 16,
+      "prompt": "Ngày mai",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "明日",
+        "昨日",
+        "半",
+        "土曜日"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ngày mai = 明日【あした】"
+    },
+    {
+      "id": 17,
+      "prompt": "あさって",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Chiều (p.m.)",
+        "Ngày kia",
+        "Rưỡi (30 phút)",
+        "Thứ Hai"
+      ],
+      "correctIndex": 1,
+      "explanation": "あさって【あさって】= Ngày kia"
+    },
+    {
+      "id": 18,
+      "prompt": "Sáng nay",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "木曜日",
+        "美術館",
+        "今朝",
+        "休みます"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sáng nay = 今朝【けさ】"
+    },
+    {
+      "id": 19,
+      "prompt": "今晩",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Tối nay",
+        "Ngày kia",
+        "Học",
+        "~ giờ"
+      ],
+      "correctIndex": 0,
+      "explanation": "今晩【こんばん】= Tối nay"
+    },
+    {
+      "id": 20,
+      "prompt": "Mỗi ngày",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "夜",
+        "デパート",
+        "寝ます",
+        "毎日"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mỗi ngày = 毎日【まいにち】"
+    },
+    {
+      "id": 21,
+      "prompt": "毎朝",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Nghỉ ngơi",
+        "Thứ Ba",
+        "Buổi sáng",
+        "Mỗi sáng"
+      ],
+      "correctIndex": 3,
+      "explanation": "毎朝【まいあさ】= Mỗi sáng"
+    },
+    {
+      "id": 22,
+      "prompt": "Mỗi tối",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "～分",
+        "毎晩",
+        "おととい",
+        "終わります"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mỗi tối = 毎晩【まいばん】"
+    },
+    {
+      "id": 23,
+      "prompt": "起きます",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Hôm kia",
+        "Thức dậy",
+        "Buổi sáng",
+        "Bảo tàng nghệ thuật"
+      ],
+      "correctIndex": 1,
+      "explanation": "起きます【おきます】= Thức dậy"
+    },
+    {
+      "id": 24,
+      "prompt": "Đi ngủ",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "寝ます",
+        "昨日",
+        "何分",
+        "～分"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đi ngủ = 寝ます【ねます】"
+    },
+    {
+      "id": 25,
+      "prompt": "働きます",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Làm việc",
+        "Nghỉ ngơi",
+        "Đi ngủ",
+        "Rưỡi (30 phút)"
+      ],
+      "correctIndex": 0,
+      "explanation": "働きます【はたらきます】= Làm việc"
+    },
+    {
+      "id": 26,
+      "prompt": "Nghỉ ngơi",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "明日",
+        "休みます",
+        "夜",
+        "デパート"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nghỉ ngơi = 休みます【やすみます】"
+    },
+    {
+      "id": 27,
+      "prompt": "勉強します",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Hôm nay",
+        "Ngân hàng",
+        "Kết thúc",
+        "Học"
+      ],
+      "correctIndex": 3,
+      "explanation": "勉強します【べんきょうします】= Học"
+    },
+    {
+      "id": 28,
+      "prompt": "Kết thúc",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "終わります",
+        "木曜日",
+        "金曜日",
+        "昼"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kết thúc = 終わります【おわります】"
+    },
+    {
+      "id": 29,
+      "prompt": "始まります",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Bắt đầu",
+        "Mỗi ngày",
+        "Bao nhiêu phút",
+        "Bây giờ"
+      ],
+      "correctIndex": 0,
+      "explanation": "始まります【はじまります】= Bắt đầu"
+    },
+    {
+      "id": 30,
+      "prompt": "Cửa hàng bách hóa",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "火曜日",
+        "デパート",
+        "図書館",
+        "おととい"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cửa hàng bách hóa = デパート【デパート】"
+    },
+    {
+      "id": 31,
+      "prompt": "銀行",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Ngân hàng",
+        "Bây giờ",
+        "Buổi tối",
+        "Buổi sáng"
+      ],
+      "correctIndex": 0,
+      "explanation": "銀行【ぎんこう】= Ngân hàng"
+    },
+    {
+      "id": 32,
+      "prompt": "Bưu điện",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "デパート",
+        "郵便局",
+        "あさって",
+        "今"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bưu điện = 郵便局【ゆうびんきょく】"
+    },
+    {
+      "id": 33,
+      "prompt": "図書館",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Thứ Hai",
+        "Bắt đầu",
+        "Thư viện",
+        "~ phút"
+      ],
+      "correctIndex": 2,
+      "explanation": "図書館【としょかん】= Thư viện"
+    },
+    {
+      "id": 34,
+      "prompt": "Bảo tàng nghệ thuật",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "美術館",
+        "火曜日",
+        "月曜日",
+        "あさって"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bảo tàng nghệ thuật = 美術館【びじゅつかん】"
+    },
+    {
+      "id": 35,
+      "prompt": "月曜日",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Chiều (p.m.)",
+        "Thứ Hai",
+        "Ngày mai",
+        "Mỗi ngày"
+      ],
+      "correctIndex": 1,
+      "explanation": "月曜日【げつようび】= Thứ Hai"
+    },
+    {
+      "id": 36,
+      "prompt": "Thứ Ba",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "勉強します",
+        "働きます",
+        "銀行",
+        "火曜日"
+      ],
+      "correctIndex": 3,
+      "explanation": "Thứ Ba = 火曜日【かようび】"
+    },
+    {
+      "id": 37,
+      "prompt": "水曜日",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Thứ Tư",
+        "Buổi tối",
+        "Mỗi sáng",
+        "Mỗi ngày"
+      ],
+      "correctIndex": 0,
+      "explanation": "水曜日【すいようび】= Thứ Tư"
+    },
+    {
+      "id": 38,
+      "prompt": "Thứ Năm",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "木曜日",
+        "半",
+        "郵便局",
+        "午後"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thứ Năm = 木曜日【もくようび】"
+    },
+    {
+      "id": 39,
+      "prompt": "金曜日",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Thứ Sáu",
+        "Cửa hàng bách hóa",
+        "Buổi trưa, ban ngày",
+        "Mỗi sáng"
+      ],
+      "correctIndex": 0,
+      "explanation": "金曜日【きんようび】= Thứ Sáu"
+    },
+    {
+      "id": 40,
+      "prompt": "Thứ Bảy",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "おととい",
+        "土曜日",
+        "今日",
+        "働きます"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thứ Bảy = 土曜日【どようび】"
+    },
+    {
+      "id": 41,
+      "prompt": "日曜日",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Thứ Sáu",
+        "Thư viện",
+        "Chủ Nhật",
+        "Tối nay"
+      ],
+      "correctIndex": 2,
+      "explanation": "日曜日【にちようび】= Chủ Nhật"
+    },
+    {
+      "id": 42,
+      "prompt": "Thứ mấy",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "美術館",
+        "水曜日",
+        "何曜日",
+        "図書館"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thứ mấy = 何曜日【なんようび】"
+    },
+    {
+      "id": 43,
+      "prompt": "今",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Rưỡi (30 phút)",
+        "Mấy giờ",
+        "Bây giờ",
+        "Ngân hàng"
+      ],
+      "correctIndex": 2,
+      "explanation": "今【いま】= Bây giờ"
+    },
+    {
+      "id": 44,
+      "prompt": "~ giờ",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "半",
+        "～時",
+        "朝",
+        "起きます"
+      ],
+      "correctIndex": 1,
+      "explanation": "~ giờ = ～時【～じ】"
+    },
+    {
+      "id": 45,
+      "prompt": "～分",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "~ phút",
+        "Thứ Bảy",
+        "Buổi trưa, ban ngày",
+        "Hôm nay"
+      ],
+      "correctIndex": 0,
+      "explanation": "～分【～ふん／～ぷん】= ~ phút"
+    },
+    {
+      "id": 46,
+      "prompt": "Rưỡi (30 phút)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "終わります",
+        "美術館",
+        "半",
+        "おととい"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rưỡi (30 phút) = 半【はん】"
+    },
+    {
+      "id": 47,
+      "prompt": "何時",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "~ phút",
+        "Chủ Nhật",
+        "Bao nhiêu phút",
+        "Mấy giờ"
+      ],
+      "correctIndex": 3,
+      "explanation": "何時【なんじ】= Mấy giờ"
+    },
+    {
+      "id": 48,
+      "prompt": "Bao nhiêu phút",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "何分",
+        "月曜日",
+        "起きます",
+        "今朝"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bao nhiêu phút = 何分【なんぷん】"
+    },
+    {
+      "id": 49,
+      "prompt": "午前",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Sáng (a.m.)",
+        "Hôm qua",
+        "Ban đêm",
+        "Buổi tối"
+      ],
+      "correctIndex": 0,
+      "explanation": "午前【ごぜん】= Sáng (a.m.)"
+    },
+    {
+      "id": 50,
+      "prompt": "Chiều (p.m.)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "今日",
+        "午後",
+        "寝ます",
+        "金曜日"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chiều (p.m.) = 午後【ごご】"
+    },
+    {
+      "id": 51,
+      "prompt": "朝",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Làm việc",
+        "Thứ Bảy",
+        "Thứ Sáu",
+        "Buổi sáng"
+      ],
+      "correctIndex": 3,
+      "explanation": "朝【あさ】= Buổi sáng"
+    },
+    {
+      "id": 52,
+      "prompt": "Buổi trưa, ban ngày",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "郵便局",
+        "明日",
+        "美術館",
+        "昼"
+      ],
+      "correctIndex": 3,
+      "explanation": "Buổi trưa, ban ngày = 昼【ひる】"
+    },
+    {
+      "id": 53,
+      "prompt": "晩",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Làm việc",
+        "Bao nhiêu phút",
+        "Ngân hàng",
+        "Buổi tối"
+      ],
+      "correctIndex": 3,
+      "explanation": "晩【ばん】= Buổi tối"
+    },
+    {
+      "id": 54,
+      "prompt": "Ban đêm",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "夜",
+        "今晩",
+        "火曜日",
+        "美術館"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ban đêm = 夜【よる】"
+    },
+    {
+      "id": 55,
+      "prompt": "おととい",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Mấy giờ",
+        "Buổi trưa, ban ngày",
+        "Ngày kia",
+        "Hôm kia"
+      ],
+      "correctIndex": 3,
+      "explanation": "おととい【おととい】= Hôm kia"
+    },
+    {
+      "id": 56,
+      "prompt": "Hôm qua",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "～時",
+        "あさって",
+        "昨日",
+        "半"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hôm qua = 昨日【きのう】"
+    },
+    {
+      "id": 57,
+      "prompt": "今日",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Buổi sáng",
+        "Bao nhiêu phút",
+        "Hôm nay",
+        "Thứ mấy"
+      ],
+      "correctIndex": 2,
+      "explanation": "今日【きょう】= Hôm nay"
+    },
+    {
+      "id": 58,
+      "prompt": "Ngày mai",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "郵便局",
+        "終わります",
+        "何時",
+        "明日"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ngày mai = 明日【あした】"
+    },
+    {
+      "id": 59,
+      "prompt": "あさって",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Ngày kia",
+        "Thứ Bảy",
+        "Thứ Sáu",
+        "Chủ Nhật"
+      ],
+      "correctIndex": 0,
+      "explanation": "あさって【あさって】= Ngày kia"
+    },
+    {
+      "id": 60,
+      "prompt": "Sáng nay",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "今朝",
+        "図書館",
+        "昼",
+        "晩"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sáng nay = 今朝【けさ】"
+    },
+    {
+      "id": 61,
+      "prompt": "今晩",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Đi ngủ",
+        "Tối nay",
+        "~ giờ",
+        "Mỗi sáng"
+      ],
+      "correctIndex": 1,
+      "explanation": "今晩【こんばん】= Tối nay"
+    },
+    {
+      "id": 62,
+      "prompt": "Mỗi ngày",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "晩",
+        "何曜日",
+        "毎日",
+        "美術館"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mỗi ngày = 毎日【まいにち】"
+    },
+    {
+      "id": 63,
+      "prompt": "毎朝",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Thứ Sáu",
+        "Mỗi sáng",
+        "Bảo tàng nghệ thuật",
+        "Hôm qua"
+      ],
+      "correctIndex": 1,
+      "explanation": "毎朝【まいあさ】= Mỗi sáng"
+    },
+    {
+      "id": 64,
+      "prompt": "Mỗi tối",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "デパート",
+        "毎晩",
+        "木曜日",
+        "何時"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mỗi tối = 毎晩【まいばん】"
+    },
+    {
+      "id": 65,
+      "prompt": "起きます",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Mấy giờ",
+        "Thức dậy",
+        "Đi ngủ",
+        "Ban đêm"
+      ],
+      "correctIndex": 1,
+      "explanation": "起きます【おきます】= Thức dậy"
+    },
+    {
+      "id": 66,
+      "prompt": "Đi ngủ",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "朝",
+        "昨日",
+        "今晩",
+        "寝ます"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đi ngủ = 寝ます【ねます】"
+    },
+    {
+      "id": 67,
+      "prompt": "働きます",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Làm việc",
+        "Buổi trưa, ban ngày",
+        "Ngày kia",
+        "Hôm kia"
+      ],
+      "correctIndex": 0,
+      "explanation": "働きます【はたらきます】= Làm việc"
+    },
+    {
+      "id": 68,
+      "prompt": "Nghỉ ngơi",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "銀行",
+        "～分",
+        "今朝",
+        "休みます"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nghỉ ngơi = 休みます【やすみます】"
+    },
+    {
+      "id": 69,
+      "prompt": "勉強します",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Buổi trưa, ban ngày",
+        "Học",
+        "Sáng (a.m.)",
+        "Chủ Nhật"
+      ],
+      "correctIndex": 1,
+      "explanation": "勉強します【べんきょうします】= Học"
+    },
+    {
+      "id": 70,
+      "prompt": "Kết thúc",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "寝ます",
+        "毎晩",
+        "終わります",
+        "働きます"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kết thúc = 終わります【おわります】"
+    },
+    {
+      "id": 71,
+      "prompt": "始まります",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Thức dậy",
+        "Thứ Bảy",
+        "~ phút",
+        "Bắt đầu"
+      ],
+      "correctIndex": 3,
+      "explanation": "始まります【はじまります】= Bắt đầu"
+    },
+    {
+      "id": 72,
+      "prompt": "Cửa hàng bách hóa",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "日曜日",
+        "火曜日",
+        "木曜日",
+        "デパート"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cửa hàng bách hóa = デパート【デパート】"
+    },
+    {
+      "id": 73,
+      "prompt": "銀行",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Buổi tối",
+        "Ngân hàng",
+        "Sáng (a.m.)",
+        "Thứ Ba"
+      ],
+      "correctIndex": 1,
+      "explanation": "銀行【ぎんこう】= Ngân hàng"
+    },
+    {
+      "id": 74,
+      "prompt": "Bưu điện",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "何曜日",
+        "郵便局",
+        "今晩",
+        "晩"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bưu điện = 郵便局【ゆうびんきょく】"
+    },
+    {
+      "id": 75,
+      "prompt": "図書館",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Bảo tàng nghệ thuật",
+        "Thư viện",
+        "Sáng nay",
+        "Chủ Nhật"
+      ],
+      "correctIndex": 1,
+      "explanation": "図書館【としょかん】= Thư viện"
+    },
+    {
+      "id": 76,
+      "prompt": "Bảo tàng nghệ thuật",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "日曜日",
+        "終わります",
+        "美術館",
+        "おととい"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bảo tàng nghệ thuật = 美術館【びじゅつかん】"
+    },
+    {
+      "id": 77,
+      "prompt": "月曜日",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Thứ mấy",
+        "Thứ Hai",
+        "Bao nhiêu phút",
+        "Mấy giờ"
+      ],
+      "correctIndex": 1,
+      "explanation": "月曜日【げつようび】= Thứ Hai"
+    },
+    {
+      "id": 78,
+      "prompt": "Thứ Ba",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "あさって",
+        "今日",
+        "火曜日",
+        "月曜日"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thứ Ba = 火曜日【かようび】"
+    },
+    {
+      "id": 79,
+      "prompt": "水曜日",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Thứ Ba",
+        "Thứ Năm",
+        "Thứ Tư",
+        "Thứ mấy"
+      ],
+      "correctIndex": 2,
+      "explanation": "水曜日【すいようび】= Thứ Tư"
+    },
+    {
+      "id": 80,
+      "prompt": "Thứ Năm",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "勉強します",
+        "おととい",
+        "木曜日",
+        "昨日"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thứ Năm = 木曜日【もくようび】"
+    },
+    {
+      "id": 81,
+      "prompt": "金曜日",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Thứ Sáu",
+        "Bây giờ",
+        "Ngày kia",
+        "Tối nay"
+      ],
+      "correctIndex": 0,
+      "explanation": "金曜日【きんようび】= Thứ Sáu"
+    },
+    {
+      "id": 82,
+      "prompt": "Thứ Bảy",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "土曜日",
+        "銀行",
+        "晩",
+        "休みます"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thứ Bảy = 土曜日【どようび】"
+    },
+    {
+      "id": 83,
+      "prompt": "日曜日",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Chủ Nhật",
+        "Hôm kia",
+        "~ giờ",
+        "Thư viện"
+      ],
+      "correctIndex": 0,
+      "explanation": "日曜日【にちようび】= Chủ Nhật"
+    },
+    {
+      "id": 84,
+      "prompt": "Thứ mấy",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "銀行",
+        "今朝",
+        "あさって",
+        "何曜日"
+      ],
+      "correctIndex": 3,
+      "explanation": "Thứ mấy = 何曜日【なんようび】"
+    }
+  ]
+}

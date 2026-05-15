@@ -1,0 +1,699 @@
+{
+  "title": "Ngữ pháp & Trợ từ — Bài 1: はじめまして",
+  "type": "grammar",
+  "questions": [
+    {
+      "id": 1,
+      "prompt": "私は学生です",
+      "subPrompt": "Cấu trúc nào?",
+      "options": [
+        "N1 は N2 です",
+        "N も",
+        "N1 の N2",
+        "N1 は N2 じゃ ありません"
+      ],
+      "correctIndex": 0,
+      "explanation": "N1 là N2 (câu khẳng định lịch sự). Ví dụ: 私は学生です = Tôi là sinh viên"
+    },
+    {
+      "id": 2,
+      "prompt": "山田さんは先生です",
+      "subPrompt": "Cấu trúc nào?",
+      "options": [
+        "N1 は N2 じゃ ありません",
+        "N1 の N2",
+        "N1 は N2 です",
+        "N1 は N2 ですか"
+      ],
+      "correctIndex": 2,
+      "explanation": "N1 là N2 (câu khẳng định lịch sự). Ví dụ: 山田さんは先生です = Anh Yamada là giáo viên"
+    },
+    {
+      "id": 3,
+      "prompt": "私は医者じゃありません",
+      "subPrompt": "Cấu trúc nào?",
+      "options": [
+        "N1 は N2 ですか",
+        "N1 は N2 じゃ ありません",
+        "N1 の N2",
+        "N も"
+      ],
+      "correctIndex": 1,
+      "explanation": "N1 không phải là N2 (phủ định). Ví dụ: 私は医者じゃありません = Tôi không phải là bác sĩ"
+    },
+    {
+      "id": 4,
+      "prompt": "あなたは学生ですか",
+      "subPrompt": "Cấu trúc nào?",
+      "options": [
+        "N1 の N2",
+        "N も",
+        "N1 は N2 じゃ ありません",
+        "N1 は N2 ですか"
+      ],
+      "correctIndex": 3,
+      "explanation": "N1 có phải là N2 không? (câu hỏi). Ví dụ: あなたは学生ですか = Bạn có phải là sinh viên không?"
+    },
+    {
+      "id": 5,
+      "prompt": "私も学生です",
+      "subPrompt": "Cấu trúc nào?",
+      "options": [
+        "N も",
+        "N1 は N2 じゃ ありません",
+        "N1 は N2 ですか",
+        "N1 は N2 です"
+      ],
+      "correctIndex": 0,
+      "explanation": "N cũng... (chỉ sự tương đồng). Ví dụ: 私も学生です = Tôi cũng là sinh viên"
+    },
+    {
+      "id": 6,
+      "prompt": "私の名前",
+      "subPrompt": "Cấu trúc nào?",
+      "options": [
+        "N1 の N2",
+        "N1 は N2 です",
+        "N1 は N2 ですか",
+        "N1 は N2 じゃ ありません"
+      ],
+      "correctIndex": 0,
+      "explanation": "N1 sở hữu/thuộc về N2 (の chỉ sở hữu). Ví dụ: 私の名前 = Tên của tôi"
+    },
+    {
+      "id": 7,
+      "prompt": "IMC の社員",
+      "subPrompt": "Cấu trúc nào?",
+      "options": [
+        "N1 の N2",
+        "N1 は N2 です",
+        "N も",
+        "N1 は N2 ですか"
+      ],
+      "correctIndex": 0,
+      "explanation": "N1 sở hữu/thuộc về N2 (の chỉ sở hữu). Ví dụ: IMC の社員 = Nhân viên của IMC"
+    },
+    {
+      "id": 8,
+      "prompt": "あなたは学生です___",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "は",
+        "も",
+        "か",
+        "が",
+        "の"
+      ],
+      "correctIndex": 2,
+      "explanation": "か là trợ từ nghi vấn"
+    },
+    {
+      "id": 9,
+      "prompt": "私___学生です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "か",
+        "が",
+        "の",
+        "も",
+        "は"
+      ],
+      "correctIndex": 4,
+      "explanation": "は đánh dấu chủ đề"
+    },
+    {
+      "id": 10,
+      "prompt": "私___名前は田中です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "か",
+        "の",
+        "は",
+        "が",
+        "も"
+      ],
+      "correctIndex": 1,
+      "explanation": "の chỉ sở hữu"
+    },
+    {
+      "id": 11,
+      "prompt": "私___学生です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "も",
+        "は",
+        "が",
+        "の",
+        "か"
+      ],
+      "correctIndex": 0,
+      "explanation": "も = \"cũng\" (chỉ sự tương đồng)"
+    },
+    {
+      "id": 12,
+      "prompt": "あなたは学生です___",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "が",
+        "は",
+        "か",
+        "の",
+        "も"
+      ],
+      "correctIndex": 2,
+      "explanation": "か là trợ từ nghi vấn"
+    },
+    {
+      "id": 13,
+      "prompt": "私___学生です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "か",
+        "も",
+        "の",
+        "は",
+        "が"
+      ],
+      "correctIndex": 3,
+      "explanation": "は đánh dấu chủ đề"
+    },
+    {
+      "id": 14,
+      "prompt": "私___名前は田中です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "か",
+        "は",
+        "も",
+        "の",
+        "が"
+      ],
+      "correctIndex": 3,
+      "explanation": "の chỉ sở hữu"
+    },
+    {
+      "id": 15,
+      "prompt": "私___学生です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "も",
+        "の",
+        "か",
+        "が",
+        "は"
+      ],
+      "correctIndex": 0,
+      "explanation": "も = \"cũng\" (chỉ sự tương đồng)"
+    },
+    {
+      "id": 16,
+      "prompt": "あなたは学生です___",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "の",
+        "が",
+        "か",
+        "は",
+        "も"
+      ],
+      "correctIndex": 2,
+      "explanation": "か là trợ từ nghi vấn"
+    },
+    {
+      "id": 17,
+      "prompt": "私___学生です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "は",
+        "が",
+        "の",
+        "か",
+        "も"
+      ],
+      "correctIndex": 0,
+      "explanation": "は đánh dấu chủ đề"
+    },
+    {
+      "id": 18,
+      "prompt": "私___名前は田中です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "が",
+        "も",
+        "の",
+        "は",
+        "か"
+      ],
+      "correctIndex": 2,
+      "explanation": "の chỉ sở hữu"
+    },
+    {
+      "id": 19,
+      "prompt": "私___学生です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "が",
+        "か",
+        "は",
+        "の",
+        "も"
+      ],
+      "correctIndex": 4,
+      "explanation": "も = \"cũng\" (chỉ sự tương đồng)"
+    },
+    {
+      "id": 20,
+      "prompt": "あなたは学生です___",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "か",
+        "が",
+        "の",
+        "も",
+        "は"
+      ],
+      "correctIndex": 0,
+      "explanation": "か là trợ từ nghi vấn"
+    },
+    {
+      "id": 21,
+      "prompt": "私___学生です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "の",
+        "か",
+        "が",
+        "も",
+        "は"
+      ],
+      "correctIndex": 4,
+      "explanation": "は đánh dấu chủ đề"
+    },
+    {
+      "id": 22,
+      "prompt": "私___名前は田中です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "が",
+        "は",
+        "も",
+        "の",
+        "か"
+      ],
+      "correctIndex": 3,
+      "explanation": "の chỉ sở hữu"
+    },
+    {
+      "id": 23,
+      "prompt": "私___学生です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "が",
+        "の",
+        "か",
+        "も",
+        "は"
+      ],
+      "correctIndex": 3,
+      "explanation": "も = \"cũng\" (chỉ sự tương đồng)"
+    },
+    {
+      "id": 24,
+      "prompt": "あなたは学生です___",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "の",
+        "も",
+        "が",
+        "か",
+        "は"
+      ],
+      "correctIndex": 3,
+      "explanation": "か là trợ từ nghi vấn"
+    },
+    {
+      "id": 25,
+      "prompt": "私___学生です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "も",
+        "は",
+        "が",
+        "か",
+        "の"
+      ],
+      "correctIndex": 1,
+      "explanation": "は đánh dấu chủ đề"
+    },
+    {
+      "id": 26,
+      "prompt": "私___名前は田中です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "か",
+        "の",
+        "が",
+        "も",
+        "は"
+      ],
+      "correctIndex": 1,
+      "explanation": "の chỉ sở hữu"
+    },
+    {
+      "id": 27,
+      "prompt": "私___学生です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "も",
+        "は",
+        "の",
+        "が",
+        "か"
+      ],
+      "correctIndex": 0,
+      "explanation": "も = \"cũng\" (chỉ sự tương đồng)"
+    },
+    {
+      "id": 28,
+      "prompt": "あなたは学生です___",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "か",
+        "も",
+        "は",
+        "が",
+        "の"
+      ],
+      "correctIndex": 0,
+      "explanation": "か là trợ từ nghi vấn"
+    },
+    {
+      "id": 29,
+      "prompt": "私___学生です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "の",
+        "が",
+        "か",
+        "は",
+        "も"
+      ],
+      "correctIndex": 3,
+      "explanation": "は đánh dấu chủ đề"
+    },
+    {
+      "id": 30,
+      "prompt": "私___名前は田中です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "の",
+        "も",
+        "は",
+        "か",
+        "が"
+      ],
+      "correctIndex": 0,
+      "explanation": "の chỉ sở hữu"
+    },
+    {
+      "id": 31,
+      "prompt": "私___学生です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "は",
+        "も",
+        "が",
+        "か",
+        "の"
+      ],
+      "correctIndex": 1,
+      "explanation": "も = \"cũng\" (chỉ sự tương đồng)"
+    },
+    {
+      "id": 32,
+      "prompt": "あなたは学生です___",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "も",
+        "は",
+        "か",
+        "が",
+        "の"
+      ],
+      "correctIndex": 2,
+      "explanation": "か là trợ từ nghi vấn"
+    },
+    {
+      "id": 33,
+      "prompt": "私___学生です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "が",
+        "か",
+        "は",
+        "も",
+        "の"
+      ],
+      "correctIndex": 2,
+      "explanation": "は đánh dấu chủ đề"
+    },
+    {
+      "id": 34,
+      "prompt": "私___名前は田中です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "か",
+        "も",
+        "は",
+        "の",
+        "が"
+      ],
+      "correctIndex": 3,
+      "explanation": "の chỉ sở hữu"
+    },
+    {
+      "id": 35,
+      "prompt": "私___学生です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "の",
+        "が",
+        "か",
+        "も",
+        "は"
+      ],
+      "correctIndex": 3,
+      "explanation": "も = \"cũng\" (chỉ sự tương đồng)"
+    },
+    {
+      "id": 36,
+      "prompt": "あなたは学生です___",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "か",
+        "は",
+        "の",
+        "も",
+        "が"
+      ],
+      "correctIndex": 0,
+      "explanation": "か là trợ từ nghi vấn"
+    },
+    {
+      "id": 37,
+      "prompt": "私___学生です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "の",
+        "か",
+        "が",
+        "は",
+        "も"
+      ],
+      "correctIndex": 3,
+      "explanation": "は đánh dấu chủ đề"
+    },
+    {
+      "id": 38,
+      "prompt": "私___名前は田中です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "が",
+        "は",
+        "か",
+        "の",
+        "も"
+      ],
+      "correctIndex": 3,
+      "explanation": "の chỉ sở hữu"
+    },
+    {
+      "id": 39,
+      "prompt": "私___学生です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "も",
+        "か",
+        "が",
+        "は",
+        "の"
+      ],
+      "correctIndex": 0,
+      "explanation": "も = \"cũng\" (chỉ sự tương đồng)"
+    },
+    {
+      "id": 40,
+      "prompt": "あなたは学生です___",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "も",
+        "は",
+        "が",
+        "の",
+        "か"
+      ],
+      "correctIndex": 4,
+      "explanation": "か là trợ từ nghi vấn"
+    },
+    {
+      "id": 41,
+      "prompt": "私___学生です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "が",
+        "も",
+        "か",
+        "の",
+        "は"
+      ],
+      "correctIndex": 4,
+      "explanation": "は đánh dấu chủ đề"
+    },
+    {
+      "id": 42,
+      "prompt": "私___名前は田中です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "が",
+        "は",
+        "も",
+        "の",
+        "か"
+      ],
+      "correctIndex": 3,
+      "explanation": "の chỉ sở hữu"
+    },
+    {
+      "id": 43,
+      "prompt": "私___学生です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "も",
+        "の",
+        "は",
+        "が",
+        "か"
+      ],
+      "correctIndex": 0,
+      "explanation": "も = \"cũng\" (chỉ sự tương đồng)"
+    },
+    {
+      "id": 44,
+      "prompt": "あなたは学生です___",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "も",
+        "か",
+        "は",
+        "が",
+        "の"
+      ],
+      "correctIndex": 1,
+      "explanation": "か là trợ từ nghi vấn"
+    },
+    {
+      "id": 45,
+      "prompt": "私___学生です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "の",
+        "か",
+        "は",
+        "も",
+        "が"
+      ],
+      "correctIndex": 2,
+      "explanation": "は đánh dấu chủ đề"
+    },
+    {
+      "id": 46,
+      "prompt": "私___名前は田中です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "は",
+        "の",
+        "か",
+        "も",
+        "が"
+      ],
+      "correctIndex": 1,
+      "explanation": "の chỉ sở hữu"
+    },
+    {
+      "id": 47,
+      "prompt": "私___学生です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "か",
+        "も",
+        "は",
+        "の",
+        "が"
+      ],
+      "correctIndex": 1,
+      "explanation": "も = \"cũng\" (chỉ sự tương đồng)"
+    },
+    {
+      "id": 48,
+      "prompt": "あなたは学生です___",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "も",
+        "は",
+        "か",
+        "が",
+        "の"
+      ],
+      "correctIndex": 2,
+      "explanation": "か là trợ từ nghi vấn"
+    },
+    {
+      "id": 49,
+      "prompt": "私___学生です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "が",
+        "も",
+        "か",
+        "は",
+        "の"
+      ],
+      "correctIndex": 3,
+      "explanation": "は đánh dấu chủ đề"
+    },
+    {
+      "id": 50,
+      "prompt": "私___名前は田中です",
+      "subPrompt": "Trợ từ thích hợp?",
+      "options": [
+        "が",
+        "か",
+        "も",
+        "は",
+        "の"
+      ],
+      "correctIndex": 4,
+      "explanation": "の chỉ sở hữu"
+    }
+  ]
+}

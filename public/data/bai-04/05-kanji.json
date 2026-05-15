@@ -1,0 +1,1020 @@
+{
+  "title": "Ôn tập Kanji — Bài 4: いま 何時ですか",
+  "type": "kanji",
+  "questions": [
+    {
+      "id": 1,
+      "prompt": "今",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ゆうびんきょく",
+        "ぎんこう",
+        "いま",
+        "ねます"
+      ],
+      "correctIndex": 2,
+      "explanation": "今 đọc là いま = Bây giờ"
+    },
+    {
+      "id": 2,
+      "prompt": "～時",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Bảo tàng nghệ thuật",
+        "Đi ngủ",
+        "Mỗi ngày",
+        "~ giờ"
+      ],
+      "correctIndex": 3,
+      "explanation": "～時【～じ】= ~ giờ"
+    },
+    {
+      "id": 3,
+      "prompt": "～分",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "きんようび",
+        "まいあさ",
+        "～ふん／～ぷん",
+        "よる"
+      ],
+      "correctIndex": 2,
+      "explanation": "～分 đọc là ～ふん／～ぷん = ~ phút"
+    },
+    {
+      "id": 4,
+      "prompt": "半",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Buổi trưa, ban ngày",
+        "Rưỡi (30 phút)",
+        "Bắt đầu",
+        "Bao nhiêu phút"
+      ],
+      "correctIndex": 1,
+      "explanation": "半【はん】= Rưỡi (30 phút)"
+    },
+    {
+      "id": 5,
+      "prompt": "何時",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "けさ",
+        "いま",
+        "なんじ",
+        "おきます"
+      ],
+      "correctIndex": 2,
+      "explanation": "何時 đọc là なんじ = Mấy giờ"
+    },
+    {
+      "id": 6,
+      "prompt": "何分",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Bưu điện",
+        "Bao nhiêu phút",
+        "Chiều (p.m.)",
+        "Làm việc"
+      ],
+      "correctIndex": 1,
+      "explanation": "何分【なんぷん】= Bao nhiêu phút"
+    },
+    {
+      "id": 7,
+      "prompt": "午前",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ごぜん",
+        "～じ",
+        "まいばん",
+        "なんじ"
+      ],
+      "correctIndex": 0,
+      "explanation": "午前 đọc là ごぜん = Sáng (a.m.)"
+    },
+    {
+      "id": 8,
+      "prompt": "午後",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Chiều (p.m.)",
+        "Học",
+        "Thức dậy",
+        "Buổi trưa, ban ngày"
+      ],
+      "correctIndex": 0,
+      "explanation": "午後【ごご】= Chiều (p.m.)"
+    },
+    {
+      "id": 9,
+      "prompt": "朝",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ごご",
+        "あさ",
+        "けさ",
+        "ねます"
+      ],
+      "correctIndex": 1,
+      "explanation": "朝 đọc là あさ = Buổi sáng"
+    },
+    {
+      "id": 10,
+      "prompt": "昼",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Bắt đầu",
+        "Chủ Nhật",
+        "Buổi trưa, ban ngày",
+        "Ngày mai"
+      ],
+      "correctIndex": 2,
+      "explanation": "昼【ひる】= Buổi trưa, ban ngày"
+    },
+    {
+      "id": 11,
+      "prompt": "晩",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ばん",
+        "きんようび",
+        "まいにち",
+        "べんきょうします"
+      ],
+      "correctIndex": 0,
+      "explanation": "晩 đọc là ばん = Buổi tối"
+    },
+    {
+      "id": 12,
+      "prompt": "夜",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Bưu điện",
+        "Ban đêm",
+        "Thứ Năm",
+        "Thứ Ba"
+      ],
+      "correctIndex": 1,
+      "explanation": "夜【よる】= Ban đêm"
+    },
+    {
+      "id": 13,
+      "prompt": "昨日",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "はん",
+        "あした",
+        "きのう",
+        "まいばん"
+      ],
+      "correctIndex": 2,
+      "explanation": "昨日 đọc là きのう = Hôm qua"
+    },
+    {
+      "id": 14,
+      "prompt": "今日",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Buổi trưa, ban ngày",
+        "Hôm nay",
+        "Thức dậy",
+        "Bưu điện"
+      ],
+      "correctIndex": 1,
+      "explanation": "今日【きょう】= Hôm nay"
+    },
+    {
+      "id": 15,
+      "prompt": "明日",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "きんようび",
+        "としょかん",
+        "あした",
+        "びじゅつかん"
+      ],
+      "correctIndex": 2,
+      "explanation": "明日 đọc là あした = Ngày mai"
+    },
+    {
+      "id": 16,
+      "prompt": "今朝",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Sáng nay",
+        "Thứ mấy",
+        "Hôm nay",
+        "Thứ Sáu"
+      ],
+      "correctIndex": 0,
+      "explanation": "今朝【けさ】= Sáng nay"
+    },
+    {
+      "id": 17,
+      "prompt": "今晩",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "こんばん",
+        "おきます",
+        "けさ",
+        "べんきょうします"
+      ],
+      "correctIndex": 0,
+      "explanation": "今晩 đọc là こんばん = Tối nay"
+    },
+    {
+      "id": 18,
+      "prompt": "毎日",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Mỗi ngày",
+        "Thứ Hai",
+        "Hôm qua",
+        "Buổi tối"
+      ],
+      "correctIndex": 0,
+      "explanation": "毎日【まいにち】= Mỗi ngày"
+    },
+    {
+      "id": 19,
+      "prompt": "毎朝",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "いま",
+        "よる",
+        "きのう",
+        "まいあさ"
+      ],
+      "correctIndex": 3,
+      "explanation": "毎朝 đọc là まいあさ = Mỗi sáng"
+    },
+    {
+      "id": 20,
+      "prompt": "毎晩",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "~ giờ",
+        "Bưu điện",
+        "Mỗi tối",
+        "Ban đêm"
+      ],
+      "correctIndex": 2,
+      "explanation": "毎晩【まいばん】= Mỗi tối"
+    },
+    {
+      "id": 21,
+      "prompt": "起きます",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ごぜん",
+        "おきます",
+        "はたらきます",
+        "ばん"
+      ],
+      "correctIndex": 1,
+      "explanation": "起きます đọc là おきます = Thức dậy"
+    },
+    {
+      "id": 22,
+      "prompt": "寝ます",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Thứ Hai",
+        "Đi ngủ",
+        "Thứ Bảy",
+        "Kết thúc"
+      ],
+      "correctIndex": 1,
+      "explanation": "寝ます【ねます】= Đi ngủ"
+    },
+    {
+      "id": 23,
+      "prompt": "働きます",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "～ふん／～ぷん",
+        "ごぜん",
+        "はたらきます",
+        "～じ"
+      ],
+      "correctIndex": 2,
+      "explanation": "働きます đọc là はたらきます = Làm việc"
+    },
+    {
+      "id": 24,
+      "prompt": "休みます",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Kết thúc",
+        "Chủ Nhật",
+        "Nghỉ ngơi",
+        "~ phút"
+      ],
+      "correctIndex": 2,
+      "explanation": "休みます【やすみます】= Nghỉ ngơi"
+    },
+    {
+      "id": 25,
+      "prompt": "勉強します",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ひる",
+        "はじまります",
+        "あした",
+        "べんきょうします"
+      ],
+      "correctIndex": 3,
+      "explanation": "勉強します đọc là べんきょうします = Học"
+    },
+    {
+      "id": 26,
+      "prompt": "終わります",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Thứ Tư",
+        "Kết thúc",
+        "Chiều (p.m.)",
+        "Mỗi tối"
+      ],
+      "correctIndex": 1,
+      "explanation": "終わります【おわります】= Kết thúc"
+    },
+    {
+      "id": 27,
+      "prompt": "始まります",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "げつようび",
+        "あした",
+        "はじまります",
+        "こんばん"
+      ],
+      "correctIndex": 2,
+      "explanation": "始まります đọc là はじまります = Bắt đầu"
+    },
+    {
+      "id": 28,
+      "prompt": "銀行",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Thứ Bảy",
+        "Bảo tàng nghệ thuật",
+        "~ giờ",
+        "Ngân hàng"
+      ],
+      "correctIndex": 3,
+      "explanation": "銀行【ぎんこう】= Ngân hàng"
+    },
+    {
+      "id": 29,
+      "prompt": "郵便局",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "おきます",
+        "はん",
+        "ごご",
+        "ゆうびんきょく"
+      ],
+      "correctIndex": 3,
+      "explanation": "郵便局 đọc là ゆうびんきょく = Bưu điện"
+    },
+    {
+      "id": 30,
+      "prompt": "図書館",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Thứ Ba",
+        "Mấy giờ",
+        "Thư viện",
+        "Thứ Sáu"
+      ],
+      "correctIndex": 2,
+      "explanation": "図書館【としょかん】= Thư viện"
+    },
+    {
+      "id": 31,
+      "prompt": "美術館",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "きのう",
+        "かようび",
+        "びじゅつかん",
+        "ごご"
+      ],
+      "correctIndex": 2,
+      "explanation": "美術館 đọc là びじゅつかん = Bảo tàng nghệ thuật"
+    },
+    {
+      "id": 32,
+      "prompt": "月曜日",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Thứ Hai",
+        "Bây giờ",
+        "Kết thúc",
+        "Chủ Nhật"
+      ],
+      "correctIndex": 0,
+      "explanation": "月曜日【げつようび】= Thứ Hai"
+    },
+    {
+      "id": 33,
+      "prompt": "火曜日",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "べんきょうします",
+        "ごご",
+        "かようび",
+        "もくようび"
+      ],
+      "correctIndex": 2,
+      "explanation": "火曜日 đọc là かようび = Thứ Ba"
+    },
+    {
+      "id": 34,
+      "prompt": "水曜日",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Hôm qua",
+        "Thứ Ba",
+        "Học",
+        "Thứ Tư"
+      ],
+      "correctIndex": 3,
+      "explanation": "水曜日【すいようび】= Thứ Tư"
+    },
+    {
+      "id": 35,
+      "prompt": "木曜日",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "なんようび",
+        "もくようび",
+        "ねます",
+        "よる"
+      ],
+      "correctIndex": 1,
+      "explanation": "木曜日 đọc là もくようび = Thứ Năm"
+    },
+    {
+      "id": 36,
+      "prompt": "金曜日",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Bảo tàng nghệ thuật",
+        "Thứ mấy",
+        "Thứ Ba",
+        "Thứ Sáu"
+      ],
+      "correctIndex": 3,
+      "explanation": "金曜日【きんようび】= Thứ Sáu"
+    },
+    {
+      "id": 37,
+      "prompt": "土曜日",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "としょかん",
+        "なんようび",
+        "まいばん",
+        "どようび"
+      ],
+      "correctIndex": 3,
+      "explanation": "土曜日 đọc là どようび = Thứ Bảy"
+    },
+    {
+      "id": 38,
+      "prompt": "日曜日",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Bảo tàng nghệ thuật",
+        "Chủ Nhật",
+        "Thứ mấy",
+        "~ giờ"
+      ],
+      "correctIndex": 1,
+      "explanation": "日曜日【にちようび】= Chủ Nhật"
+    },
+    {
+      "id": 39,
+      "prompt": "何曜日",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "なんようび",
+        "いま",
+        "はん",
+        "なんじ"
+      ],
+      "correctIndex": 0,
+      "explanation": "何曜日 đọc là なんようび = Thứ mấy"
+    },
+    {
+      "id": 40,
+      "prompt": "今",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Thứ mấy",
+        "Bây giờ",
+        "Làm việc",
+        "Thứ Bảy"
+      ],
+      "correctIndex": 1,
+      "explanation": "今【いま】= Bây giờ"
+    },
+    {
+      "id": 41,
+      "prompt": "～時",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "あした",
+        "ばん",
+        "～じ",
+        "きんようび"
+      ],
+      "correctIndex": 2,
+      "explanation": "～時 đọc là ～じ = ~ giờ"
+    },
+    {
+      "id": 42,
+      "prompt": "～分",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Kết thúc",
+        "Thứ Năm",
+        "Thức dậy",
+        "~ phút"
+      ],
+      "correctIndex": 3,
+      "explanation": "～分【～ふん／～ぷん】= ~ phút"
+    },
+    {
+      "id": 43,
+      "prompt": "半",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "きょう",
+        "ごぜん",
+        "ひる",
+        "はん"
+      ],
+      "correctIndex": 3,
+      "explanation": "半 đọc là はん = Rưỡi (30 phút)"
+    },
+    {
+      "id": 44,
+      "prompt": "何時",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Thứ Năm",
+        "Bắt đầu",
+        "Mấy giờ",
+        "Hôm qua"
+      ],
+      "correctIndex": 2,
+      "explanation": "何時【なんじ】= Mấy giờ"
+    },
+    {
+      "id": 45,
+      "prompt": "何分",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "きんようび",
+        "きょう",
+        "なんぷん",
+        "おわります"
+      ],
+      "correctIndex": 2,
+      "explanation": "何分 đọc là なんぷん = Bao nhiêu phút"
+    },
+    {
+      "id": 46,
+      "prompt": "午前",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Buổi trưa, ban ngày",
+        "Sáng (a.m.)",
+        "Buổi tối",
+        "Hôm qua"
+      ],
+      "correctIndex": 1,
+      "explanation": "午前【ごぜん】= Sáng (a.m.)"
+    },
+    {
+      "id": 47,
+      "prompt": "午後",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "はん",
+        "にちようび",
+        "ごご",
+        "はじまります"
+      ],
+      "correctIndex": 2,
+      "explanation": "午後 đọc là ごご = Chiều (p.m.)"
+    },
+    {
+      "id": 48,
+      "prompt": "朝",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Bắt đầu",
+        "Buổi sáng",
+        "Buổi trưa, ban ngày",
+        "Đi ngủ"
+      ],
+      "correctIndex": 1,
+      "explanation": "朝【あさ】= Buổi sáng"
+    },
+    {
+      "id": 49,
+      "prompt": "昼",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "～ふん／～ぷん",
+        "ぎんこう",
+        "きのう",
+        "ひる"
+      ],
+      "correctIndex": 3,
+      "explanation": "昼 đọc là ひる = Buổi trưa, ban ngày"
+    },
+    {
+      "id": 50,
+      "prompt": "晩",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Học",
+        "Chiều (p.m.)",
+        "Buổi tối",
+        "Sáng (a.m.)"
+      ],
+      "correctIndex": 2,
+      "explanation": "晩【ばん】= Buổi tối"
+    },
+    {
+      "id": 51,
+      "prompt": "夜",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "あした",
+        "ねます",
+        "よる",
+        "げつようび"
+      ],
+      "correctIndex": 2,
+      "explanation": "夜 đọc là よる = Ban đêm"
+    },
+    {
+      "id": 52,
+      "prompt": "昨日",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Thứ mấy",
+        "Hôm qua",
+        "Thứ Năm",
+        "Nghỉ ngơi"
+      ],
+      "correctIndex": 1,
+      "explanation": "昨日【きのう】= Hôm qua"
+    },
+    {
+      "id": 53,
+      "prompt": "今日",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "きょう",
+        "にちようび",
+        "こんばん",
+        "げつようび"
+      ],
+      "correctIndex": 0,
+      "explanation": "今日 đọc là きょう = Hôm nay"
+    },
+    {
+      "id": 54,
+      "prompt": "明日",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Rưỡi (30 phút)",
+        "Ngày mai",
+        "Thức dậy",
+        "Thứ Hai"
+      ],
+      "correctIndex": 1,
+      "explanation": "明日【あした】= Ngày mai"
+    },
+    {
+      "id": 55,
+      "prompt": "今朝",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "けさ",
+        "なんようび",
+        "きのう",
+        "いま"
+      ],
+      "correctIndex": 0,
+      "explanation": "今朝 đọc là けさ = Sáng nay"
+    },
+    {
+      "id": 56,
+      "prompt": "今晩",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Chủ Nhật",
+        "Thứ Hai",
+        "Rưỡi (30 phút)",
+        "Tối nay"
+      ],
+      "correctIndex": 3,
+      "explanation": "今晩【こんばん】= Tối nay"
+    },
+    {
+      "id": 57,
+      "prompt": "毎日",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "まいにち",
+        "はじまります",
+        "きんようび",
+        "おわります"
+      ],
+      "correctIndex": 0,
+      "explanation": "毎日 đọc là まいにち = Mỗi ngày"
+    },
+    {
+      "id": 58,
+      "prompt": "毎朝",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Buổi tối",
+        "Nghỉ ngơi",
+        "Thứ mấy",
+        "Mỗi sáng"
+      ],
+      "correctIndex": 3,
+      "explanation": "毎朝【まいあさ】= Mỗi sáng"
+    },
+    {
+      "id": 59,
+      "prompt": "毎晩",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "なんじ",
+        "まいばん",
+        "としょかん",
+        "まいにち"
+      ],
+      "correctIndex": 1,
+      "explanation": "毎晩 đọc là まいばん = Mỗi tối"
+    },
+    {
+      "id": 60,
+      "prompt": "起きます",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Nghỉ ngơi",
+        "Hôm qua",
+        "Chủ Nhật",
+        "Thức dậy"
+      ],
+      "correctIndex": 3,
+      "explanation": "起きます【おきます】= Thức dậy"
+    },
+    {
+      "id": 61,
+      "prompt": "寝ます",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "やすみます",
+        "ねます",
+        "まいばん",
+        "かようび"
+      ],
+      "correctIndex": 1,
+      "explanation": "寝ます đọc là ねます = Đi ngủ"
+    },
+    {
+      "id": 62,
+      "prompt": "働きます",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Ban đêm",
+        "Mỗi tối",
+        "Làm việc",
+        "Hôm qua"
+      ],
+      "correctIndex": 2,
+      "explanation": "働きます【はたらきます】= Làm việc"
+    },
+    {
+      "id": 63,
+      "prompt": "休みます",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "やすみます",
+        "あした",
+        "おきます",
+        "なんようび"
+      ],
+      "correctIndex": 0,
+      "explanation": "休みます đọc là やすみます = Nghỉ ngơi"
+    },
+    {
+      "id": 64,
+      "prompt": "勉強します",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Thứ Hai",
+        "Mỗi ngày",
+        "Mỗi sáng",
+        "Học"
+      ],
+      "correctIndex": 3,
+      "explanation": "勉強します【べんきょうします】= Học"
+    },
+    {
+      "id": 65,
+      "prompt": "終わります",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "びじゅつかん",
+        "げつようび",
+        "なんぷん",
+        "おわります"
+      ],
+      "correctIndex": 3,
+      "explanation": "終わります đọc là おわります = Kết thúc"
+    },
+    {
+      "id": 66,
+      "prompt": "始まります",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Thứ Hai",
+        "Bắt đầu",
+        "Kết thúc",
+        "Ban đêm"
+      ],
+      "correctIndex": 1,
+      "explanation": "始まります【はじまります】= Bắt đầu"
+    },
+    {
+      "id": 67,
+      "prompt": "銀行",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "かようび",
+        "ばん",
+        "ぎんこう",
+        "なんようび"
+      ],
+      "correctIndex": 2,
+      "explanation": "銀行 đọc là ぎんこう = Ngân hàng"
+    },
+    {
+      "id": 68,
+      "prompt": "郵便局",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Buổi trưa, ban ngày",
+        "Bưu điện",
+        "Thư viện",
+        "Học"
+      ],
+      "correctIndex": 1,
+      "explanation": "郵便局【ゆうびんきょく】= Bưu điện"
+    },
+    {
+      "id": 69,
+      "prompt": "図書館",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "にちようび",
+        "としょかん",
+        "まいにち",
+        "おきます"
+      ],
+      "correctIndex": 1,
+      "explanation": "図書館 đọc là としょかん = Thư viện"
+    },
+    {
+      "id": 70,
+      "prompt": "美術館",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Mỗi ngày",
+        "Bưu điện",
+        "Sáng nay",
+        "Bảo tàng nghệ thuật"
+      ],
+      "correctIndex": 3,
+      "explanation": "美術館【びじゅつかん】= Bảo tàng nghệ thuật"
+    },
+    {
+      "id": 71,
+      "prompt": "月曜日",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "はじまります",
+        "あさ",
+        "きのう",
+        "げつようび"
+      ],
+      "correctIndex": 3,
+      "explanation": "月曜日 đọc là げつようび = Thứ Hai"
+    },
+    {
+      "id": 72,
+      "prompt": "火曜日",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Bao nhiêu phút",
+        "Thứ Năm",
+        "Thứ Bảy",
+        "Thứ Ba"
+      ],
+      "correctIndex": 3,
+      "explanation": "火曜日【かようび】= Thứ Ba"
+    },
+    {
+      "id": 73,
+      "prompt": "水曜日",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "もくようび",
+        "すいようび",
+        "～じ",
+        "にちようび"
+      ],
+      "correctIndex": 1,
+      "explanation": "水曜日 đọc là すいようび = Thứ Tư"
+    },
+    {
+      "id": 74,
+      "prompt": "木曜日",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Buổi trưa, ban ngày",
+        "Hôm qua",
+        "Thứ Năm",
+        "Tối nay"
+      ],
+      "correctIndex": 2,
+      "explanation": "木曜日【もくようび】= Thứ Năm"
+    },
+    {
+      "id": 75,
+      "prompt": "金曜日",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "きんようび",
+        "けさ",
+        "～ふん／～ぷん",
+        "はじまります"
+      ],
+      "correctIndex": 0,
+      "explanation": "金曜日 đọc là きんようび = Thứ Sáu"
+    },
+    {
+      "id": 76,
+      "prompt": "土曜日",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Bây giờ",
+        "Bưu điện",
+        "Sáng (a.m.)",
+        "Thứ Bảy"
+      ],
+      "correctIndex": 3,
+      "explanation": "土曜日【どようび】= Thứ Bảy"
+    },
+    {
+      "id": 77,
+      "prompt": "日曜日",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "すいようび",
+        "ゆうびんきょく",
+        "にちようび",
+        "ばん"
+      ],
+      "correctIndex": 2,
+      "explanation": "日曜日 đọc là にちようび = Chủ Nhật"
+    },
+    {
+      "id": 78,
+      "prompt": "何曜日",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Bưu điện",
+        "Bây giờ",
+        "Thứ mấy",
+        "Mỗi tối"
+      ],
+      "correctIndex": 2,
+      "explanation": "何曜日【なんようび】= Thứ mấy"
+    }
+  ]
+}

@@ -1,0 +1,864 @@
+{
+  "title": "Ôn tập Kanji — Bài 5: ～へ いきます",
+  "type": "kanji",
+  "questions": [
+    {
+      "id": 1,
+      "prompt": "行きます",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "いきます",
+        "あるいて",
+        "こんしゅう",
+        "じてんしゃ"
+      ],
+      "correctIndex": 0,
+      "explanation": "行きます đọc là いきます = Đi"
+    },
+    {
+      "id": 2,
+      "prompt": "来ます",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Ngày mấy",
+        "Đi bộ",
+        "Tháng trước",
+        "Đến"
+      ],
+      "correctIndex": 3,
+      "explanation": "来ます【きます】= Đến"
+    },
+    {
+      "id": 3,
+      "prompt": "帰ります",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "らいねん",
+        "かえります",
+        "ことし",
+        "～にち"
+      ],
+      "correctIndex": 1,
+      "explanation": "帰ります đọc là かえります = Về (nhà/quê)"
+    },
+    {
+      "id": 4,
+      "prompt": "学校",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Trường học",
+        "Đến",
+        "Về (nhà/quê)",
+        "Tuần trước"
+      ],
+      "correctIndex": 0,
+      "explanation": "学校【がっこう】= Trường học"
+    },
+    {
+      "id": 5,
+      "prompt": "駅",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "でんしゃ",
+        "なんがつ",
+        "せんしゅう",
+        "えき"
+      ],
+      "correctIndex": 3,
+      "explanation": "駅 đọc là えき = Nhà ga"
+    },
+    {
+      "id": 6,
+      "prompt": "飛行機",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tháng ~",
+        "Tàu Shinkansen",
+        "Máy bay",
+        "Tàu điện"
+      ],
+      "correctIndex": 2,
+      "explanation": "飛行機【ひこうき】= Máy bay"
+    },
+    {
+      "id": 7,
+      "prompt": "船",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "こんげつ",
+        "～がつ",
+        "ふね",
+        "じてんしゃ"
+      ],
+      "correctIndex": 2,
+      "explanation": "船 đọc là ふね = Tàu thủy"
+    },
+    {
+      "id": 8,
+      "prompt": "電車",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Sinh nhật",
+        "Ngày mấy",
+        "Đi",
+        "Tàu điện"
+      ],
+      "correctIndex": 3,
+      "explanation": "電車【でんしゃ】= Tàu điện"
+    },
+    {
+      "id": 9,
+      "prompt": "地下鉄",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "なんがつ",
+        "ひとりで",
+        "こんしゅう",
+        "ちかてつ"
+      ],
+      "correctIndex": 3,
+      "explanation": "地下鉄 đọc là ちかてつ = Tàu điện ngầm"
+    },
+    {
+      "id": 10,
+      "prompt": "新幹線",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Năm ngoái",
+        "Tàu Shinkansen",
+        "Tháng ~",
+        "Ngày mấy"
+      ],
+      "correctIndex": 1,
+      "explanation": "新幹線【しんかんせん】= Tàu Shinkansen"
+    },
+    {
+      "id": 11,
+      "prompt": "自転車",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "～がつ",
+        "じてんしゃ",
+        "ひと",
+        "ともだち"
+      ],
+      "correctIndex": 1,
+      "explanation": "自転車 đọc là じてんしゃ = Xe đạp"
+    },
+    {
+      "id": 12,
+      "prompt": "歩いて",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tháng trước",
+        "Tháng này",
+        "Đi bộ",
+        "Trường học"
+      ],
+      "correctIndex": 2,
+      "explanation": "歩いて【あるいて】= Đi bộ"
+    },
+    {
+      "id": 13,
+      "prompt": "人",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "しんかんせん",
+        "ひと",
+        "たんじょうび",
+        "じてんしゃ"
+      ],
+      "correctIndex": 1,
+      "explanation": "人 đọc là ひと = Người"
+    },
+    {
+      "id": 14,
+      "prompt": "友達",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Đi",
+        "Bạn bè",
+        "Gia đình",
+        "Trường học"
+      ],
+      "correctIndex": 1,
+      "explanation": "友達【ともだち】= Bạn bè"
+    },
+    {
+      "id": 15,
+      "prompt": "彼",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "～ねん",
+        "しんかんせん",
+        "かれ",
+        "かえります"
+      ],
+      "correctIndex": 2,
+      "explanation": "彼 đọc là かれ = Anh ấy, người yêu (nam)"
+    },
+    {
+      "id": 16,
+      "prompt": "彼女",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Đi bộ",
+        "Cô ấy, người yêu (nữ)",
+        "Máy bay",
+        "Đi"
+      ],
+      "correctIndex": 1,
+      "explanation": "彼女【かのじょ】= Cô ấy, người yêu (nữ)"
+    },
+    {
+      "id": 17,
+      "prompt": "家族",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "～がつ",
+        "ひとりで",
+        "かぞく",
+        "きょねん"
+      ],
+      "correctIndex": 2,
+      "explanation": "家族 đọc là かぞく = Gia đình"
+    },
+    {
+      "id": 18,
+      "prompt": "一人で",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Một mình",
+        "Cô ấy, người yêu (nữ)",
+        "Trường học",
+        "Gia đình"
+      ],
+      "correctIndex": 0,
+      "explanation": "一人で【ひとりで】= Một mình"
+    },
+    {
+      "id": 19,
+      "prompt": "先週",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "せんしゅう",
+        "ともだち",
+        "きょねん",
+        "らいげつ"
+      ],
+      "correctIndex": 0,
+      "explanation": "先週 đọc là せんしゅう = Tuần trước"
+    },
+    {
+      "id": 20,
+      "prompt": "今週",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tuần này",
+        "Về (nhà/quê)",
+        "Máy bay",
+        "Tháng ~"
+      ],
+      "correctIndex": 0,
+      "explanation": "今週【こんしゅう】= Tuần này"
+    },
+    {
+      "id": 21,
+      "prompt": "来週",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "らいしゅう",
+        "～にち",
+        "かのじょ",
+        "せんしゅう"
+      ],
+      "correctIndex": 0,
+      "explanation": "来週 đọc là らいしゅう = Tuần sau"
+    },
+    {
+      "id": 22,
+      "prompt": "先月",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tuần trước",
+        "Năm ngoái",
+        "Tháng trước",
+        "Ngày mấy"
+      ],
+      "correctIndex": 2,
+      "explanation": "先月【せんげつ】= Tháng trước"
+    },
+    {
+      "id": 23,
+      "prompt": "今月",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "こんげつ",
+        "ふね",
+        "ひと",
+        "かぞく"
+      ],
+      "correctIndex": 0,
+      "explanation": "今月 đọc là こんげつ = Tháng này"
+    },
+    {
+      "id": 24,
+      "prompt": "来月",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tháng sau",
+        "Tàu thủy",
+        "Ngày ~",
+        "Nhà ga"
+      ],
+      "correctIndex": 0,
+      "explanation": "来月【らいげつ】= Tháng sau"
+    },
+    {
+      "id": 25,
+      "prompt": "去年",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "きょねん",
+        "なんにち",
+        "いきます",
+        "たんじょうび"
+      ],
+      "correctIndex": 0,
+      "explanation": "去年 đọc là きょねん = Năm ngoái"
+    },
+    {
+      "id": 26,
+      "prompt": "今年",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Năm sau",
+        "Người",
+        "Ngày ~",
+        "Năm nay"
+      ],
+      "correctIndex": 3,
+      "explanation": "今年【ことし】= Năm nay"
+    },
+    {
+      "id": 27,
+      "prompt": "来年",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "らいねん",
+        "ひと",
+        "～がつ",
+        "なんがつ"
+      ],
+      "correctIndex": 0,
+      "explanation": "来年 đọc là らいねん = Năm sau"
+    },
+    {
+      "id": 28,
+      "prompt": "～年",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tháng sau",
+        "Gia đình",
+        "Ngày mấy",
+        "Năm ~"
+      ],
+      "correctIndex": 3,
+      "explanation": "～年【～ねん】= Năm ~"
+    },
+    {
+      "id": 29,
+      "prompt": "～月",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "～がつ",
+        "じてんしゃ",
+        "いきます",
+        "ともだち"
+      ],
+      "correctIndex": 0,
+      "explanation": "～月 đọc là ～がつ = Tháng ~"
+    },
+    {
+      "id": 30,
+      "prompt": "～日",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Anh ấy, người yêu (nam)",
+        "Ngày ~",
+        "Trường học",
+        "Tàu thủy"
+      ],
+      "correctIndex": 1,
+      "explanation": "～日【～にち】= Ngày ~"
+    },
+    {
+      "id": 31,
+      "prompt": "何月",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "せんしゅう",
+        "なんにち",
+        "ことし",
+        "なんがつ"
+      ],
+      "correctIndex": 3,
+      "explanation": "何月 đọc là なんがつ = Tháng mấy"
+    },
+    {
+      "id": 32,
+      "prompt": "何日",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Ngày mấy",
+        "Một mình",
+        "Anh ấy, người yêu (nam)",
+        "Năm nay"
+      ],
+      "correctIndex": 0,
+      "explanation": "何日【なんにち】= Ngày mấy"
+    },
+    {
+      "id": 33,
+      "prompt": "誕生日",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "たんじょうび",
+        "こんげつ",
+        "らいしゅう",
+        "ともだち"
+      ],
+      "correctIndex": 0,
+      "explanation": "誕生日 đọc là たんじょうび = Sinh nhật"
+    },
+    {
+      "id": 34,
+      "prompt": "行きます",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tàu điện",
+        "Tháng ~",
+        "Tàu thủy",
+        "Đi"
+      ],
+      "correctIndex": 3,
+      "explanation": "行きます【いきます】= Đi"
+    },
+    {
+      "id": 35,
+      "prompt": "来ます",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "かえります",
+        "なんにち",
+        "かれ",
+        "きます"
+      ],
+      "correctIndex": 3,
+      "explanation": "来ます đọc là きます = Đến"
+    },
+    {
+      "id": 36,
+      "prompt": "帰ります",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Về (nhà/quê)",
+        "Đi bộ",
+        "Bạn bè",
+        "Máy bay"
+      ],
+      "correctIndex": 0,
+      "explanation": "帰ります【かえります】= Về (nhà/quê)"
+    },
+    {
+      "id": 37,
+      "prompt": "学校",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ともだち",
+        "がっこう",
+        "かぞく",
+        "いきます"
+      ],
+      "correctIndex": 1,
+      "explanation": "学校 đọc là がっこう = Trường học"
+    },
+    {
+      "id": 38,
+      "prompt": "駅",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tuần trước",
+        "Ngày ~",
+        "Cô ấy, người yêu (nữ)",
+        "Nhà ga"
+      ],
+      "correctIndex": 3,
+      "explanation": "駅【えき】= Nhà ga"
+    },
+    {
+      "id": 39,
+      "prompt": "飛行機",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ひと",
+        "がっこう",
+        "ひこうき",
+        "こんげつ"
+      ],
+      "correctIndex": 2,
+      "explanation": "飛行機 đọc là ひこうき = Máy bay"
+    },
+    {
+      "id": 40,
+      "prompt": "船",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tàu điện",
+        "Tàu thủy",
+        "Đến",
+        "Gia đình"
+      ],
+      "correctIndex": 1,
+      "explanation": "船【ふね】= Tàu thủy"
+    },
+    {
+      "id": 41,
+      "prompt": "電車",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "でんしゃ",
+        "～ねん",
+        "たんじょうび",
+        "～にち"
+      ],
+      "correctIndex": 0,
+      "explanation": "電車 đọc là でんしゃ = Tàu điện"
+    },
+    {
+      "id": 42,
+      "prompt": "地下鉄",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Máy bay",
+        "Tháng sau",
+        "Bạn bè",
+        "Tàu điện ngầm"
+      ],
+      "correctIndex": 3,
+      "explanation": "地下鉄【ちかてつ】= Tàu điện ngầm"
+    },
+    {
+      "id": 43,
+      "prompt": "新幹線",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "せんげつ",
+        "～にち",
+        "でんしゃ",
+        "しんかんせん"
+      ],
+      "correctIndex": 3,
+      "explanation": "新幹線 đọc là しんかんせん = Tàu Shinkansen"
+    },
+    {
+      "id": 44,
+      "prompt": "自転車",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Xe đạp",
+        "Gia đình",
+        "Tuần sau",
+        "Năm nay"
+      ],
+      "correctIndex": 0,
+      "explanation": "自転車【じてんしゃ】= Xe đạp"
+    },
+    {
+      "id": 45,
+      "prompt": "歩いて",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "あるいて",
+        "かぞく",
+        "たんじょうび",
+        "こんしゅう"
+      ],
+      "correctIndex": 0,
+      "explanation": "歩いて đọc là あるいて = Đi bộ"
+    },
+    {
+      "id": 46,
+      "prompt": "人",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tàu Shinkansen",
+        "Ngày mấy",
+        "Người",
+        "Tàu điện ngầm"
+      ],
+      "correctIndex": 2,
+      "explanation": "人【ひと】= Người"
+    },
+    {
+      "id": 47,
+      "prompt": "友達",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "こんしゅう",
+        "かえります",
+        "ともだち",
+        "きょねん"
+      ],
+      "correctIndex": 2,
+      "explanation": "友達 đọc là ともだち = Bạn bè"
+    },
+    {
+      "id": 48,
+      "prompt": "彼",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Gia đình",
+        "Ngày mấy",
+        "Năm ~",
+        "Anh ấy, người yêu (nam)"
+      ],
+      "correctIndex": 3,
+      "explanation": "彼【かれ】= Anh ấy, người yêu (nam)"
+    },
+    {
+      "id": 49,
+      "prompt": "彼女",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ひこうき",
+        "せんげつ",
+        "かのじょ",
+        "かえります"
+      ],
+      "correctIndex": 2,
+      "explanation": "彼女 đọc là かのじょ = Cô ấy, người yêu (nữ)"
+    },
+    {
+      "id": 50,
+      "prompt": "家族",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Về (nhà/quê)",
+        "Năm sau",
+        "Nhà ga",
+        "Gia đình"
+      ],
+      "correctIndex": 3,
+      "explanation": "家族【かぞく】= Gia đình"
+    },
+    {
+      "id": 51,
+      "prompt": "一人で",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ひとりで",
+        "せんげつ",
+        "しんかんせん",
+        "ひと"
+      ],
+      "correctIndex": 0,
+      "explanation": "一人で đọc là ひとりで = Một mình"
+    },
+    {
+      "id": 52,
+      "prompt": "先週",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tuần trước",
+        "Bạn bè",
+        "Năm ngoái",
+        "Gia đình"
+      ],
+      "correctIndex": 0,
+      "explanation": "先週【せんしゅう】= Tuần trước"
+    },
+    {
+      "id": 53,
+      "prompt": "今週",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "せんしゅう",
+        "でんしゃ",
+        "かのじょ",
+        "こんしゅう"
+      ],
+      "correctIndex": 3,
+      "explanation": "今週 đọc là こんしゅう = Tuần này"
+    },
+    {
+      "id": 54,
+      "prompt": "来週",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tuần sau",
+        "Tàu thủy",
+        "Nhà ga",
+        "Tàu điện"
+      ],
+      "correctIndex": 0,
+      "explanation": "来週【らいしゅう】= Tuần sau"
+    },
+    {
+      "id": 55,
+      "prompt": "先月",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "えき",
+        "せんげつ",
+        "こんげつ",
+        "なんにち"
+      ],
+      "correctIndex": 1,
+      "explanation": "先月 đọc là せんげつ = Tháng trước"
+    },
+    {
+      "id": 56,
+      "prompt": "今月",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tuần sau",
+        "Năm nay",
+        "Tàu Shinkansen",
+        "Tháng này"
+      ],
+      "correctIndex": 3,
+      "explanation": "今月【こんげつ】= Tháng này"
+    },
+    {
+      "id": 57,
+      "prompt": "来月",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "らいげつ",
+        "せんげつ",
+        "えき",
+        "せんしゅう"
+      ],
+      "correctIndex": 0,
+      "explanation": "来月 đọc là らいげつ = Tháng sau"
+    },
+    {
+      "id": 58,
+      "prompt": "去年",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Năm ngoái",
+        "Xe đạp",
+        "Tàu điện",
+        "Tháng ~"
+      ],
+      "correctIndex": 0,
+      "explanation": "去年【きょねん】= Năm ngoái"
+    },
+    {
+      "id": 59,
+      "prompt": "今年",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ことし",
+        "かぞく",
+        "～にち",
+        "がっこう"
+      ],
+      "correctIndex": 0,
+      "explanation": "今年 đọc là ことし = Năm nay"
+    },
+    {
+      "id": 60,
+      "prompt": "来年",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tàu điện ngầm",
+        "Gia đình",
+        "Năm sau",
+        "Tháng sau"
+      ],
+      "correctIndex": 2,
+      "explanation": "来年【らいねん】= Năm sau"
+    },
+    {
+      "id": 61,
+      "prompt": "～年",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "らいげつ",
+        "かぞく",
+        "～ねん",
+        "ちかてつ"
+      ],
+      "correctIndex": 2,
+      "explanation": "～年 đọc là ～ねん = Năm ~"
+    },
+    {
+      "id": 62,
+      "prompt": "～月",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Sinh nhật",
+        "Tháng ~",
+        "Đi bộ",
+        "Tàu điện"
+      ],
+      "correctIndex": 1,
+      "explanation": "～月【～がつ】= Tháng ~"
+    },
+    {
+      "id": 63,
+      "prompt": "～日",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "こんげつ",
+        "ふね",
+        "～にち",
+        "きます"
+      ],
+      "correctIndex": 2,
+      "explanation": "～日 đọc là ～にち = Ngày ~"
+    },
+    {
+      "id": 64,
+      "prompt": "何月",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tàu Shinkansen",
+        "Tháng này",
+        "Năm ~",
+        "Tháng mấy"
+      ],
+      "correctIndex": 3,
+      "explanation": "何月【なんがつ】= Tháng mấy"
+    },
+    {
+      "id": 65,
+      "prompt": "何日",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "でんしゃ",
+        "なんにち",
+        "えき",
+        "せんしゅう"
+      ],
+      "correctIndex": 1,
+      "explanation": "何日 đọc là なんにち = Ngày mấy"
+    },
+    {
+      "id": 66,
+      "prompt": "誕生日",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Đến",
+        "Tàu thủy",
+        "Tháng mấy",
+        "Sinh nhật"
+      ],
+      "correctIndex": 3,
+      "explanation": "誕生日【たんじょうび】= Sinh nhật"
+    }
+  ]
+}

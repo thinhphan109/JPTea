@@ -1,0 +1,83 @@
+{
+  "lesson": 3,
+  "title": "ここ・そこ・あそこ",
+  "titleVi": "Vị trí ở đây/đó/kia",
+  "source": "Minna no Nihongo Sơ cấp I — Lesson 3",
+  "vocab": [
+    { "kanji": "ここ", "kana": "ここ", "vi": "Ở đây (gần người nói)", "en": "here", "pos": "đại từ" },
+    { "kanji": "そこ", "kana": "そこ", "vi": "Ở đó (gần người nghe)", "en": "there", "pos": "đại từ" },
+    { "kanji": "あそこ", "kana": "あそこ", "vi": "Ở kia (xa cả hai)", "en": "over there", "pos": "đại từ" },
+    { "kanji": "どこ", "kana": "どこ", "vi": "Ở đâu", "en": "where", "pos": "đại từ" },
+    { "kanji": "こちら", "kana": "こちら", "vi": "Phía này (lịch sự)", "en": "this way (polite)", "pos": "đại từ" },
+    { "kanji": "そちら", "kana": "そちら", "vi": "Phía đó (lịch sự)", "en": "that way (polite)", "pos": "đại từ" },
+    { "kanji": "あちら", "kana": "あちら", "vi": "Phía kia (lịch sự)", "en": "that way over there (polite)", "pos": "đại từ" },
+    { "kanji": "どちら", "kana": "どちら", "vi": "Phía nào (lịch sự)", "en": "which way (polite)", "pos": "đại từ" },
+    { "kanji": "教室", "kana": "きょうしつ", "vi": "Phòng học", "en": "classroom", "pos": "danh từ" },
+    { "kanji": "食堂", "kana": "しょくどう", "vi": "Nhà ăn, canteen", "en": "dining hall", "pos": "danh từ" },
+    { "kanji": "事務所", "kana": "じむしょ", "vi": "Văn phòng", "en": "office", "pos": "danh từ" },
+    { "kanji": "会議室", "kana": "かいぎしつ", "vi": "Phòng họp", "en": "conference room", "pos": "danh từ" },
+    { "kanji": "受付", "kana": "うけつけ", "vi": "Quầy lễ tân", "en": "reception", "pos": "danh từ" },
+    { "kanji": "ロビー", "kana": "ロビー", "vi": "Sảnh", "en": "lobby", "pos": "danh từ" },
+    { "kanji": "部屋", "kana": "へや", "vi": "Phòng", "en": "room", "pos": "danh từ" },
+    { "kanji": "トイレ", "kana": "トイレ", "vi": "Nhà vệ sinh", "en": "toilet", "pos": "danh từ" },
+    { "kanji": "お手洗い", "kana": "おてあらい", "vi": "Nhà vệ sinh (lịch sự)", "en": "restroom (polite)", "pos": "danh từ" },
+    { "kanji": "階段", "kana": "かいだん", "vi": "Cầu thang", "en": "staircase", "pos": "danh từ" },
+    { "kanji": "エレベーター", "kana": "エレベーター", "vi": "Thang máy", "en": "elevator", "pos": "danh từ" },
+    { "kanji": "エスカレーター", "kana": "エスカレーター", "vi": "Thang cuốn", "en": "escalator", "pos": "danh từ" },
+    { "kanji": "売り場", "kana": "うりば", "vi": "Quầy bán hàng", "en": "counter/department", "pos": "danh từ" },
+    { "kanji": "地下", "kana": "ちか", "vi": "Tầng hầm", "en": "basement", "pos": "danh từ" },
+    { "kanji": "～階", "kana": "～かい", "vi": "Tầng ~", "en": "~ floor", "pos": "hậu tố" },
+    { "kanji": "何階", "kana": "なんがい", "vi": "Tầng mấy", "en": "what floor", "pos": "đại từ" },
+    { "kanji": "～円", "kana": "～えん", "vi": "~ yên", "en": "~ yen", "pos": "hậu tố" },
+    { "kanji": "いくら", "kana": "いくら", "vi": "Bao nhiêu tiền", "en": "how much", "pos": "đại từ" },
+    { "kanji": "百", "kana": "ひゃく", "vi": "Trăm", "en": "hundred", "pos": "số từ" },
+    { "kanji": "千", "kana": "せん", "vi": "Nghìn", "en": "thousand", "pos": "số từ" },
+    { "kanji": "万", "kana": "まん", "vi": "Vạn (10.000)", "en": "ten thousand", "pos": "số từ" },
+    { "kanji": "国", "kana": "くに", "vi": "Nước, quốc gia", "en": "country", "pos": "danh từ" },
+    { "kanji": "会社", "kana": "かいしゃ", "vi": "Công ty", "en": "company", "pos": "danh từ" },
+    { "kanji": "うち", "kana": "うち", "vi": "Nhà (của mình)", "en": "home", "pos": "danh từ" },
+    { "kanji": "電話", "kana": "でんわ", "vi": "Điện thoại", "en": "telephone", "pos": "danh từ" },
+    { "kanji": "靴", "kana": "くつ", "vi": "Giày", "en": "shoes", "pos": "danh từ" },
+    { "kanji": "ネクタイ", "kana": "ネクタイ", "vi": "Cà vạt", "en": "necktie", "pos": "danh từ" },
+    { "kanji": "ワイン", "kana": "ワイン", "vi": "Rượu vang", "en": "wine", "pos": "danh từ" },
+    { "kanji": "お土産", "kana": "おみやげ", "vi": "Quà lưu niệm", "en": "souvenir", "pos": "danh từ" }
+  ],
+  "grammar": [
+    {
+      "title": "ここ/そこ/あそこ は N です",
+      "structure": "ここ/そこ/あそこ は N です",
+      "viExplain": "Ở đây/đó/kia là N (chỉ nơi chốn)",
+      "examples": [
+        { "jp": "ここは食堂です", "kana": "ここはしょくどうです", "vi": "Ở đây là nhà ăn" },
+        { "jp": "あそこはトイレです", "kana": "あそこはトイレです", "vi": "Ở kia là nhà vệ sinh" }
+      ]
+    },
+    {
+      "title": "N は どこ ですか",
+      "structure": "N は どこ ですか",
+      "viExplain": "N ở đâu? (hỏi vị trí)",
+      "examples": [
+        { "jp": "トイレはどこですか", "kana": "トイレはどこですか", "vi": "Nhà vệ sinh ở đâu?" },
+        { "jp": "エレベーターはあそこです", "kana": "エレベーターはあそこです", "vi": "Thang máy ở kia" }
+      ]
+    },
+    {
+      "title": "N は いくら ですか",
+      "structure": "N は いくら ですか",
+      "viExplain": "N bao nhiêu tiền? (hỏi giá)",
+      "examples": [
+        { "jp": "この時計はいくらですか", "kana": "このとけいはいくらですか", "vi": "Đồng hồ này bao nhiêu tiền?" },
+        { "jp": "3000円です", "kana": "さんぜんえんです", "vi": "3000 yên" }
+      ]
+    },
+    {
+      "title": "N1 の N2 (thuộc tính)",
+      "structure": "N1 の N2",
+      "viExplain": "N2 thuộc N1 (chỉ xuất xứ, loại)",
+      "examples": [
+        { "jp": "日本の車", "kana": "にほんのくるま", "vi": "Xe của Nhật" },
+        { "jp": "英語の本", "kana": "えいごのほん", "vi": "Sách tiếng Anh" }
+      ]
+    }
+  ]
+}

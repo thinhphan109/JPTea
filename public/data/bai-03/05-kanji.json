@@ -1,0 +1,786 @@
+{
+  "title": "Ôn tập Kanji — Bài 3: ここ・そこ・あそこ",
+  "type": "kanji",
+  "questions": [
+    {
+      "id": 1,
+      "prompt": "教室",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "くに",
+        "きょうしつ",
+        "～かい",
+        "かいしゃ"
+      ],
+      "correctIndex": 1,
+      "explanation": "教室 đọc là きょうしつ = Phòng học"
+    },
+    {
+      "id": 2,
+      "prompt": "食堂",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Nhà ăn, canteen",
+        "Tầng mấy",
+        "Phòng họp",
+        "Quầy lễ tân"
+      ],
+      "correctIndex": 0,
+      "explanation": "食堂【しょくどう】= Nhà ăn, canteen"
+    },
+    {
+      "id": 3,
+      "prompt": "事務所",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "かいだん",
+        "くに",
+        "じむしょ",
+        "くつ"
+      ],
+      "correctIndex": 2,
+      "explanation": "事務所 đọc là じむしょ = Văn phòng"
+    },
+    {
+      "id": 4,
+      "prompt": "会議室",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Phòng họp",
+        "Nghìn",
+        "Phòng",
+        "Nhà vệ sinh (lịch sự)"
+      ],
+      "correctIndex": 0,
+      "explanation": "会議室【かいぎしつ】= Phòng họp"
+    },
+    {
+      "id": 5,
+      "prompt": "受付",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "うりば",
+        "かいしゃ",
+        "ちか",
+        "うけつけ"
+      ],
+      "correctIndex": 3,
+      "explanation": "受付 đọc là うけつけ = Quầy lễ tân"
+    },
+    {
+      "id": 6,
+      "prompt": "部屋",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "~ yên",
+        "Phòng",
+        "Quầy lễ tân",
+        "Tầng hầm"
+      ],
+      "correctIndex": 1,
+      "explanation": "部屋【へや】= Phòng"
+    },
+    {
+      "id": 7,
+      "prompt": "お手洗い",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "なんがい",
+        "うりば",
+        "ちか",
+        "おてあらい"
+      ],
+      "correctIndex": 3,
+      "explanation": "お手洗い đọc là おてあらい = Nhà vệ sinh (lịch sự)"
+    },
+    {
+      "id": 8,
+      "prompt": "階段",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Văn phòng",
+        "Quầy bán hàng",
+        "Trăm",
+        "Cầu thang"
+      ],
+      "correctIndex": 3,
+      "explanation": "階段【かいだん】= Cầu thang"
+    },
+    {
+      "id": 9,
+      "prompt": "売り場",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "おてあらい",
+        "うりば",
+        "くつ",
+        "せん"
+      ],
+      "correctIndex": 1,
+      "explanation": "売り場 đọc là うりば = Quầy bán hàng"
+    },
+    {
+      "id": 10,
+      "prompt": "地下",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Văn phòng",
+        "Nhà vệ sinh (lịch sự)",
+        "Quầy lễ tân",
+        "Tầng hầm"
+      ],
+      "correctIndex": 3,
+      "explanation": "地下【ちか】= Tầng hầm"
+    },
+    {
+      "id": 11,
+      "prompt": "～階",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "おみやげ",
+        "くに",
+        "～かい",
+        "まん"
+      ],
+      "correctIndex": 2,
+      "explanation": "～階 đọc là ～かい = Tầng ~"
+    },
+    {
+      "id": 12,
+      "prompt": "何階",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Vạn (10.000)",
+        "Quà lưu niệm",
+        "Tầng mấy",
+        "Nghìn"
+      ],
+      "correctIndex": 2,
+      "explanation": "何階【なんがい】= Tầng mấy"
+    },
+    {
+      "id": 13,
+      "prompt": "～円",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "～えん",
+        "うけつけ",
+        "へや",
+        "くに"
+      ],
+      "correctIndex": 0,
+      "explanation": "～円 đọc là ～えん = ~ yên"
+    },
+    {
+      "id": 14,
+      "prompt": "百",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Vạn (10.000)",
+        "Trăm",
+        "Tầng hầm",
+        "Nhà ăn, canteen"
+      ],
+      "correctIndex": 1,
+      "explanation": "百【ひゃく】= Trăm"
+    },
+    {
+      "id": 15,
+      "prompt": "千",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "まん",
+        "ひゃく",
+        "でんわ",
+        "せん"
+      ],
+      "correctIndex": 3,
+      "explanation": "千 đọc là せん = Nghìn"
+    },
+    {
+      "id": 16,
+      "prompt": "万",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Công ty",
+        "Vạn (10.000)",
+        "Cầu thang",
+        "Giày"
+      ],
+      "correctIndex": 1,
+      "explanation": "万【まん】= Vạn (10.000)"
+    },
+    {
+      "id": 17,
+      "prompt": "国",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "しょくどう",
+        "なんがい",
+        "かいだん",
+        "くに"
+      ],
+      "correctIndex": 3,
+      "explanation": "国 đọc là くに = Nước, quốc gia"
+    },
+    {
+      "id": 18,
+      "prompt": "会社",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Giày",
+        "Phòng",
+        "Công ty",
+        "Quà lưu niệm"
+      ],
+      "correctIndex": 2,
+      "explanation": "会社【かいしゃ】= Công ty"
+    },
+    {
+      "id": 19,
+      "prompt": "電話",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "せん",
+        "へや",
+        "おみやげ",
+        "でんわ"
+      ],
+      "correctIndex": 3,
+      "explanation": "電話 đọc là でんわ = Điện thoại"
+    },
+    {
+      "id": 20,
+      "prompt": "靴",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Nhà vệ sinh (lịch sự)",
+        "Giày",
+        "~ yên",
+        "Tầng mấy"
+      ],
+      "correctIndex": 1,
+      "explanation": "靴【くつ】= Giày"
+    },
+    {
+      "id": 21,
+      "prompt": "お土産",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "じむしょ",
+        "おてあらい",
+        "でんわ",
+        "おみやげ"
+      ],
+      "correctIndex": 3,
+      "explanation": "お土産 đọc là おみやげ = Quà lưu niệm"
+    },
+    {
+      "id": 22,
+      "prompt": "教室",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Cầu thang",
+        "Phòng học",
+        "~ yên",
+        "Trăm"
+      ],
+      "correctIndex": 1,
+      "explanation": "教室【きょうしつ】= Phòng học"
+    },
+    {
+      "id": 23,
+      "prompt": "食堂",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ちか",
+        "かいぎしつ",
+        "まん",
+        "しょくどう"
+      ],
+      "correctIndex": 3,
+      "explanation": "食堂 đọc là しょくどう = Nhà ăn, canteen"
+    },
+    {
+      "id": 24,
+      "prompt": "事務所",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tầng hầm",
+        "Văn phòng",
+        "Cầu thang",
+        "Công ty"
+      ],
+      "correctIndex": 1,
+      "explanation": "事務所【じむしょ】= Văn phòng"
+    },
+    {
+      "id": 25,
+      "prompt": "会議室",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "せん",
+        "でんわ",
+        "かいぎしつ",
+        "うりば"
+      ],
+      "correctIndex": 2,
+      "explanation": "会議室 đọc là かいぎしつ = Phòng họp"
+    },
+    {
+      "id": 26,
+      "prompt": "受付",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tầng ~",
+        "Quầy lễ tân",
+        "Quà lưu niệm",
+        "Phòng họp"
+      ],
+      "correctIndex": 1,
+      "explanation": "受付【うけつけ】= Quầy lễ tân"
+    },
+    {
+      "id": 27,
+      "prompt": "部屋",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "へや",
+        "～えん",
+        "ちか",
+        "しょくどう"
+      ],
+      "correctIndex": 0,
+      "explanation": "部屋 đọc là へや = Phòng"
+    },
+    {
+      "id": 28,
+      "prompt": "お手洗い",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Nhà vệ sinh (lịch sự)",
+        "Nước, quốc gia",
+        "Nghìn",
+        "Cầu thang"
+      ],
+      "correctIndex": 0,
+      "explanation": "お手洗い【おてあらい】= Nhà vệ sinh (lịch sự)"
+    },
+    {
+      "id": 29,
+      "prompt": "階段",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "せん",
+        "かいぎしつ",
+        "かいだん",
+        "おてあらい"
+      ],
+      "correctIndex": 2,
+      "explanation": "階段 đọc là かいだん = Cầu thang"
+    },
+    {
+      "id": 30,
+      "prompt": "売り場",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Phòng",
+        "Tầng hầm",
+        "Công ty",
+        "Quầy bán hàng"
+      ],
+      "correctIndex": 3,
+      "explanation": "売り場【うりば】= Quầy bán hàng"
+    },
+    {
+      "id": 31,
+      "prompt": "地下",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "せん",
+        "ひゃく",
+        "ちか",
+        "へや"
+      ],
+      "correctIndex": 2,
+      "explanation": "地下 đọc là ちか = Tầng hầm"
+    },
+    {
+      "id": 32,
+      "prompt": "～階",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Phòng họp",
+        "Phòng học",
+        "Phòng",
+        "Tầng ~"
+      ],
+      "correctIndex": 3,
+      "explanation": "～階【～かい】= Tầng ~"
+    },
+    {
+      "id": 33,
+      "prompt": "何階",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "うけつけ",
+        "へや",
+        "かいしゃ",
+        "なんがい"
+      ],
+      "correctIndex": 3,
+      "explanation": "何階 đọc là なんがい = Tầng mấy"
+    },
+    {
+      "id": 34,
+      "prompt": "～円",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Nước, quốc gia",
+        "~ yên",
+        "Trăm",
+        "Nghìn"
+      ],
+      "correctIndex": 1,
+      "explanation": "～円【～えん】= ~ yên"
+    },
+    {
+      "id": 35,
+      "prompt": "百",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "くに",
+        "ひゃく",
+        "まん",
+        "なんがい"
+      ],
+      "correctIndex": 1,
+      "explanation": "百 đọc là ひゃく = Trăm"
+    },
+    {
+      "id": 36,
+      "prompt": "千",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Nghìn",
+        "Quầy lễ tân",
+        "Nhà ăn, canteen",
+        "Giày"
+      ],
+      "correctIndex": 0,
+      "explanation": "千【せん】= Nghìn"
+    },
+    {
+      "id": 37,
+      "prompt": "万",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "まん",
+        "くつ",
+        "うけつけ",
+        "じむしょ"
+      ],
+      "correctIndex": 0,
+      "explanation": "万 đọc là まん = Vạn (10.000)"
+    },
+    {
+      "id": 38,
+      "prompt": "国",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Điện thoại",
+        "Nước, quốc gia",
+        "Giày",
+        "Phòng"
+      ],
+      "correctIndex": 1,
+      "explanation": "国【くに】= Nước, quốc gia"
+    },
+    {
+      "id": 39,
+      "prompt": "会社",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "おみやげ",
+        "かいしゃ",
+        "ひゃく",
+        "しょくどう"
+      ],
+      "correctIndex": 1,
+      "explanation": "会社 đọc là かいしゃ = Công ty"
+    },
+    {
+      "id": 40,
+      "prompt": "電話",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Điện thoại",
+        "Nhà vệ sinh (lịch sự)",
+        "Giày",
+        "Tầng hầm"
+      ],
+      "correctIndex": 0,
+      "explanation": "電話【でんわ】= Điện thoại"
+    },
+    {
+      "id": 41,
+      "prompt": "靴",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "かいだん",
+        "うけつけ",
+        "でんわ",
+        "くつ"
+      ],
+      "correctIndex": 3,
+      "explanation": "靴 đọc là くつ = Giày"
+    },
+    {
+      "id": 42,
+      "prompt": "お土産",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Nhà vệ sinh (lịch sự)",
+        "Điện thoại",
+        "Quà lưu niệm",
+        "Tầng ~"
+      ],
+      "correctIndex": 2,
+      "explanation": "お土産【おみやげ】= Quà lưu niệm"
+    },
+    {
+      "id": 43,
+      "prompt": "教室",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "かいだん",
+        "～かい",
+        "きょうしつ",
+        "うけつけ"
+      ],
+      "correctIndex": 2,
+      "explanation": "教室 đọc là きょうしつ = Phòng học"
+    },
+    {
+      "id": 44,
+      "prompt": "食堂",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Nhà ăn, canteen",
+        "Nghìn",
+        "Quầy lễ tân",
+        "Cầu thang"
+      ],
+      "correctIndex": 0,
+      "explanation": "食堂【しょくどう】= Nhà ăn, canteen"
+    },
+    {
+      "id": 45,
+      "prompt": "事務所",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "かいぎしつ",
+        "なんがい",
+        "じむしょ",
+        "～かい"
+      ],
+      "correctIndex": 2,
+      "explanation": "事務所 đọc là じむしょ = Văn phòng"
+    },
+    {
+      "id": 46,
+      "prompt": "会議室",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Vạn (10.000)",
+        "Phòng họp",
+        "Quầy lễ tân",
+        "Nghìn"
+      ],
+      "correctIndex": 1,
+      "explanation": "会議室【かいぎしつ】= Phòng họp"
+    },
+    {
+      "id": 47,
+      "prompt": "受付",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "うけつけ",
+        "せん",
+        "うりば",
+        "しょくどう"
+      ],
+      "correctIndex": 0,
+      "explanation": "受付 đọc là うけつけ = Quầy lễ tân"
+    },
+    {
+      "id": 48,
+      "prompt": "部屋",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tầng mấy",
+        "Công ty",
+        "Nhà ăn, canteen",
+        "Phòng"
+      ],
+      "correctIndex": 3,
+      "explanation": "部屋【へや】= Phòng"
+    },
+    {
+      "id": 49,
+      "prompt": "お手洗い",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "まん",
+        "うけつけ",
+        "おてあらい",
+        "かいだん"
+      ],
+      "correctIndex": 2,
+      "explanation": "お手洗い đọc là おてあらい = Nhà vệ sinh (lịch sự)"
+    },
+    {
+      "id": 50,
+      "prompt": "階段",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Công ty",
+        "Cầu thang",
+        "Vạn (10.000)",
+        "Trăm"
+      ],
+      "correctIndex": 1,
+      "explanation": "階段【かいだん】= Cầu thang"
+    },
+    {
+      "id": 51,
+      "prompt": "売り場",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "おみやげ",
+        "～かい",
+        "なんがい",
+        "うりば"
+      ],
+      "correctIndex": 3,
+      "explanation": "売り場 đọc là うりば = Quầy bán hàng"
+    },
+    {
+      "id": 52,
+      "prompt": "地下",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Phòng họp",
+        "Tầng hầm",
+        "Nhà vệ sinh (lịch sự)",
+        "Quầy bán hàng"
+      ],
+      "correctIndex": 1,
+      "explanation": "地下【ちか】= Tầng hầm"
+    },
+    {
+      "id": 53,
+      "prompt": "～階",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "きょうしつ",
+        "じむしょ",
+        "～かい",
+        "へや"
+      ],
+      "correctIndex": 2,
+      "explanation": "～階 đọc là ～かい = Tầng ~"
+    },
+    {
+      "id": 54,
+      "prompt": "何階",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tầng mấy",
+        "~ yên",
+        "Quà lưu niệm",
+        "Phòng học"
+      ],
+      "correctIndex": 0,
+      "explanation": "何階【なんがい】= Tầng mấy"
+    },
+    {
+      "id": 55,
+      "prompt": "～円",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "まん",
+        "うりば",
+        "～かい",
+        "～えん"
+      ],
+      "correctIndex": 3,
+      "explanation": "～円 đọc là ～えん = ~ yên"
+    },
+    {
+      "id": 56,
+      "prompt": "百",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Công ty",
+        "~ yên",
+        "Nước, quốc gia",
+        "Trăm"
+      ],
+      "correctIndex": 3,
+      "explanation": "百【ひゃく】= Trăm"
+    },
+    {
+      "id": 57,
+      "prompt": "千",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "くに",
+        "くつ",
+        "～えん",
+        "せん"
+      ],
+      "correctIndex": 3,
+      "explanation": "千 đọc là せん = Nghìn"
+    },
+    {
+      "id": 58,
+      "prompt": "万",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Cầu thang",
+        "Điện thoại",
+        "Vạn (10.000)",
+        "Tầng hầm"
+      ],
+      "correctIndex": 2,
+      "explanation": "万【まん】= Vạn (10.000)"
+    },
+    {
+      "id": 59,
+      "prompt": "国",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "かいだん",
+        "おみやげ",
+        "ひゃく",
+        "くに"
+      ],
+      "correctIndex": 3,
+      "explanation": "国 đọc là くに = Nước, quốc gia"
+    },
+    {
+      "id": 60,
+      "prompt": "会社",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Nước, quốc gia",
+        "Phòng",
+        "Công ty",
+        "Trăm"
+      ],
+      "correctIndex": 2,
+      "explanation": "会社【かいしゃ】= Công ty"
+    }
+  ]
+}

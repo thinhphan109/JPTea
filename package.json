@@ -1,0 +1,20 @@
+{
+  "name": "jptea",
+  "private": true,
+  "version": "1.0.0",
+  "description": "JPTea — Web App Học Tiếng Nhật N5 (Minna no Nihongo)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "gen": "node scripts/generate-quiz.js",
+    "gen:all": "node scripts/generate-quiz.js"
+  },
+  "devDependencies": {
+    "vite": "^6.3.0"
+  },
+  "dependencies": {
+    "pdf-parse": "^2.4.5"
+  }
+}

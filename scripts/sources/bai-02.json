@@ -1,0 +1,85 @@
+{
+  "lesson": 2,
+  "title": "これ・それ・あれ",
+  "titleVi": "Đây / Đó / Kia",
+  "source": "Minna no Nihongo Sơ cấp I — Lesson 2",
+  "vocab": [
+    { "kanji": "これ", "kana": "これ", "vi": "Cái này (gần người nói)", "en": "this", "pos": "đại từ" },
+    { "kanji": "それ", "kana": "それ", "vi": "Cái đó (gần người nghe)", "en": "that", "pos": "đại từ" },
+    { "kanji": "あれ", "kana": "あれ", "vi": "Cái kia (xa cả hai)", "en": "that over there", "pos": "đại từ" },
+    { "kanji": "この", "kana": "この", "vi": "~ này (trước danh từ)", "en": "this ~", "pos": "liên thể từ" },
+    { "kanji": "その", "kana": "その", "vi": "~ đó (trước danh từ)", "en": "that ~", "pos": "liên thể từ" },
+    { "kanji": "あの", "kana": "あの", "vi": "~ kia (trước danh từ)", "en": "that ~ over there", "pos": "liên thể từ" },
+    { "kanji": "本", "kana": "ほん", "vi": "Sách", "en": "book", "pos": "danh từ" },
+    { "kanji": "辞書", "kana": "じしょ", "vi": "Từ điển", "en": "dictionary", "pos": "danh từ" },
+    { "kanji": "雑誌", "kana": "ざっし", "vi": "Tạp chí", "en": "magazine", "pos": "danh từ" },
+    { "kanji": "新聞", "kana": "しんぶん", "vi": "Báo", "en": "newspaper", "pos": "danh từ" },
+    { "kanji": "ノート", "kana": "ノート", "vi": "Vở, sổ tay", "en": "notebook", "pos": "danh từ" },
+    { "kanji": "手帳", "kana": "てちょう", "vi": "Sổ tay nhỏ", "en": "pocket notebook", "pos": "danh từ" },
+    { "kanji": "名刺", "kana": "めいし", "vi": "Danh thiếp", "en": "business card", "pos": "danh từ" },
+    { "kanji": "カード", "kana": "カード", "vi": "Thẻ", "en": "card", "pos": "danh từ" },
+    { "kanji": "鉛筆", "kana": "えんぴつ", "vi": "Bút chì", "en": "pencil", "pos": "danh từ" },
+    { "kanji": "ボールペン", "kana": "ボールペン", "vi": "Bút bi", "en": "ballpoint pen", "pos": "danh từ" },
+    { "kanji": "シャープペンシル", "kana": "シャープペンシル", "vi": "Bút chì bấm", "en": "mechanical pencil", "pos": "danh từ" },
+    { "kanji": "鍵", "kana": "かぎ", "vi": "Chìa khóa", "en": "key", "pos": "danh từ" },
+    { "kanji": "時計", "kana": "とけい", "vi": "Đồng hồ", "en": "watch/clock", "pos": "danh từ" },
+    { "kanji": "傘", "kana": "かさ", "vi": "Ô, dù", "en": "umbrella", "pos": "danh từ" },
+    { "kanji": "かばん", "kana": "かばん", "vi": "Cặp, túi xách", "en": "bag", "pos": "danh từ" },
+    { "kanji": "テレビ", "kana": "テレビ", "vi": "Ti vi", "en": "television", "pos": "danh từ" },
+    { "kanji": "ラジオ", "kana": "ラジオ", "vi": "Radio", "en": "radio", "pos": "danh từ" },
+    { "kanji": "カメラ", "kana": "カメラ", "vi": "Máy ảnh", "en": "camera", "pos": "danh từ" },
+    { "kanji": "コンピューター", "kana": "コンピューター", "vi": "Máy tính", "en": "computer", "pos": "danh từ" },
+    { "kanji": "自動車", "kana": "じどうしゃ", "vi": "Ô tô", "en": "car", "pos": "danh từ" },
+    { "kanji": "机", "kana": "つくえ", "vi": "Bàn học", "en": "desk", "pos": "danh từ" },
+    { "kanji": "いす", "kana": "いす", "vi": "Ghế", "en": "chair", "pos": "danh từ" },
+    { "kanji": "チョコレート", "kana": "チョコレート", "vi": "Sô-cô-la", "en": "chocolate", "pos": "danh từ" },
+    { "kanji": "コーヒー", "kana": "コーヒー", "vi": "Cà phê", "en": "coffee", "pos": "danh từ" },
+    { "kanji": "英語", "kana": "えいご", "vi": "Tiếng Anh", "en": "English", "pos": "danh từ" },
+    { "kanji": "日本語", "kana": "にほんご", "vi": "Tiếng Nhật", "en": "Japanese", "pos": "danh từ" },
+    { "kanji": "～語", "kana": "～ご", "vi": "Tiếng ~", "en": "~ language", "pos": "hậu tố" },
+    { "kanji": "何", "kana": "なん", "vi": "Cái gì", "en": "what", "pos": "đại từ" },
+    { "kanji": "そう", "kana": "そう", "vi": "Đúng vậy", "en": "so, that's right", "pos": "phó từ" },
+    { "kanji": "違います", "kana": "ちがいます", "vi": "Không phải, sai rồi", "en": "No, it isn't", "pos": "động từ" },
+    { "kanji": "そうですか", "kana": "そうですか", "vi": "Vậy à?", "en": "I see", "pos": "câu" },
+    { "kanji": "あのう", "kana": "あのう", "vi": "Ờm... (do dự)", "en": "well...", "pos": "thán từ" },
+    { "kanji": "どうぞ", "kana": "どうぞ", "vi": "Mời, xin mời", "en": "please, here you are", "pos": "phó từ" },
+    { "kanji": "どうも", "kana": "どうも", "vi": "Cảm ơn (thân mật)", "en": "thanks", "pos": "phó từ" }
+  ],
+  "grammar": [
+    {
+      "title": "これ/それ/あれ は N です",
+      "structure": "これ/それ/あれ は N です",
+      "viExplain": "Cái này/đó/kia là N (chỉ vật)",
+      "examples": [
+        { "jp": "これは本です", "kana": "これはほんです", "vi": "Cái này là sách" },
+        { "jp": "それは辞書です", "kana": "それはじしょです", "vi": "Cái đó là từ điển" }
+      ]
+    },
+    {
+      "title": "この/その/あの N",
+      "structure": "この/その/あの + N",
+      "viExplain": "Cái N này/đó/kia (đi kèm danh từ)",
+      "examples": [
+        { "jp": "この本は私のです", "kana": "このほんはわたしのです", "vi": "Cuốn sách này là của tôi" },
+        { "jp": "あのかばんは誰のですか", "kana": "あのかばんはだれのですか", "vi": "Cái cặp kia là của ai?" }
+      ]
+    },
+    {
+      "title": "N1 の N2 (sở hữu)",
+      "structure": "N1 の N2",
+      "viExplain": "N2 của N1 (chỉ sở hữu hoặc thuộc tính)",
+      "examples": [
+        { "jp": "これは私の本です", "kana": "これはわたしのほんです", "vi": "Đây là sách của tôi" }
+      ]
+    },
+    {
+      "title": "何ですか",
+      "structure": "N は 何ですか",
+      "viExplain": "N là cái gì? (hỏi về vật)",
+      "examples": [
+        { "jp": "これは何ですか", "kana": "これはなんですか", "vi": "Cái này là cái gì?" },
+        { "jp": "それは時計です", "kana": "それはとけいです", "vi": "Cái đó là đồng hồ" }
+      ]
+    }
+  ]
+}

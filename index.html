@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JPTea — Học Tiếng Nhật</title>
+    <meta name="description" content="Ôn tập tiếng Nhật theo giáo trình Minna no Nihongo. Quiz tương tác với từ vựng, ngữ pháp, đọc hiểu, kanji. AI gợi ý + TTS phát âm." />
+    <meta name="theme-color" content="#fda4af" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/logo.svg" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="JPTea — Học Tiếng Nhật N5" />
+    <meta property="og:description" content="Ôn tập tiếng Nhật N5 với quiz tương tác, AI gợi ý, TTS phát âm." />
+    <meta property="og:image" content="/logo.svg" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <script>
+      (function(){try{var t=localStorage.getItem('jptea-theme');var d=t||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');document.documentElement.setAttribute('data-theme',d)}catch(e){document.documentElement.setAttribute('data-theme','light')}})();
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/src/styles/index.css" />
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/pages/home.js"></script>
+  </body>
+</html>

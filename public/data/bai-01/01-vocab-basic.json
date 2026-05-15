@@ -1,0 +1,706 @@
+{
+  "title": "Từ vựng cơ bản — Bài 1: はじめまして",
+  "type": "vocab-basic",
+  "questions": [
+    {
+      "id": 1,
+      "promptHtml": "<ruby>私<rt>わたし</rt></ruby>",
+      "prompt": "わたし",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Học sinh, sinh viên",
+        "Tôi",
+        "Brazil",
+        "Ai"
+      ],
+      "correctIndex": 1,
+      "explanation": "私【わたし】= Tôi"
+    },
+    {
+      "id": 2,
+      "promptHtml": "<ruby>私たち<rt>わたしたち</rt></ruby>",
+      "prompt": "わたしたち",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Vị kia (lịch sự)",
+        "Tên của bạn là gì?",
+        "Vị nào (lịch sự)",
+        "Chúng tôi"
+      ],
+      "correctIndex": 3,
+      "explanation": "私たち【わたしたち】= Chúng tôi"
+    },
+    {
+      "id": 3,
+      "promptHtml": "あなた",
+      "prompt": "あなた",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Bạn",
+        "Anh",
+        "Ai",
+        "Tên của bạn là gì?"
+      ],
+      "correctIndex": 0,
+      "explanation": "あなた【あなた】= Bạn"
+    },
+    {
+      "id": 4,
+      "promptHtml": "<ruby>あの人<rt>あのひと</rt></ruby>",
+      "prompt": "あのひと",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Kỹ sư",
+        "Việt Nam",
+        "Người kia",
+        "Cậu (cho bé trai/bạn nam)"
+      ],
+      "correctIndex": 2,
+      "explanation": "あの人【あのひと】= Người kia"
+    },
+    {
+      "id": 5,
+      "promptHtml": "<ruby>あの方<rt>あのかた</rt></ruby>",
+      "prompt": "あのかた",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Người nước...",
+        "Học sinh, sinh viên",
+        "Vị kia (lịch sự)",
+        "~ tuổi"
+      ],
+      "correctIndex": 2,
+      "explanation": "あの方【あのかた】= Vị kia (lịch sự)"
+    },
+    {
+      "id": 6,
+      "promptHtml": "<ruby>皆さん<rt>みなさん</rt></ruby>",
+      "prompt": "みなさん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Bao nhiêu tuổi",
+        "~ tuổi",
+        "Cậu (cho bé trai/bạn nam)",
+        "Mọi người, các bạn"
+      ],
+      "correctIndex": 3,
+      "explanation": "皆さん【みなさん】= Mọi người, các bạn"
+    },
+    {
+      "id": 7,
+      "promptHtml": "～さん",
+      "prompt": "～さん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Giáo viên (nghề)",
+        "Học sinh, sinh viên",
+        "Tên của bạn là gì?",
+        "Anh, chị (kính ngữ sau tên)"
+      ],
+      "correctIndex": 3,
+      "explanation": "～さん【～さん】= Anh, chị (kính ngữ sau tên)"
+    },
+    {
+      "id": 8,
+      "promptHtml": "～ちゃん",
+      "prompt": "～ちゃん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Bao nhiêu tuổi",
+        "Bé (cho trẻ em)",
+        "Người kia",
+        "Đến từ nước ~"
+      ],
+      "correctIndex": 1,
+      "explanation": "～ちゃん【～ちゃん】= Bé (cho trẻ em)"
+    },
+    {
+      "id": 9,
+      "promptHtml": "<ruby>～君<rt>～くん</rt></ruby>",
+      "prompt": "～くん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Cậu (cho bé trai/bạn nam)",
+        "Giáo viên (nghề)",
+        "Vị kia (lịch sự)",
+        "Nhà nghiên cứu"
+      ],
+      "correctIndex": 0,
+      "explanation": "～君【～くん】= Cậu (cho bé trai/bạn nam)"
+    },
+    {
+      "id": 10,
+      "promptHtml": "<ruby>～人<rt>～じん</rt></ruby>",
+      "prompt": "～じん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Thái Lan",
+        "Bao nhiêu tuổi",
+        "Người nước...",
+        "Bác sĩ"
+      ],
+      "correctIndex": 2,
+      "explanation": "～人【～じん】= Người nước..."
+    },
+    {
+      "id": 11,
+      "promptHtml": "<ruby>先生<rt>せんせい</rt></ruby>",
+      "prompt": "せんせい",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Hàn Quốc",
+        "Thầy/Cô giáo",
+        "Bác sĩ",
+        "Bao nhiêu tuổi"
+      ],
+      "correctIndex": 1,
+      "explanation": "先生【せんせい】= Thầy/Cô giáo"
+    },
+    {
+      "id": 12,
+      "promptHtml": "<ruby>教師<rt>きょうし</rt></ruby>",
+      "prompt": "きょうし",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Giáo viên (nghề)",
+        "Đại học",
+        "Học sinh, sinh viên",
+        "Tên của bạn là gì?"
+      ],
+      "correctIndex": 0,
+      "explanation": "教師【きょうし】= Giáo viên (nghề)"
+    },
+    {
+      "id": 13,
+      "promptHtml": "<ruby>学生<rt>がくせい</rt></ruby>",
+      "prompt": "がくせい",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Người nước...",
+        "Học sinh, sinh viên",
+        "Xin lỗi (làm phiền)...",
+        "Ai"
+      ],
+      "correctIndex": 1,
+      "explanation": "学生【がくせい】= Học sinh, sinh viên"
+    },
+    {
+      "id": 14,
+      "promptHtml": "<ruby>会社員<rt>かいしゃいん</rt></ruby>",
+      "prompt": "かいしゃいん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Nhân viên công ty",
+        "Giáo viên (nghề)",
+        "Đại học",
+        "Người nước..."
+      ],
+      "correctIndex": 0,
+      "explanation": "会社員【かいしゃいん】= Nhân viên công ty"
+    },
+    {
+      "id": 15,
+      "promptHtml": "<ruby>社員<rt>しゃいん</rt></ruby>",
+      "prompt": "しゃいん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Thầy/Cô giáo",
+        "Nhân viên của công ty ~",
+        "Mỹ",
+        "Vị kia (lịch sự)"
+      ],
+      "correctIndex": 1,
+      "explanation": "社員【しゃいん】= Nhân viên của công ty ~"
+    },
+    {
+      "id": 16,
+      "promptHtml": "<ruby>銀行員<rt>ぎんこういん</rt></ruby>",
+      "prompt": "ぎんこういん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Indonesia",
+        "Thầy/Cô giáo",
+        "Nhân viên ngân hàng",
+        "Bao nhiêu tuổi"
+      ],
+      "correctIndex": 2,
+      "explanation": "銀行員【ぎんこういん】= Nhân viên ngân hàng"
+    },
+    {
+      "id": 17,
+      "promptHtml": "<ruby>医者<rt>いしゃ</rt></ruby>",
+      "prompt": "いしゃ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Bác sĩ",
+        "Học sinh, sinh viên",
+        "Giáo viên (nghề)",
+        "Cậu (cho bé trai/bạn nam)"
+      ],
+      "correctIndex": 0,
+      "explanation": "医者【いしゃ】= Bác sĩ"
+    },
+    {
+      "id": 18,
+      "promptHtml": "<ruby>研究者<rt>けんきゅうしゃ</rt></ruby>",
+      "prompt": "けんきゅうしゃ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Nhà nghiên cứu",
+        "Người kia",
+        "Điện, đèn",
+        "Ấn Độ"
+      ],
+      "correctIndex": 0,
+      "explanation": "研究者【けんきゅうしゃ】= Nhà nghiên cứu"
+    },
+    {
+      "id": 19,
+      "promptHtml": "エンジニア",
+      "prompt": "エンジニア",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Mỹ",
+        "Ai",
+        "Đại học",
+        "Kỹ sư"
+      ],
+      "correctIndex": 3,
+      "explanation": "エンジニア【エンジニア】= Kỹ sư"
+    },
+    {
+      "id": 20,
+      "promptHtml": "<ruby>大学<rt>だいがく</rt></ruby>",
+      "prompt": "だいがく",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Đại học",
+        "Trung Quốc",
+        "Mọi người, các bạn",
+        "Rất mong được giúp đỡ"
+      ],
+      "correctIndex": 0,
+      "explanation": "大学【だいがく】= Đại học"
+    },
+    {
+      "id": 21,
+      "promptHtml": "<ruby>病院<rt>びょういん</rt></ruby>",
+      "prompt": "びょういん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Bệnh viện",
+        "Bạn",
+        "Việt Nam",
+        "Rất hân hạnh được gặp"
+      ],
+      "correctIndex": 0,
+      "explanation": "病院【びょういん】= Bệnh viện"
+    },
+    {
+      "id": 22,
+      "promptHtml": "<ruby>電気<rt>でんき</rt></ruby>",
+      "prompt": "でんき",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Bệnh viện",
+        "Nhân viên ngân hàng",
+        "Điện, đèn",
+        "Rất mong được giúp đỡ"
+      ],
+      "correctIndex": 2,
+      "explanation": "電気【でんき】= Điện, đèn"
+    },
+    {
+      "id": 23,
+      "promptHtml": "<ruby>誰<rt>だれ</rt></ruby>",
+      "prompt": "だれ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Hàn Quốc",
+        "Vị kia (lịch sự)",
+        "Tôi",
+        "Ai"
+      ],
+      "correctIndex": 3,
+      "explanation": "誰【だれ】= Ai"
+    },
+    {
+      "id": 24,
+      "promptHtml": "どなた",
+      "prompt": "どなた",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Vị nào (lịch sự)",
+        "Bác sĩ",
+        "Thái Lan",
+        "Bạn"
+      ],
+      "correctIndex": 0,
+      "explanation": "どなた【どなた】= Vị nào (lịch sự)"
+    },
+    {
+      "id": 25,
+      "promptHtml": "<ruby>～歳<rt>～さい</rt></ruby>",
+      "prompt": "～さい",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Bao nhiêu tuổi",
+        "Anh, chị (kính ngữ sau tên)",
+        "~ tuổi",
+        "Indonesia"
+      ],
+      "correctIndex": 2,
+      "explanation": "～歳【～さい】= ~ tuổi"
+    },
+    {
+      "id": 26,
+      "promptHtml": "<ruby>何歳<rt>なんさい</rt></ruby>",
+      "prompt": "なんさい",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Nhân viên của công ty ~",
+        "Nhật Bản",
+        "Bao nhiêu tuổi",
+        "Đức"
+      ],
+      "correctIndex": 2,
+      "explanation": "何歳【なんさい】= Bao nhiêu tuổi"
+    },
+    {
+      "id": 27,
+      "promptHtml": "おいくつ",
+      "prompt": "おいくつ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Kỹ sư",
+        "Việt Nam",
+        "Bệnh viện",
+        "Bao nhiêu tuổi (lịch sự)"
+      ],
+      "correctIndex": 3,
+      "explanation": "おいくつ【おいくつ】= Bao nhiêu tuổi (lịch sự)"
+    },
+    {
+      "id": 28,
+      "promptHtml": "はい",
+      "prompt": "はい",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tên của bạn là gì?",
+        "Vâng, có",
+        "Rất mong được giúp đỡ",
+        "Nhân viên công ty"
+      ],
+      "correctIndex": 1,
+      "explanation": "はい【はい】= Vâng, có"
+    },
+    {
+      "id": 29,
+      "promptHtml": "いいえ",
+      "prompt": "いいえ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Brazil",
+        "Rất mong được giúp đỡ",
+        "Không",
+        "Mỹ"
+      ],
+      "correctIndex": 2,
+      "explanation": "いいえ【いいえ】= Không"
+    },
+    {
+      "id": 30,
+      "promptHtml": "<ruby>初めまして<rt>はじめまして</rt></ruby>",
+      "prompt": "はじめまして",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Nhân viên ngân hàng",
+        "Kỹ sư",
+        "Việt Nam",
+        "Rất hân hạnh được gặp"
+      ],
+      "correctIndex": 3,
+      "explanation": "初めまして【はじめまして】= Rất hân hạnh được gặp"
+    },
+    {
+      "id": 31,
+      "promptHtml": "<ruby>どうぞよろしくお願いします<rt>どうぞよろしくおねがいします</rt></ruby>",
+      "prompt": "どうぞよろしくおねがいします",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Rất mong được giúp đỡ",
+        "Anh, chị (kính ngữ sau tên)",
+        "Bác sĩ",
+        "Giáo viên (nghề)"
+      ],
+      "correctIndex": 0,
+      "explanation": "どうぞよろしくお願いします【どうぞよろしくおねがいします】= Rất mong được giúp đỡ"
+    },
+    {
+      "id": 32,
+      "promptHtml": "<ruby>失礼ですが<rt>しつれいですが</rt></ruby>",
+      "prompt": "しつれいですが",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Xin lỗi (làm phiền)...",
+        "Đến từ nước ~",
+        "Hàn Quốc",
+        "Vâng, có"
+      ],
+      "correctIndex": 0,
+      "explanation": "失礼ですが【しつれいですが】= Xin lỗi (làm phiền)..."
+    },
+    {
+      "id": 33,
+      "promptHtml": "<ruby>お名前は<rt>おなまえは</rt></ruby>",
+      "prompt": "おなまえは",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tên của bạn là gì?",
+        "Thái Lan",
+        "Indonesia",
+        "Vâng, có"
+      ],
+      "correctIndex": 0,
+      "explanation": "お名前は【おなまえは】= Tên của bạn là gì?"
+    },
+    {
+      "id": 34,
+      "promptHtml": "<ruby>～から来ました<rt>～からきました</rt></ruby>",
+      "prompt": "～からきました",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Đại học",
+        "Mỹ",
+        "Đến từ nước ~",
+        "Việt Nam"
+      ],
+      "correctIndex": 2,
+      "explanation": "～から来ました【～からきました】= Đến từ nước ~"
+    },
+    {
+      "id": 35,
+      "promptHtml": "アメリカ",
+      "prompt": "アメリカ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Không",
+        "Kỹ sư",
+        "Mỹ",
+        "Nhà nghiên cứu"
+      ],
+      "correctIndex": 2,
+      "explanation": "アメリカ【アメリカ】= Mỹ"
+    },
+    {
+      "id": 36,
+      "promptHtml": "イギリス",
+      "prompt": "イギリス",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Vâng, có",
+        "Anh",
+        "Đại học",
+        "Điện, đèn"
+      ],
+      "correctIndex": 1,
+      "explanation": "イギリス【イギリス】= Anh"
+    },
+    {
+      "id": 37,
+      "promptHtml": "インド",
+      "prompt": "インド",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Đến từ nước ~",
+        "Người nước...",
+        "Bao nhiêu tuổi (lịch sự)",
+        "Ấn Độ"
+      ],
+      "correctIndex": 3,
+      "explanation": "インド【インド】= Ấn Độ"
+    },
+    {
+      "id": 38,
+      "promptHtml": "インドネシア",
+      "prompt": "インドネシア",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Indonesia",
+        "Nhân viên của công ty ~",
+        "Người kia",
+        "Giáo viên (nghề)"
+      ],
+      "correctIndex": 0,
+      "explanation": "インドネシア【インドネシア】= Indonesia"
+    },
+    {
+      "id": 39,
+      "promptHtml": "<ruby>韓国<rt>かんこく</rt></ruby>",
+      "prompt": "かんこく",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Giáo viên (nghề)",
+        "Người nước...",
+        "Vị nào (lịch sự)",
+        "Hàn Quốc"
+      ],
+      "correctIndex": 3,
+      "explanation": "韓国【かんこく】= Hàn Quốc"
+    },
+    {
+      "id": 40,
+      "promptHtml": "タイ",
+      "prompt": "タイ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Thái Lan",
+        "Anh",
+        "Bé (cho trẻ em)",
+        "Indonesia"
+      ],
+      "correctIndex": 0,
+      "explanation": "タイ【タイ】= Thái Lan"
+    },
+    {
+      "id": 41,
+      "promptHtml": "<ruby>中国<rt>ちゅうごく</rt></ruby>",
+      "prompt": "ちゅうごく",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Đại học",
+        "Trung Quốc",
+        "Mỹ",
+        "Mọi người, các bạn"
+      ],
+      "correctIndex": 1,
+      "explanation": "中国【ちゅうごく】= Trung Quốc"
+    },
+    {
+      "id": 42,
+      "promptHtml": "ドイツ",
+      "prompt": "ドイツ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Đức",
+        "Đến từ nước ~",
+        "Anh, chị (kính ngữ sau tên)",
+        "Không"
+      ],
+      "correctIndex": 0,
+      "explanation": "ドイツ【ドイツ】= Đức"
+    },
+    {
+      "id": 43,
+      "promptHtml": "<ruby>日本<rt>にほん</rt></ruby>",
+      "prompt": "にほん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Việt Nam",
+        "Hàn Quốc",
+        "Người nước...",
+        "Nhật Bản"
+      ],
+      "correctIndex": 3,
+      "explanation": "日本【にほん】= Nhật Bản"
+    },
+    {
+      "id": 44,
+      "promptHtml": "ブラジル",
+      "prompt": "ブラジル",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Nhân viên ngân hàng",
+        "Bao nhiêu tuổi",
+        "Ấn Độ",
+        "Brazil"
+      ],
+      "correctIndex": 3,
+      "explanation": "ブラジル【ブラジル】= Brazil"
+    },
+    {
+      "id": 45,
+      "promptHtml": "ベトナム",
+      "prompt": "ベトナム",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Mọi người, các bạn",
+        "Vị nào (lịch sự)",
+        "Anh, chị (kính ngữ sau tên)",
+        "Việt Nam"
+      ],
+      "correctIndex": 3,
+      "explanation": "ベトナム【ベトナム】= Việt Nam"
+    },
+    {
+      "id": 46,
+      "promptHtml": "<ruby>私<rt>わたし</rt></ruby>",
+      "prompt": "わたし",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Bác sĩ",
+        "Đại học",
+        "Tôi",
+        "Rất hân hạnh được gặp"
+      ],
+      "correctIndex": 2,
+      "explanation": "私【わたし】= Tôi"
+    },
+    {
+      "id": 47,
+      "promptHtml": "<ruby>私たち<rt>わたしたち</rt></ruby>",
+      "prompt": "わたしたち",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Việt Nam",
+        "Chúng tôi",
+        "Đức",
+        "Vị nào (lịch sự)"
+      ],
+      "correctIndex": 1,
+      "explanation": "私たち【わたしたち】= Chúng tôi"
+    },
+    {
+      "id": 48,
+      "promptHtml": "あなた",
+      "prompt": "あなた",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Điện, đèn",
+        "Bạn",
+        "Bao nhiêu tuổi (lịch sự)",
+        "Người kia"
+      ],
+      "correctIndex": 1,
+      "explanation": "あなた【あなた】= Bạn"
+    },
+    {
+      "id": 49,
+      "promptHtml": "<ruby>あの人<rt>あのひと</rt></ruby>",
+      "prompt": "あのひと",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Người kia",
+        "Anh, chị (kính ngữ sau tên)",
+        "Xin lỗi (làm phiền)...",
+        "Cậu (cho bé trai/bạn nam)"
+      ],
+      "correctIndex": 0,
+      "explanation": "あの人【あのひと】= Người kia"
+    },
+    {
+      "id": 50,
+      "promptHtml": "<ruby>あの方<rt>あのかた</rt></ruby>",
+      "prompt": "あのかた",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Thái Lan",
+        "Brazil",
+        "Vị kia (lịch sự)",
+        "Hàn Quốc"
+      ],
+      "correctIndex": 2,
+      "explanation": "あの方【あのかた】= Vị kia (lịch sự)"
+    }
+  ]
+}

@@ -1,0 +1,1046 @@
+{
+  "title": "Từ vựng luyện tập — Bài 2: これ・それ・あれ",
+  "type": "vocab-practice",
+  "questions": [
+    {
+      "id": 1,
+      "prompt": "これ",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Bàn học",
+        "Cái đó (gần người nghe)",
+        "~ kia (trước danh từ)",
+        "Cái này (gần người nói)"
+      ],
+      "correctIndex": 3,
+      "explanation": "これ【これ】= Cái này (gần người nói)"
+    },
+    {
+      "id": 2,
+      "prompt": "Cái đó (gần người nghe)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "雑誌",
+        "名刺",
+        "それ",
+        "この"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cái đó (gần người nghe) = それ【それ】"
+    },
+    {
+      "id": 3,
+      "prompt": "あれ",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Cái này (gần người nói)",
+        "Ti vi",
+        "Máy ảnh",
+        "Cái kia (xa cả hai)"
+      ],
+      "correctIndex": 3,
+      "explanation": "あれ【あれ】= Cái kia (xa cả hai)"
+    },
+    {
+      "id": 4,
+      "prompt": "~ này (trước danh từ)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "日本語",
+        "手帳",
+        "チョコレート",
+        "この"
+      ],
+      "correctIndex": 3,
+      "explanation": "~ này (trước danh từ) = この【この】"
+    },
+    {
+      "id": 5,
+      "prompt": "その",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Cái đó (gần người nghe)",
+        "Sô-cô-la",
+        "~ đó (trước danh từ)",
+        "Vở, sổ tay"
+      ],
+      "correctIndex": 2,
+      "explanation": "その【その】= ~ đó (trước danh từ)"
+    },
+    {
+      "id": 6,
+      "prompt": "~ kia (trước danh từ)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "カード",
+        "これ",
+        "手帳",
+        "あの"
+      ],
+      "correctIndex": 3,
+      "explanation": "~ kia (trước danh từ) = あの【あの】"
+    },
+    {
+      "id": 7,
+      "prompt": "本",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Chìa khóa",
+        "Sách",
+        "Bút chì",
+        "Cặp, túi xách"
+      ],
+      "correctIndex": 1,
+      "explanation": "本【ほん】= Sách"
+    },
+    {
+      "id": 8,
+      "prompt": "Từ điển",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "新聞",
+        "辞書",
+        "カード",
+        "コンピューター"
+      ],
+      "correctIndex": 1,
+      "explanation": "Từ điển = 辞書【じしょ】"
+    },
+    {
+      "id": 9,
+      "prompt": "雑誌",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Ô tô",
+        "Radio",
+        "~ này (trước danh từ)",
+        "Tạp chí"
+      ],
+      "correctIndex": 3,
+      "explanation": "雑誌【ざっし】= Tạp chí"
+    },
+    {
+      "id": 10,
+      "prompt": "Báo",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "机",
+        "そう",
+        "コーヒー",
+        "新聞"
+      ],
+      "correctIndex": 3,
+      "explanation": "Báo = 新聞【しんぶん】"
+    },
+    {
+      "id": 11,
+      "prompt": "ノート",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Bút bi",
+        "Tiếng Nhật",
+        "~ đó (trước danh từ)",
+        "Vở, sổ tay"
+      ],
+      "correctIndex": 3,
+      "explanation": "ノート【ノート】= Vở, sổ tay"
+    },
+    {
+      "id": 12,
+      "prompt": "Sổ tay nhỏ",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "手帳",
+        "チョコレート",
+        "～語",
+        "英語"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sổ tay nhỏ = 手帳【てちょう】"
+    },
+    {
+      "id": 13,
+      "prompt": "名刺",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Danh thiếp",
+        "Máy tính",
+        "Cảm ơn (thân mật)",
+        "Từ điển"
+      ],
+      "correctIndex": 0,
+      "explanation": "名刺【めいし】= Danh thiếp"
+    },
+    {
+      "id": 14,
+      "prompt": "Thẻ",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "どうぞ",
+        "本",
+        "カード",
+        "傘"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thẻ = カード【カード】"
+    },
+    {
+      "id": 15,
+      "prompt": "鉛筆",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Bút chì",
+        "Ờm... (do dự)",
+        "Ghế",
+        "Tiếng Nhật"
+      ],
+      "correctIndex": 0,
+      "explanation": "鉛筆【えんぴつ】= Bút chì"
+    },
+    {
+      "id": 16,
+      "prompt": "Bút bi",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "時計",
+        "どうぞ",
+        "ボールペン",
+        "テレビ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bút bi = ボールペン【ボールペン】"
+    },
+    {
+      "id": 17,
+      "prompt": "シャープペンシル",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Cảm ơn (thân mật)",
+        "Tiếng Nhật",
+        "Radio",
+        "Bút chì bấm"
+      ],
+      "correctIndex": 3,
+      "explanation": "シャープペンシル【シャープペンシル】= Bút chì bấm"
+    },
+    {
+      "id": 18,
+      "prompt": "Chìa khóa",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "何",
+        "どうぞ",
+        "辞書",
+        "鍵"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chìa khóa = 鍵【かぎ】"
+    },
+    {
+      "id": 19,
+      "prompt": "時計",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Tiếng Nhật",
+        "Báo",
+        "Tiếng ~",
+        "Đồng hồ"
+      ],
+      "correctIndex": 3,
+      "explanation": "時計【とけい】= Đồng hồ"
+    },
+    {
+      "id": 20,
+      "prompt": "Ô, dù",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "この",
+        "傘",
+        "いす",
+        "ラジオ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ô, dù = 傘【かさ】"
+    },
+    {
+      "id": 21,
+      "prompt": "かばん",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Tiếng ~",
+        "Vở, sổ tay",
+        "Đồng hồ",
+        "Cặp, túi xách"
+      ],
+      "correctIndex": 3,
+      "explanation": "かばん【かばん】= Cặp, túi xách"
+    },
+    {
+      "id": 22,
+      "prompt": "Ti vi",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "テレビ",
+        "日本語",
+        "この",
+        "コンピューター"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ti vi = テレビ【テレビ】"
+    },
+    {
+      "id": 23,
+      "prompt": "ラジオ",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Máy tính",
+        "Cái này (gần người nói)",
+        "Bàn học",
+        "Radio"
+      ],
+      "correctIndex": 3,
+      "explanation": "ラジオ【ラジオ】= Radio"
+    },
+    {
+      "id": 24,
+      "prompt": "Máy ảnh",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "机",
+        "カメラ",
+        "辞書",
+        "コーヒー"
+      ],
+      "correctIndex": 1,
+      "explanation": "Máy ảnh = カメラ【カメラ】"
+    },
+    {
+      "id": 25,
+      "prompt": "コンピューター",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Máy ảnh",
+        "Máy tính",
+        "Sô-cô-la",
+        "Radio"
+      ],
+      "correctIndex": 1,
+      "explanation": "コンピューター【コンピューター】= Máy tính"
+    },
+    {
+      "id": 26,
+      "prompt": "Ô tô",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "新聞",
+        "自動車",
+        "何",
+        "～語"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ô tô = 自動車【じどうしゃ】"
+    },
+    {
+      "id": 27,
+      "prompt": "机",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Bàn học",
+        "Cái kia (xa cả hai)",
+        "Vở, sổ tay",
+        "Đồng hồ"
+      ],
+      "correctIndex": 0,
+      "explanation": "机【つくえ】= Bàn học"
+    },
+    {
+      "id": 28,
+      "prompt": "Ghế",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "いす",
+        "かばん",
+        "傘",
+        "それ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ghế = いす【いす】"
+    },
+    {
+      "id": 29,
+      "prompt": "チョコレート",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Sô-cô-la",
+        "~ này (trước danh từ)",
+        "Tiếng Nhật",
+        "Cảm ơn (thân mật)"
+      ],
+      "correctIndex": 0,
+      "explanation": "チョコレート【チョコレート】= Sô-cô-la"
+    },
+    {
+      "id": 30,
+      "prompt": "Cà phê",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "コーヒー",
+        "自動車",
+        "何",
+        "それ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cà phê = コーヒー【コーヒー】"
+    },
+    {
+      "id": 31,
+      "prompt": "英語",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Tiếng Anh",
+        "Cái kia (xa cả hai)",
+        "Thẻ",
+        "Chìa khóa"
+      ],
+      "correctIndex": 0,
+      "explanation": "英語【えいご】= Tiếng Anh"
+    },
+    {
+      "id": 32,
+      "prompt": "Tiếng Nhật",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "コーヒー",
+        "本",
+        "日本語",
+        "その"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tiếng Nhật = 日本語【にほんご】"
+    },
+    {
+      "id": 33,
+      "prompt": "～語",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Cái đó (gần người nghe)",
+        "Tiếng ~",
+        "Cái gì",
+        "Bàn học"
+      ],
+      "correctIndex": 1,
+      "explanation": "～語【～ご】= Tiếng ~"
+    },
+    {
+      "id": 34,
+      "prompt": "Cái gì",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "ボールペン",
+        "自動車",
+        "何",
+        "傘"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cái gì = 何【なん】"
+    },
+    {
+      "id": 35,
+      "prompt": "そう",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Bút chì",
+        "Đúng vậy",
+        "Không phải, sai rồi",
+        "Vở, sổ tay"
+      ],
+      "correctIndex": 1,
+      "explanation": "そう【そう】= Đúng vậy"
+    },
+    {
+      "id": 36,
+      "prompt": "Không phải, sai rồi",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "コーヒー",
+        "それ",
+        "違います",
+        "あの"
+      ],
+      "correctIndex": 2,
+      "explanation": "Không phải, sai rồi = 違います【ちがいます】"
+    },
+    {
+      "id": 37,
+      "prompt": "そうですか",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Cái đó (gần người nghe)",
+        "Vậy à?",
+        "Máy tính",
+        "~ đó (trước danh từ)"
+      ],
+      "correctIndex": 1,
+      "explanation": "そうですか【そうですか】= Vậy à?"
+    },
+    {
+      "id": 38,
+      "prompt": "Ờm... (do dự)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "机",
+        "そう",
+        "それ",
+        "あのう"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ờm... (do dự) = あのう【あのう】"
+    },
+    {
+      "id": 39,
+      "prompt": "どうぞ",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Mời, xin mời",
+        "Bút bi",
+        "Cặp, túi xách",
+        "Sô-cô-la"
+      ],
+      "correctIndex": 0,
+      "explanation": "どうぞ【どうぞ】= Mời, xin mời"
+    },
+    {
+      "id": 40,
+      "prompt": "Cảm ơn (thân mật)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "どうも",
+        "カード",
+        "コーヒー",
+        "日本語"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cảm ơn (thân mật) = どうも【どうも】"
+    },
+    {
+      "id": 41,
+      "prompt": "これ",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Sổ tay nhỏ",
+        "Ghế",
+        "Cái này (gần người nói)",
+        "Cái kia (xa cả hai)"
+      ],
+      "correctIndex": 2,
+      "explanation": "これ【これ】= Cái này (gần người nói)"
+    },
+    {
+      "id": 42,
+      "prompt": "Cái đó (gần người nghe)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "それ",
+        "どうも",
+        "時計",
+        "チョコレート"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cái đó (gần người nghe) = それ【それ】"
+    },
+    {
+      "id": 43,
+      "prompt": "あれ",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Cái kia (xa cả hai)",
+        "Ờm... (do dự)",
+        "Từ điển",
+        "Cái này (gần người nói)"
+      ],
+      "correctIndex": 0,
+      "explanation": "あれ【あれ】= Cái kia (xa cả hai)"
+    },
+    {
+      "id": 44,
+      "prompt": "~ này (trước danh từ)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "この",
+        "かばん",
+        "その",
+        "そう"
+      ],
+      "correctIndex": 0,
+      "explanation": "~ này (trước danh từ) = この【この】"
+    },
+    {
+      "id": 45,
+      "prompt": "その",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Vậy à?",
+        "~ đó (trước danh từ)",
+        "Thẻ",
+        "Sách"
+      ],
+      "correctIndex": 1,
+      "explanation": "その【その】= ~ đó (trước danh từ)"
+    },
+    {
+      "id": 46,
+      "prompt": "~ kia (trước danh từ)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "あの",
+        "傘",
+        "これ",
+        "英語"
+      ],
+      "correctIndex": 0,
+      "explanation": "~ kia (trước danh từ) = あの【あの】"
+    },
+    {
+      "id": 47,
+      "prompt": "本",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Sách",
+        "Cảm ơn (thân mật)",
+        "Ghế",
+        "Ô, dù"
+      ],
+      "correctIndex": 0,
+      "explanation": "本【ほん】= Sách"
+    },
+    {
+      "id": 48,
+      "prompt": "Từ điển",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "傘",
+        "辞書",
+        "英語",
+        "そうですか"
+      ],
+      "correctIndex": 1,
+      "explanation": "Từ điển = 辞書【じしょ】"
+    },
+    {
+      "id": 49,
+      "prompt": "雑誌",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Tiếng Anh",
+        "Cặp, túi xách",
+        "Tạp chí",
+        "~ kia (trước danh từ)"
+      ],
+      "correctIndex": 2,
+      "explanation": "雑誌【ざっし】= Tạp chí"
+    },
+    {
+      "id": 50,
+      "prompt": "Báo",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "鍵",
+        "雑誌",
+        "ノート",
+        "新聞"
+      ],
+      "correctIndex": 3,
+      "explanation": "Báo = 新聞【しんぶん】"
+    },
+    {
+      "id": 51,
+      "prompt": "ノート",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Ô, dù",
+        "Vở, sổ tay",
+        "Ô tô",
+        "Ờm... (do dự)"
+      ],
+      "correctIndex": 1,
+      "explanation": "ノート【ノート】= Vở, sổ tay"
+    },
+    {
+      "id": 52,
+      "prompt": "Sổ tay nhỏ",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "コンピューター",
+        "ボールペン",
+        "手帳",
+        "新聞"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sổ tay nhỏ = 手帳【てちょう】"
+    },
+    {
+      "id": 53,
+      "prompt": "名刺",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Danh thiếp",
+        "Từ điển",
+        "Ghế",
+        "Cảm ơn (thân mật)"
+      ],
+      "correctIndex": 0,
+      "explanation": "名刺【めいし】= Danh thiếp"
+    },
+    {
+      "id": 54,
+      "prompt": "Thẻ",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "カード",
+        "鍵",
+        "鉛筆",
+        "傘"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thẻ = カード【カード】"
+    },
+    {
+      "id": 55,
+      "prompt": "鉛筆",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Bút chì",
+        "Cặp, túi xách",
+        "~ kia (trước danh từ)",
+        "Cảm ơn (thân mật)"
+      ],
+      "correctIndex": 0,
+      "explanation": "鉛筆【えんぴつ】= Bút chì"
+    },
+    {
+      "id": 56,
+      "prompt": "Bút bi",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "そうですか",
+        "あのう",
+        "手帳",
+        "ボールペン"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bút bi = ボールペン【ボールペン】"
+    },
+    {
+      "id": 57,
+      "prompt": "シャープペンシル",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Cà phê",
+        "Sổ tay nhỏ",
+        "Bút chì bấm",
+        "Cái này (gần người nói)"
+      ],
+      "correctIndex": 2,
+      "explanation": "シャープペンシル【シャープペンシル】= Bút chì bấm"
+    },
+    {
+      "id": 58,
+      "prompt": "Chìa khóa",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "手帳",
+        "鍵",
+        "雑誌",
+        "どうぞ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chìa khóa = 鍵【かぎ】"
+    },
+    {
+      "id": 59,
+      "prompt": "時計",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Vở, sổ tay",
+        "Đồng hồ",
+        "Báo",
+        "Mời, xin mời"
+      ],
+      "correctIndex": 1,
+      "explanation": "時計【とけい】= Đồng hồ"
+    },
+    {
+      "id": 60,
+      "prompt": "Ô, dù",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "その",
+        "傘",
+        "机",
+        "新聞"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ô, dù = 傘【かさ】"
+    },
+    {
+      "id": 61,
+      "prompt": "かばん",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Cà phê",
+        "Không phải, sai rồi",
+        "Cặp, túi xách",
+        "Bút chì bấm"
+      ],
+      "correctIndex": 2,
+      "explanation": "かばん【かばん】= Cặp, túi xách"
+    },
+    {
+      "id": 62,
+      "prompt": "Ti vi",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "コンピューター",
+        "あの",
+        "手帳",
+        "テレビ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ti vi = テレビ【テレビ】"
+    },
+    {
+      "id": 63,
+      "prompt": "ラジオ",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Cảm ơn (thân mật)",
+        "Radio",
+        "Sô-cô-la",
+        "Cái kia (xa cả hai)"
+      ],
+      "correctIndex": 1,
+      "explanation": "ラジオ【ラジオ】= Radio"
+    },
+    {
+      "id": 64,
+      "prompt": "Máy ảnh",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "あれ",
+        "カメラ",
+        "どうぞ",
+        "あのう"
+      ],
+      "correctIndex": 1,
+      "explanation": "Máy ảnh = カメラ【カメラ】"
+    },
+    {
+      "id": 65,
+      "prompt": "コンピューター",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Máy tính",
+        "Cà phê",
+        "~ này (trước danh từ)",
+        "Cái này (gần người nói)"
+      ],
+      "correctIndex": 0,
+      "explanation": "コンピューター【コンピューター】= Máy tính"
+    },
+    {
+      "id": 66,
+      "prompt": "Ô tô",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "何",
+        "いす",
+        "自動車",
+        "あの"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ô tô = 自動車【じどうしゃ】"
+    },
+    {
+      "id": 67,
+      "prompt": "机",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Ghế",
+        "Tạp chí",
+        "Bàn học",
+        "~ kia (trước danh từ)"
+      ],
+      "correctIndex": 2,
+      "explanation": "机【つくえ】= Bàn học"
+    },
+    {
+      "id": 68,
+      "prompt": "Ghế",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "いす",
+        "それ",
+        "机",
+        "本"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ghế = いす【いす】"
+    },
+    {
+      "id": 69,
+      "prompt": "チョコレート",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Sô-cô-la",
+        "Ờm... (do dự)",
+        "Tiếng Nhật",
+        "~ đó (trước danh từ)"
+      ],
+      "correctIndex": 0,
+      "explanation": "チョコレート【チョコレート】= Sô-cô-la"
+    },
+    {
+      "id": 70,
+      "prompt": "Cà phê",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "コーヒー",
+        "机",
+        "辞書",
+        "どうぞ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cà phê = コーヒー【コーヒー】"
+    },
+    {
+      "id": 71,
+      "prompt": "英語",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Tiếng Anh",
+        "Máy ảnh",
+        "Không phải, sai rồi",
+        "Radio"
+      ],
+      "correctIndex": 0,
+      "explanation": "英語【えいご】= Tiếng Anh"
+    },
+    {
+      "id": 72,
+      "prompt": "Tiếng Nhật",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "かばん",
+        "手帳",
+        "ノート",
+        "日本語"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tiếng Nhật = 日本語【にほんご】"
+    },
+    {
+      "id": 73,
+      "prompt": "～語",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Bàn học",
+        "Bút chì bấm",
+        "Cảm ơn (thân mật)",
+        "Tiếng ~"
+      ],
+      "correctIndex": 3,
+      "explanation": "～語【～ご】= Tiếng ~"
+    },
+    {
+      "id": 74,
+      "prompt": "Cái gì",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "鍵",
+        "何",
+        "ノート",
+        "自動車"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cái gì = 何【なん】"
+    },
+    {
+      "id": 75,
+      "prompt": "そう",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Ô tô",
+        "Không phải, sai rồi",
+        "Máy tính",
+        "Đúng vậy"
+      ],
+      "correctIndex": 3,
+      "explanation": "そう【そう】= Đúng vậy"
+    },
+    {
+      "id": 76,
+      "prompt": "Không phải, sai rồi",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "どうぞ",
+        "手帳",
+        "何",
+        "違います"
+      ],
+      "correctIndex": 3,
+      "explanation": "Không phải, sai rồi = 違います【ちがいます】"
+    },
+    {
+      "id": 77,
+      "prompt": "そうですか",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Cái gì",
+        "Cái đó (gần người nghe)",
+        "Cà phê",
+        "Vậy à?"
+      ],
+      "correctIndex": 3,
+      "explanation": "そうですか【そうですか】= Vậy à?"
+    },
+    {
+      "id": 78,
+      "prompt": "Ờm... (do dự)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "いす",
+        "どうぞ",
+        "違います",
+        "あのう"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ờm... (do dự) = あのう【あのう】"
+    },
+    {
+      "id": 79,
+      "prompt": "どうぞ",
+      "subPrompt": "Nghĩa là?",
+      "options": [
+        "Mời, xin mời",
+        "Cái kia (xa cả hai)",
+        "Danh thiếp",
+        "Ti vi"
+      ],
+      "correctIndex": 0,
+      "explanation": "どうぞ【どうぞ】= Mời, xin mời"
+    },
+    {
+      "id": 80,
+      "prompt": "Cảm ơn (thân mật)",
+      "subPrompt": "Tiếng Nhật là?",
+      "options": [
+        "どうも",
+        "そうですか",
+        "雑誌",
+        "時計"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cảm ơn (thân mật) = どうも【どうも】"
+    }
+  ]
+}

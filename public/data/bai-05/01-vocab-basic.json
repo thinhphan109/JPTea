@@ -1,0 +1,706 @@
+{
+  "title": "Từ vựng cơ bản — Bài 5: ～へ いきます",
+  "type": "vocab-basic",
+  "questions": [
+    {
+      "id": 1,
+      "promptHtml": "<ruby>行きます<rt>いきます</rt></ruby>",
+      "prompt": "いきます",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Ngày mấy",
+        "Tháng ~",
+        "Đi",
+        "Tháng này"
+      ],
+      "correctIndex": 2,
+      "explanation": "行きます【いきます】= Đi"
+    },
+    {
+      "id": 2,
+      "promptHtml": "<ruby>来ます<rt>きます</rt></ruby>",
+      "prompt": "きます",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Đến",
+        "Trường học",
+        "Một mình",
+        "Về (nhà/quê)"
+      ],
+      "correctIndex": 0,
+      "explanation": "来ます【きます】= Đến"
+    },
+    {
+      "id": 3,
+      "promptHtml": "<ruby>帰ります<rt>かえります</rt></ruby>",
+      "prompt": "かえります",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Năm ngoái",
+        "Một mình",
+        "Về (nhà/quê)",
+        "Taxi"
+      ],
+      "correctIndex": 2,
+      "explanation": "帰ります【かえります】= Về (nhà/quê)"
+    },
+    {
+      "id": 4,
+      "promptHtml": "<ruby>学校<rt>がっこう</rt></ruby>",
+      "prompt": "がっこう",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tuần này",
+        "Một mình",
+        "Trường học",
+        "Ngày mấy"
+      ],
+      "correctIndex": 2,
+      "explanation": "学校【がっこう】= Trường học"
+    },
+    {
+      "id": 5,
+      "promptHtml": "スーパー",
+      "prompt": "スーパー",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Đi",
+        "Tàu Shinkansen",
+        "Siêu thị",
+        "Người"
+      ],
+      "correctIndex": 2,
+      "explanation": "スーパー【スーパー】= Siêu thị"
+    },
+    {
+      "id": 6,
+      "promptHtml": "<ruby>駅<rt>えき</rt></ruby>",
+      "prompt": "えき",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tháng này",
+        "Đến",
+        "Tàu điện",
+        "Nhà ga"
+      ],
+      "correctIndex": 3,
+      "explanation": "駅【えき】= Nhà ga"
+    },
+    {
+      "id": 7,
+      "promptHtml": "<ruby>飛行機<rt>ひこうき</rt></ruby>",
+      "prompt": "ひこうき",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tàu Shinkansen",
+        "Máy bay",
+        "Đi bộ",
+        "Sinh nhật"
+      ],
+      "correctIndex": 1,
+      "explanation": "飛行機【ひこうき】= Máy bay"
+    },
+    {
+      "id": 8,
+      "promptHtml": "<ruby>船<rt>ふね</rt></ruby>",
+      "prompt": "ふね",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tháng ~",
+        "Đi",
+        "Xe đạp",
+        "Tàu thủy"
+      ],
+      "correctIndex": 3,
+      "explanation": "船【ふね】= Tàu thủy"
+    },
+    {
+      "id": 9,
+      "promptHtml": "<ruby>電車<rt>でんしゃ</rt></ruby>",
+      "prompt": "でんしゃ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Ngày mấy",
+        "Tàu điện",
+        "Năm nay",
+        "Đến"
+      ],
+      "correctIndex": 1,
+      "explanation": "電車【でんしゃ】= Tàu điện"
+    },
+    {
+      "id": 10,
+      "promptHtml": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>",
+      "prompt": "ちかてつ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tháng này",
+        "Siêu thị",
+        "Tàu điện ngầm",
+        "Một mình"
+      ],
+      "correctIndex": 2,
+      "explanation": "地下鉄【ちかてつ】= Tàu điện ngầm"
+    },
+    {
+      "id": 11,
+      "promptHtml": "<ruby>新幹線<rt>しんかんせん</rt></ruby>",
+      "prompt": "しんかんせん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tàu Shinkansen",
+        "Siêu thị",
+        "Tháng trước",
+        "Đến"
+      ],
+      "correctIndex": 0,
+      "explanation": "新幹線【しんかんせん】= Tàu Shinkansen"
+    },
+    {
+      "id": 12,
+      "promptHtml": "バス",
+      "prompt": "バス",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tháng sau",
+        "Máy bay",
+        "Xe buýt",
+        "Tháng trước"
+      ],
+      "correctIndex": 2,
+      "explanation": "バス【バス】= Xe buýt"
+    },
+    {
+      "id": 13,
+      "promptHtml": "タクシー",
+      "prompt": "タクシー",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tháng ~",
+        "Năm ngoái",
+        "Taxi",
+        "Xe đạp"
+      ],
+      "correctIndex": 2,
+      "explanation": "タクシー【タクシー】= Taxi"
+    },
+    {
+      "id": 14,
+      "promptHtml": "<ruby>自転車<rt>じてんしゃ</rt></ruby>",
+      "prompt": "じてんしゃ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Xe đạp",
+        "Tháng sau",
+        "Anh ấy, người yêu (nam)",
+        "Bạn bè"
+      ],
+      "correctIndex": 0,
+      "explanation": "自転車【じてんしゃ】= Xe đạp"
+    },
+    {
+      "id": 15,
+      "promptHtml": "<ruby>歩いて<rt>あるいて</rt></ruby>",
+      "prompt": "あるいて",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Gia đình",
+        "Taxi",
+        "Tuần này",
+        "Đi bộ"
+      ],
+      "correctIndex": 3,
+      "explanation": "歩いて【あるいて】= Đi bộ"
+    },
+    {
+      "id": 16,
+      "promptHtml": "<ruby>人<rt>ひと</rt></ruby>",
+      "prompt": "ひと",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Ngày mấy",
+        "Bạn bè",
+        "Người",
+        "Tàu thủy"
+      ],
+      "correctIndex": 2,
+      "explanation": "人【ひと】= Người"
+    },
+    {
+      "id": 17,
+      "promptHtml": "<ruby>友達<rt>ともだち</rt></ruby>",
+      "prompt": "ともだち",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tàu điện ngầm",
+        "Bạn bè",
+        "Gia đình",
+        "Siêu thị"
+      ],
+      "correctIndex": 1,
+      "explanation": "友達【ともだち】= Bạn bè"
+    },
+    {
+      "id": 18,
+      "promptHtml": "<ruby>彼<rt>かれ</rt></ruby>",
+      "prompt": "かれ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Năm sau",
+        "Ngày ~",
+        "Anh ấy, người yêu (nam)",
+        "Một mình"
+      ],
+      "correctIndex": 2,
+      "explanation": "彼【かれ】= Anh ấy, người yêu (nam)"
+    },
+    {
+      "id": 19,
+      "promptHtml": "<ruby>彼女<rt>かのじょ</rt></ruby>",
+      "prompt": "かのじょ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Về (nhà/quê)",
+        "Tuần trước",
+        "Cô ấy, người yêu (nữ)",
+        "Anh ấy, người yêu (nam)"
+      ],
+      "correctIndex": 2,
+      "explanation": "彼女【かのじょ】= Cô ấy, người yêu (nữ)"
+    },
+    {
+      "id": 20,
+      "promptHtml": "<ruby>家族<rt>かぞく</rt></ruby>",
+      "prompt": "かぞく",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Taxi",
+        "Năm sau",
+        "Người",
+        "Gia đình"
+      ],
+      "correctIndex": 3,
+      "explanation": "家族【かぞく】= Gia đình"
+    },
+    {
+      "id": 21,
+      "promptHtml": "<ruby>一人で<rt>ひとりで</rt></ruby>",
+      "prompt": "ひとりで",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Bạn bè",
+        "Đi bộ",
+        "Một mình",
+        "Trường học"
+      ],
+      "correctIndex": 2,
+      "explanation": "一人で【ひとりで】= Một mình"
+    },
+    {
+      "id": 22,
+      "promptHtml": "<ruby>先週<rt>せんしゅう</rt></ruby>",
+      "prompt": "せんしゅう",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tàu điện ngầm",
+        "Tuần trước",
+        "Đi bộ",
+        "Về (nhà/quê)"
+      ],
+      "correctIndex": 1,
+      "explanation": "先週【せんしゅう】= Tuần trước"
+    },
+    {
+      "id": 23,
+      "promptHtml": "<ruby>今週<rt>こんしゅう</rt></ruby>",
+      "prompt": "こんしゅう",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Đi",
+        "Xe đạp",
+        "Tuần này",
+        "Xe buýt"
+      ],
+      "correctIndex": 2,
+      "explanation": "今週【こんしゅう】= Tuần này"
+    },
+    {
+      "id": 24,
+      "promptHtml": "<ruby>来週<rt>らいしゅう</rt></ruby>",
+      "prompt": "らいしゅう",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Năm ~",
+        "Tháng trước",
+        "Người",
+        "Tuần sau"
+      ],
+      "correctIndex": 3,
+      "explanation": "来週【らいしゅう】= Tuần sau"
+    },
+    {
+      "id": 25,
+      "promptHtml": "<ruby>先月<rt>せんげつ</rt></ruby>",
+      "prompt": "せんげつ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Taxi",
+        "Tháng trước",
+        "Cô ấy, người yêu (nữ)",
+        "Về (nhà/quê)"
+      ],
+      "correctIndex": 1,
+      "explanation": "先月【せんげつ】= Tháng trước"
+    },
+    {
+      "id": 26,
+      "promptHtml": "<ruby>今月<rt>こんげつ</rt></ruby>",
+      "prompt": "こんげつ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Sinh nhật",
+        "Máy bay",
+        "Người",
+        "Tháng này"
+      ],
+      "correctIndex": 3,
+      "explanation": "今月【こんげつ】= Tháng này"
+    },
+    {
+      "id": 27,
+      "promptHtml": "<ruby>来月<rt>らいげつ</rt></ruby>",
+      "prompt": "らいげつ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tàu Shinkansen",
+        "Tháng sau",
+        "Siêu thị",
+        "Tuần này"
+      ],
+      "correctIndex": 1,
+      "explanation": "来月【らいげつ】= Tháng sau"
+    },
+    {
+      "id": 28,
+      "promptHtml": "<ruby>去年<rt>きょねん</rt></ruby>",
+      "prompt": "きょねん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Năm ngoái",
+        "Năm nay",
+        "Ngày mấy",
+        "Cô ấy, người yêu (nữ)"
+      ],
+      "correctIndex": 0,
+      "explanation": "去年【きょねん】= Năm ngoái"
+    },
+    {
+      "id": 29,
+      "promptHtml": "<ruby>今年<rt>ことし</rt></ruby>",
+      "prompt": "ことし",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Năm ~",
+        "Năm nay",
+        "Tàu điện ngầm",
+        "Về (nhà/quê)"
+      ],
+      "correctIndex": 1,
+      "explanation": "今年【ことし】= Năm nay"
+    },
+    {
+      "id": 30,
+      "promptHtml": "<ruby>来年<rt>らいねん</rt></ruby>",
+      "prompt": "らいねん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Năm sau",
+        "Tuần này",
+        "Nhà ga",
+        "Tàu điện ngầm"
+      ],
+      "correctIndex": 0,
+      "explanation": "来年【らいねん】= Năm sau"
+    },
+    {
+      "id": 31,
+      "promptHtml": "<ruby>～年<rt>～ねん</rt></ruby>",
+      "prompt": "～ねん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tàu điện",
+        "Máy bay",
+        "Đến",
+        "Năm ~"
+      ],
+      "correctIndex": 3,
+      "explanation": "～年【～ねん】= Năm ~"
+    },
+    {
+      "id": 32,
+      "promptHtml": "<ruby>～月<rt>～がつ</rt></ruby>",
+      "prompt": "～がつ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Đi bộ",
+        "Bạn bè",
+        "Cô ấy, người yêu (nữ)",
+        "Tháng ~"
+      ],
+      "correctIndex": 3,
+      "explanation": "～月【～がつ】= Tháng ~"
+    },
+    {
+      "id": 33,
+      "promptHtml": "<ruby>～日<rt>～にち</rt></ruby>",
+      "prompt": "～にち",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Ngày ~",
+        "Nhà ga",
+        "Tàu điện ngầm",
+        "Anh ấy, người yêu (nam)"
+      ],
+      "correctIndex": 0,
+      "explanation": "～日【～にち】= Ngày ~"
+    },
+    {
+      "id": 34,
+      "promptHtml": "<ruby>何月<rt>なんがつ</rt></ruby>",
+      "prompt": "なんがつ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Năm nay",
+        "Năm ~",
+        "Tháng mấy",
+        "Về (nhà/quê)"
+      ],
+      "correctIndex": 2,
+      "explanation": "何月【なんがつ】= Tháng mấy"
+    },
+    {
+      "id": 35,
+      "promptHtml": "<ruby>何日<rt>なんにち</rt></ruby>",
+      "prompt": "なんにち",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Anh ấy, người yêu (nam)",
+        "Gia đình",
+        "Ngày mấy",
+        "Xe đạp"
+      ],
+      "correctIndex": 2,
+      "explanation": "何日【なんにち】= Ngày mấy"
+    },
+    {
+      "id": 36,
+      "promptHtml": "いつ",
+      "prompt": "いつ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tháng sau",
+        "Tháng này",
+        "Tàu điện",
+        "Khi nào"
+      ],
+      "correctIndex": 3,
+      "explanation": "いつ【いつ】= Khi nào"
+    },
+    {
+      "id": 37,
+      "promptHtml": "<ruby>誕生日<rt>たんじょうび</rt></ruby>",
+      "prompt": "たんじょうび",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Cô ấy, người yêu (nữ)",
+        "Tàu điện ngầm",
+        "Sinh nhật",
+        "Máy bay"
+      ],
+      "correctIndex": 2,
+      "explanation": "誕生日【たんじょうび】= Sinh nhật"
+    },
+    {
+      "id": 38,
+      "promptHtml": "<ruby>行きます<rt>いきます</rt></ruby>",
+      "prompt": "いきます",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Đi",
+        "Đến",
+        "Người",
+        "Bạn bè"
+      ],
+      "correctIndex": 0,
+      "explanation": "行きます【いきます】= Đi"
+    },
+    {
+      "id": 39,
+      "promptHtml": "<ruby>来ます<rt>きます</rt></ruby>",
+      "prompt": "きます",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Đến",
+        "Tuần này",
+        "Ngày ~",
+        "Tháng mấy"
+      ],
+      "correctIndex": 0,
+      "explanation": "来ます【きます】= Đến"
+    },
+    {
+      "id": 40,
+      "promptHtml": "<ruby>帰ります<rt>かえります</rt></ruby>",
+      "prompt": "かえります",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Năm ngoái",
+        "Tháng sau",
+        "Tàu Shinkansen",
+        "Về (nhà/quê)"
+      ],
+      "correctIndex": 3,
+      "explanation": "帰ります【かえります】= Về (nhà/quê)"
+    },
+    {
+      "id": 41,
+      "promptHtml": "<ruby>学校<rt>がっこう</rt></ruby>",
+      "prompt": "がっこう",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tàu Shinkansen",
+        "Trường học",
+        "Tàu điện",
+        "Tuần sau"
+      ],
+      "correctIndex": 1,
+      "explanation": "学校【がっこう】= Trường học"
+    },
+    {
+      "id": 42,
+      "promptHtml": "スーパー",
+      "prompt": "スーパー",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Siêu thị",
+        "Xe buýt",
+        "Taxi",
+        "Tháng sau"
+      ],
+      "correctIndex": 0,
+      "explanation": "スーパー【スーパー】= Siêu thị"
+    },
+    {
+      "id": 43,
+      "promptHtml": "<ruby>駅<rt>えき</rt></ruby>",
+      "prompt": "えき",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tàu điện",
+        "Nhà ga",
+        "Anh ấy, người yêu (nam)",
+        "Một mình"
+      ],
+      "correctIndex": 1,
+      "explanation": "駅【えき】= Nhà ga"
+    },
+    {
+      "id": 44,
+      "promptHtml": "<ruby>飛行機<rt>ひこうき</rt></ruby>",
+      "prompt": "ひこうき",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Máy bay",
+        "Tháng sau",
+        "Xe buýt",
+        "Ngày mấy"
+      ],
+      "correctIndex": 0,
+      "explanation": "飛行機【ひこうき】= Máy bay"
+    },
+    {
+      "id": 45,
+      "promptHtml": "<ruby>船<rt>ふね</rt></ruby>",
+      "prompt": "ふね",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tàu thủy",
+        "Tuần trước",
+        "Về (nhà/quê)",
+        "Nhà ga"
+      ],
+      "correctIndex": 0,
+      "explanation": "船【ふね】= Tàu thủy"
+    },
+    {
+      "id": 46,
+      "promptHtml": "<ruby>電車<rt>でんしゃ</rt></ruby>",
+      "prompt": "でんしゃ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tàu điện",
+        "Siêu thị",
+        "Khi nào",
+        "Gia đình"
+      ],
+      "correctIndex": 0,
+      "explanation": "電車【でんしゃ】= Tàu điện"
+    },
+    {
+      "id": 47,
+      "promptHtml": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>",
+      "prompt": "ちかてつ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Về (nhà/quê)",
+        "Người",
+        "Tàu điện ngầm",
+        "Máy bay"
+      ],
+      "correctIndex": 2,
+      "explanation": "地下鉄【ちかてつ】= Tàu điện ngầm"
+    },
+    {
+      "id": 48,
+      "promptHtml": "<ruby>新幹線<rt>しんかんせん</rt></ruby>",
+      "prompt": "しんかんせん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tàu Shinkansen",
+        "Tháng trước",
+        "Năm sau",
+        "Khi nào"
+      ],
+      "correctIndex": 0,
+      "explanation": "新幹線【しんかんせん】= Tàu Shinkansen"
+    },
+    {
+      "id": 49,
+      "promptHtml": "バス",
+      "prompt": "バス",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Nhà ga",
+        "Tháng này",
+        "Xe buýt",
+        "Gia đình"
+      ],
+      "correctIndex": 2,
+      "explanation": "バス【バス】= Xe buýt"
+    },
+    {
+      "id": 50,
+      "promptHtml": "タクシー",
+      "prompt": "タクシー",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Đến",
+        "Đi",
+        "Taxi",
+        "Đi bộ"
+      ],
+      "correctIndex": 2,
+      "explanation": "タクシー【タクシー】= Taxi"
+    }
+  ]
+}

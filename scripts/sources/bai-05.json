@@ -1,0 +1,83 @@
+{
+  "lesson": 5,
+  "title": "～へ いきます",
+  "titleVi": "Đi đến...",
+  "source": "Minna no Nihongo Sơ cấp I — Lesson 5",
+  "vocab": [
+    { "kanji": "行きます", "kana": "いきます", "vi": "Đi", "en": "go", "pos": "động từ" },
+    { "kanji": "来ます", "kana": "きます", "vi": "Đến", "en": "come", "pos": "động từ" },
+    { "kanji": "帰ります", "kana": "かえります", "vi": "Về (nhà/quê)", "en": "return", "pos": "động từ" },
+    { "kanji": "学校", "kana": "がっこう", "vi": "Trường học", "en": "school", "pos": "danh từ" },
+    { "kanji": "スーパー", "kana": "スーパー", "vi": "Siêu thị", "en": "supermarket", "pos": "danh từ" },
+    { "kanji": "駅", "kana": "えき", "vi": "Nhà ga", "en": "station", "pos": "danh từ" },
+    { "kanji": "飛行機", "kana": "ひこうき", "vi": "Máy bay", "en": "airplane", "pos": "danh từ" },
+    { "kanji": "船", "kana": "ふね", "vi": "Tàu thủy", "en": "ship", "pos": "danh từ" },
+    { "kanji": "電車", "kana": "でんしゃ", "vi": "Tàu điện", "en": "electric train", "pos": "danh từ" },
+    { "kanji": "地下鉄", "kana": "ちかてつ", "vi": "Tàu điện ngầm", "en": "subway", "pos": "danh từ" },
+    { "kanji": "新幹線", "kana": "しんかんせん", "vi": "Tàu Shinkansen", "en": "bullet train", "pos": "danh từ" },
+    { "kanji": "バス", "kana": "バス", "vi": "Xe buýt", "en": "bus", "pos": "danh từ" },
+    { "kanji": "タクシー", "kana": "タクシー", "vi": "Taxi", "en": "taxi", "pos": "danh từ" },
+    { "kanji": "自転車", "kana": "じてんしゃ", "vi": "Xe đạp", "en": "bicycle", "pos": "danh từ" },
+    { "kanji": "歩いて", "kana": "あるいて", "vi": "Đi bộ", "en": "on foot", "pos": "phó từ" },
+    { "kanji": "人", "kana": "ひと", "vi": "Người", "en": "person", "pos": "danh từ" },
+    { "kanji": "友達", "kana": "ともだち", "vi": "Bạn bè", "en": "friend", "pos": "danh từ" },
+    { "kanji": "彼", "kana": "かれ", "vi": "Anh ấy, người yêu (nam)", "en": "he/boyfriend", "pos": "đại từ" },
+    { "kanji": "彼女", "kana": "かのじょ", "vi": "Cô ấy, người yêu (nữ)", "en": "she/girlfriend", "pos": "đại từ" },
+    { "kanji": "家族", "kana": "かぞく", "vi": "Gia đình", "en": "family", "pos": "danh từ" },
+    { "kanji": "一人で", "kana": "ひとりで", "vi": "Một mình", "en": "alone", "pos": "phó từ" },
+    { "kanji": "先週", "kana": "せんしゅう", "vi": "Tuần trước", "en": "last week", "pos": "danh từ" },
+    { "kanji": "今週", "kana": "こんしゅう", "vi": "Tuần này", "en": "this week", "pos": "danh từ" },
+    { "kanji": "来週", "kana": "らいしゅう", "vi": "Tuần sau", "en": "next week", "pos": "danh từ" },
+    { "kanji": "先月", "kana": "せんげつ", "vi": "Tháng trước", "en": "last month", "pos": "danh từ" },
+    { "kanji": "今月", "kana": "こんげつ", "vi": "Tháng này", "en": "this month", "pos": "danh từ" },
+    { "kanji": "来月", "kana": "らいげつ", "vi": "Tháng sau", "en": "next month", "pos": "danh từ" },
+    { "kanji": "去年", "kana": "きょねん", "vi": "Năm ngoái", "en": "last year", "pos": "danh từ" },
+    { "kanji": "今年", "kana": "ことし", "vi": "Năm nay", "en": "this year", "pos": "danh từ" },
+    { "kanji": "来年", "kana": "らいねん", "vi": "Năm sau", "en": "next year", "pos": "danh từ" },
+    { "kanji": "～年", "kana": "～ねん", "vi": "Năm ~", "en": "year ~", "pos": "hậu tố" },
+    { "kanji": "～月", "kana": "～がつ", "vi": "Tháng ~", "en": "month ~", "pos": "hậu tố" },
+    { "kanji": "～日", "kana": "～にち", "vi": "Ngày ~", "en": "day ~", "pos": "hậu tố" },
+    { "kanji": "何月", "kana": "なんがつ", "vi": "Tháng mấy", "en": "what month", "pos": "đại từ" },
+    { "kanji": "何日", "kana": "なんにち", "vi": "Ngày mấy", "en": "what day", "pos": "đại từ" },
+    { "kanji": "いつ", "kana": "いつ", "vi": "Khi nào", "en": "when", "pos": "đại từ" },
+    { "kanji": "誕生日", "kana": "たんじょうび", "vi": "Sinh nhật", "en": "birthday", "pos": "danh từ" }
+  ],
+  "grammar": [
+    {
+      "title": "N (nơi chốn) へ いきます",
+      "structure": "N へ いきます／きます／かえります",
+      "viExplain": "Đi/đến/về N (へ là trợ từ chỉ phương hướng)",
+      "examples": [
+        { "jp": "学校へ行きます", "kana": "がっこうへいきます", "vi": "Đi đến trường" },
+        { "jp": "日本へ来ました", "kana": "にほんへきました", "vi": "Đã đến Nhật" }
+      ]
+    },
+    {
+      "title": "N (phương tiện) で いきます",
+      "structure": "N で 行きます／来ます",
+      "viExplain": "Đi bằng N (で chỉ phương tiện)",
+      "examples": [
+        { "jp": "電車で行きます", "kana": "でんしゃでいきます", "vi": "Đi bằng tàu điện" },
+        { "jp": "歩いて学校へ行きます", "kana": "あるいてがっこうへいきます", "vi": "Đi bộ đến trường (歩いて không cần で)" }
+      ]
+    },
+    {
+      "title": "N (người) と いきます",
+      "structure": "N と + V",
+      "viExplain": "Cùng với N làm gì (と chỉ người đi cùng)",
+      "examples": [
+        { "jp": "友達と日本へ行きます", "kana": "ともだちとにほんへいきます", "vi": "Đi Nhật cùng bạn" },
+        { "jp": "一人で行きます", "kana": "ひとりでいきます", "vi": "Đi một mình" }
+      ]
+    },
+    {
+      "title": "いつ ＋ Động từ",
+      "structure": "いつ + V ですか",
+      "viExplain": "Khi nào làm ~? (hỏi thời điểm cụ thể)",
+      "examples": [
+        { "jp": "いつ日本へ来ましたか", "kana": "いつにほんへきましたか", "vi": "Khi nào đến Nhật?" },
+        { "jp": "3月15日に来ました", "kana": "さんがつじゅうごにちにきました", "vi": "Đến ngày 15 tháng 3" }
+      ]
+    }
+  ]
+}

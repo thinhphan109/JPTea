@@ -1,0 +1,97 @@
+{
+  "lesson": 1,
+  "title": "はじめまして",
+  "titleVi": "Giới thiệu bản thân",
+  "source": "Minna no Nihongo Sơ cấp I — Lesson 1",
+  "vocab": [
+    { "kanji": "私", "kana": "わたし", "vi": "Tôi", "en": "I", "pos": "đại từ" },
+    { "kanji": "私たち", "kana": "わたしたち", "vi": "Chúng tôi", "en": "we", "pos": "đại từ" },
+    { "kanji": "あなた", "kana": "あなた", "vi": "Bạn", "en": "you", "pos": "đại từ" },
+    { "kanji": "あの人", "kana": "あのひと", "vi": "Người kia", "en": "that person", "pos": "đại từ" },
+    { "kanji": "あの方", "kana": "あのかた", "vi": "Vị kia (lịch sự)", "en": "that person (polite)", "pos": "đại từ" },
+    { "kanji": "皆さん", "kana": "みなさん", "vi": "Mọi người, các bạn", "en": "everyone", "pos": "danh từ" },
+    { "kanji": "～さん", "kana": "～さん", "vi": "Anh, chị (kính ngữ sau tên)", "en": "Mr./Ms.", "pos": "hậu tố" },
+    { "kanji": "～ちゃん", "kana": "～ちゃん", "vi": "Bé (cho trẻ em)", "en": "suffix for children", "pos": "hậu tố" },
+    { "kanji": "～君", "kana": "～くん", "vi": "Cậu (cho bé trai/bạn nam)", "en": "suffix for boys", "pos": "hậu tố" },
+    { "kanji": "～人", "kana": "～じん", "vi": "Người nước...", "en": "person of (nationality)", "pos": "hậu tố" },
+    { "kanji": "先生", "kana": "せんせい", "vi": "Thầy/Cô giáo", "en": "teacher", "pos": "danh từ" },
+    { "kanji": "教師", "kana": "きょうし", "vi": "Giáo viên (nghề)", "en": "teacher (profession)", "pos": "danh từ" },
+    { "kanji": "学生", "kana": "がくせい", "vi": "Học sinh, sinh viên", "en": "student", "pos": "danh từ" },
+    { "kanji": "会社員", "kana": "かいしゃいん", "vi": "Nhân viên công ty", "en": "company employee", "pos": "danh từ" },
+    { "kanji": "社員", "kana": "しゃいん", "vi": "Nhân viên của công ty ~", "en": "employee of ~ company", "pos": "danh từ" },
+    { "kanji": "銀行員", "kana": "ぎんこういん", "vi": "Nhân viên ngân hàng", "en": "bank employee", "pos": "danh từ" },
+    { "kanji": "医者", "kana": "いしゃ", "vi": "Bác sĩ", "en": "doctor", "pos": "danh từ" },
+    { "kanji": "研究者", "kana": "けんきゅうしゃ", "vi": "Nhà nghiên cứu", "en": "researcher", "pos": "danh từ" },
+    { "kanji": "エンジニア", "kana": "エンジニア", "vi": "Kỹ sư", "en": "engineer", "pos": "danh từ" },
+    { "kanji": "大学", "kana": "だいがく", "vi": "Đại học", "en": "university", "pos": "danh từ" },
+    { "kanji": "病院", "kana": "びょういん", "vi": "Bệnh viện", "en": "hospital", "pos": "danh từ" },
+    { "kanji": "電気", "kana": "でんき", "vi": "Điện, đèn", "en": "electricity, light", "pos": "danh từ" },
+    { "kanji": "誰", "kana": "だれ", "vi": "Ai", "en": "who", "pos": "đại từ" },
+    { "kanji": "どなた", "kana": "どなた", "vi": "Vị nào (lịch sự)", "en": "who (polite)", "pos": "đại từ" },
+    { "kanji": "～歳", "kana": "～さい", "vi": "~ tuổi", "en": "~ years old", "pos": "hậu tố" },
+    { "kanji": "何歳", "kana": "なんさい", "vi": "Bao nhiêu tuổi", "en": "how old", "pos": "đại từ" },
+    { "kanji": "おいくつ", "kana": "おいくつ", "vi": "Bao nhiêu tuổi (lịch sự)", "en": "how old (polite)", "pos": "đại từ" },
+    { "kanji": "はい", "kana": "はい", "vi": "Vâng, có", "en": "yes", "pos": "thán từ" },
+    { "kanji": "いいえ", "kana": "いいえ", "vi": "Không", "en": "no", "pos": "thán từ" },
+    { "kanji": "初めまして", "kana": "はじめまして", "vi": "Rất hân hạnh được gặp", "en": "Nice to meet you", "pos": "thán từ" },
+    { "kanji": "どうぞよろしくお願いします", "kana": "どうぞよろしくおねがいします", "vi": "Rất mong được giúp đỡ", "en": "Pleased to meet you", "pos": "thán từ" },
+    { "kanji": "失礼ですが", "kana": "しつれいですが", "vi": "Xin lỗi (làm phiền)...", "en": "Excuse me, but...", "pos": "thán từ" },
+    { "kanji": "お名前は", "kana": "おなまえは", "vi": "Tên của bạn là gì?", "en": "What is your name?", "pos": "câu hỏi" },
+    { "kanji": "～から来ました", "kana": "～からきました", "vi": "Đến từ nước ~", "en": "I came from ~", "pos": "câu" },
+    { "kanji": "アメリカ", "kana": "アメリカ", "vi": "Mỹ", "en": "America", "pos": "danh từ" },
+    { "kanji": "イギリス", "kana": "イギリス", "vi": "Anh", "en": "UK", "pos": "danh từ" },
+    { "kanji": "インド", "kana": "インド", "vi": "Ấn Độ", "en": "India", "pos": "danh từ" },
+    { "kanji": "インドネシア", "kana": "インドネシア", "vi": "Indonesia", "en": "Indonesia", "pos": "danh từ" },
+    { "kanji": "韓国", "kana": "かんこく", "vi": "Hàn Quốc", "en": "Korea", "pos": "danh từ" },
+    { "kanji": "タイ", "kana": "タイ", "vi": "Thái Lan", "en": "Thailand", "pos": "danh từ" },
+    { "kanji": "中国", "kana": "ちゅうごく", "vi": "Trung Quốc", "en": "China", "pos": "danh từ" },
+    { "kanji": "ドイツ", "kana": "ドイツ", "vi": "Đức", "en": "Germany", "pos": "danh từ" },
+    { "kanji": "日本", "kana": "にほん", "vi": "Nhật Bản", "en": "Japan", "pos": "danh từ" },
+    { "kanji": "ブラジル", "kana": "ブラジル", "vi": "Brazil", "en": "Brazil", "pos": "danh từ" },
+    { "kanji": "ベトナム", "kana": "ベトナム", "vi": "Việt Nam", "en": "Vietnam", "pos": "danh từ" }
+  ],
+  "grammar": [
+    {
+      "title": "N1 は N2 です",
+      "structure": "N1 は N2 です",
+      "viExplain": "N1 là N2 (câu khẳng định lịch sự)",
+      "examples": [
+        { "jp": "私は学生です", "kana": "わたしはがくせいです", "vi": "Tôi là sinh viên" },
+        { "jp": "山田さんは先生です", "kana": "やまださんはせんせいです", "vi": "Anh Yamada là giáo viên" }
+      ]
+    },
+    {
+      "title": "N1 は N2 じゃ ありません",
+      "structure": "N1 は N2 じゃ/では ありません",
+      "viExplain": "N1 không phải là N2 (phủ định)",
+      "examples": [
+        { "jp": "私は医者じゃありません", "kana": "わたしはいしゃじゃありません", "vi": "Tôi không phải là bác sĩ" }
+      ]
+    },
+    {
+      "title": "N1 は N2 ですか",
+      "structure": "N1 は N2 ですか",
+      "viExplain": "N1 có phải là N2 không? (câu hỏi)",
+      "examples": [
+        { "jp": "あなたは学生ですか", "kana": "あなたはがくせいですか", "vi": "Bạn có phải là sinh viên không?" }
+      ]
+    },
+    {
+      "title": "N も",
+      "structure": "N も + động từ/tính từ",
+      "viExplain": "N cũng... (chỉ sự tương đồng)",
+      "examples": [
+        { "jp": "私も学生です", "kana": "わたしもがくせいです", "vi": "Tôi cũng là sinh viên" }
+      ]
+    },
+    {
+      "title": "N1 の N2",
+      "structure": "N1 の N2",
+      "viExplain": "N1 sở hữu/thuộc về N2 (の chỉ sở hữu)",
+      "examples": [
+        { "jp": "私の名前", "kana": "わたしのなまえ", "vi": "Tên của tôi" },
+        { "jp": "IMC の社員", "kana": "IMCのしゃいん", "vi": "Nhân viên của IMC" }
+      ]
+    }
+  ]
+}

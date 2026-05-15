@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+dist/
+
+# Environment (NEVER commit .env — contains secrets)
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Book PDFs (large files, copyrighted source material)
+book/
+
+# Scratch / extracted text
+scripts/sources/_raw-text.txt
+scripts/sources/*-extracted.json
+/tmp/
+
+# Vercel
+.vercel/

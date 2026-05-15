@@ -1,0 +1,15 @@
+/* ===== JPTea — Main CSS Entry =====
+   Imports all style modules in dependency order */
+
+@import './tokens.css';
+@import './base.css';
+@import './background.css';
+@import './sakura.css';
+@import './animations.css';
+@import './buttons.css';
+@import './header.css';
+@import './cards.css';
+@import './quiz.css';
+@import './forms.css';
+@import './ai.css';
+@import './mobile.css';

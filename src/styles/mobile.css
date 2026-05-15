@@ -1,0 +1,113 @@
+/* ===== Mobile Responsive Refinements ===== */
+
+/* Tablet (≤ 1024px) */
+@media (max-width: 1024px) {
+  .container { padding: 0 var(--space-5); }
+  .lesson-grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); }
+}
+
+/* Mobile (≤ 768px) */
+@media (max-width: 768px) {
+  /* Typography */
+  h1 { font-size: var(--text-3xl); }
+  h2 { font-size: var(--text-xl); }
+
+  /* Container */
+  .container { padding: 0 var(--space-4); }
+
+  /* Header */
+  .header { padding: var(--space-3) 0; }
+  .header__logo { font-size: var(--text-base); }
+  .btn-icon { width: 32px; height: 32px; font-size: var(--text-base); }
+  .btn--back { padding: var(--space-2) var(--space-3); font-size: var(--text-xs); }
+
+  /* Hero */
+  .hero { padding: var(--space-8) 0 var(--space-4); }
+  .hero__title { font-size: var(--text-2xl); margin-bottom: var(--space-2); }
+  .hero__subtitle { font-size: var(--text-sm); }
+
+  /* Lesson grid */
+  .lesson-grid {
+    grid-template-columns: repeat(auto-fill, minmax(135px, 1fr));
+    gap: var(--space-3);
+    padding: var(--space-4) 0 var(--space-12);
+  }
+  .lesson-card { padding: var(--space-4); border-radius: var(--radius-xl); }
+  .lesson-card__number { font-size: var(--text-2xl); }
+  .lesson-card__title { font-size: var(--text-xs); }
+
+  /* Lesson detail */
+  .lesson-header { padding: var(--space-6) 0 var(--space-2); }
+  .lesson-header__title { font-size: var(--text-2xl); }
+  .quiz-grid { grid-template-columns: 1fr; gap: var(--space-3); }
+  .quiz-card { padding: var(--space-5); }
+
+  /* Quiz player */
+  .quiz-player { padding: var(--space-4) var(--space-3); }
+  .quiz-question {
+    padding: var(--space-6) var(--space-4);
+    border-radius: var(--radius-2xl);
+  }
+  .quiz-question__prompt { font-size: var(--text-2xl); line-height: 1.6; }
+  .quiz-question__passage { padding: var(--space-4); font-size: var(--text-sm); line-height: 1.9; }
+  .quiz-question__sub-prompt { font-size: var(--text-sm); }
+  .quiz-question__tts { width: 38px; height: 38px; font-size: 1rem; margin-left: var(--space-2); }
+
+  /* Options */
+  .quiz-option {
+    padding: var(--space-3) var(--space-4);
+    gap: var(--space-3);
+    border-radius: var(--radius-lg);
+  }
+  .quiz-option__label { width: 30px; height: 30px; font-size: var(--text-xs); }
+  .quiz-option:hover:not(.quiz-option--disabled) { transform: none; }
+
+  /* Buttons */
+  .btn { padding: var(--space-3) var(--space-6); font-size: var(--text-sm); }
+
+  /* Resume banner */
+  .quiz-resume {
+    flex-direction: column;
+    gap: var(--space-3);
+    align-items: stretch;
+    padding: var(--space-4);
+  }
+  .quiz-resume__actions { justify-content: stretch; }
+  .quiz-resume__actions .btn { flex: 1; }
+
+  /* Result */
+  .result { padding: var(--space-10) var(--space-4); }
+  .result__emoji { font-size: var(--text-4xl); }
+  .result__score { font-size: var(--text-4xl); }
+  .result__label { font-size: var(--text-base); margin-bottom: var(--space-6); }
+  .result__actions { flex-direction: column; }
+  .result__actions .btn { width: 100%; }
+
+  /* Review */
+  .review-item { padding: var(--space-3) var(--space-4); }
+  .review-item__question { font-size: var(--text-sm); }
+}
+
+/* Small mobile (≤ 480px) */
+@media (max-width: 480px) {
+  .lesson-grid {
+    grid-template-columns: repeat(auto-fill, minmax(115px, 1fr));
+    gap: var(--space-2);
+  }
+  .lesson-card { padding: var(--space-3); }
+  .lesson-card__number { font-size: var(--text-xl); }
+
+  .quiz-question__prompt { font-size: var(--text-xl); }
+  .quiz-option { padding: var(--space-3); }
+  .quiz-option__text { font-size: var(--text-sm); }
+
+  .header__inner { gap: var(--space-2); }
+  .header__logo { font-size: var(--text-sm); }
+}
+
+/* Touch-friendly: disable hover transforms on touch devices */
+@media (hover: none) {
+  .lesson-card:hover, .quiz-card:hover { transform: none; }
+  .quiz-option:hover:not(.quiz-option--disabled) { transform: none; }
+  .btn--primary:hover { transform: none; }
+}

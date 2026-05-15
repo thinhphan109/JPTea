@@ -1,0 +1,786 @@
+{
+  "title": "Ôn tập Kanji — Bài 2: これ・それ・あれ",
+  "type": "kanji",
+  "questions": [
+    {
+      "id": 1,
+      "prompt": "本",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "つくえ",
+        "えいご",
+        "ほん",
+        "えんぴつ"
+      ],
+      "correctIndex": 2,
+      "explanation": "本 đọc là ほん = Sách"
+    },
+    {
+      "id": 2,
+      "prompt": "辞書",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Từ điển",
+        "Ô tô",
+        "Đồng hồ",
+        "Chìa khóa"
+      ],
+      "correctIndex": 0,
+      "explanation": "辞書【じしょ】= Từ điển"
+    },
+    {
+      "id": 3,
+      "prompt": "雑誌",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "じどうしゃ",
+        "かぎ",
+        "ざっし",
+        "てちょう"
+      ],
+      "correctIndex": 2,
+      "explanation": "雑誌 đọc là ざっし = Tạp chí"
+    },
+    {
+      "id": 4,
+      "prompt": "新聞",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Báo",
+        "Từ điển",
+        "Đồng hồ",
+        "Bàn học"
+      ],
+      "correctIndex": 0,
+      "explanation": "新聞【しんぶん】= Báo"
+    },
+    {
+      "id": 5,
+      "prompt": "手帳",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "めいし",
+        "てちょう",
+        "じしょ",
+        "えいご"
+      ],
+      "correctIndex": 1,
+      "explanation": "手帳 đọc là てちょう = Sổ tay nhỏ"
+    },
+    {
+      "id": 6,
+      "prompt": "名刺",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Danh thiếp",
+        "Bút chì",
+        "Báo",
+        "Cái gì"
+      ],
+      "correctIndex": 0,
+      "explanation": "名刺【めいし】= Danh thiếp"
+    },
+    {
+      "id": 7,
+      "prompt": "鉛筆",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "とけい",
+        "じしょ",
+        "～ご",
+        "えんぴつ"
+      ],
+      "correctIndex": 3,
+      "explanation": "鉛筆 đọc là えんぴつ = Bút chì"
+    },
+    {
+      "id": 8,
+      "prompt": "鍵",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Chìa khóa",
+        "Đồng hồ",
+        "Bàn học",
+        "Sổ tay nhỏ"
+      ],
+      "correctIndex": 0,
+      "explanation": "鍵【かぎ】= Chìa khóa"
+    },
+    {
+      "id": 9,
+      "prompt": "時計",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "しんぶん",
+        "とけい",
+        "かぎ",
+        "めいし"
+      ],
+      "correctIndex": 1,
+      "explanation": "時計 đọc là とけい = Đồng hồ"
+    },
+    {
+      "id": 10,
+      "prompt": "傘",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Bút chì",
+        "Tiếng Nhật",
+        "Ô, dù",
+        "Bàn học"
+      ],
+      "correctIndex": 2,
+      "explanation": "傘【かさ】= Ô, dù"
+    },
+    {
+      "id": 11,
+      "prompt": "自動車",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ほん",
+        "かさ",
+        "じしょ",
+        "じどうしゃ"
+      ],
+      "correctIndex": 3,
+      "explanation": "自動車 đọc là じどうしゃ = Ô tô"
+    },
+    {
+      "id": 12,
+      "prompt": "机",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Bàn học",
+        "Tiếng Nhật",
+        "Bút chì",
+        "Cái gì"
+      ],
+      "correctIndex": 0,
+      "explanation": "机【つくえ】= Bàn học"
+    },
+    {
+      "id": 13,
+      "prompt": "英語",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "かぎ",
+        "えいご",
+        "なん",
+        "ちがいます"
+      ],
+      "correctIndex": 1,
+      "explanation": "英語 đọc là えいご = Tiếng Anh"
+    },
+    {
+      "id": 14,
+      "prompt": "日本語",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Cái gì",
+        "Tiếng Anh",
+        "Chìa khóa",
+        "Tiếng Nhật"
+      ],
+      "correctIndex": 3,
+      "explanation": "日本語【にほんご】= Tiếng Nhật"
+    },
+    {
+      "id": 15,
+      "prompt": "～語",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "てちょう",
+        "かさ",
+        "なん",
+        "～ご"
+      ],
+      "correctIndex": 3,
+      "explanation": "～語 đọc là ～ご = Tiếng ~"
+    },
+    {
+      "id": 16,
+      "prompt": "何",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Cái gì",
+        "Ô tô",
+        "Tạp chí",
+        "Không phải, sai rồi"
+      ],
+      "correctIndex": 0,
+      "explanation": "何【なん】= Cái gì"
+    },
+    {
+      "id": 17,
+      "prompt": "違います",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "にほんご",
+        "とけい",
+        "つくえ",
+        "ちがいます"
+      ],
+      "correctIndex": 3,
+      "explanation": "違います đọc là ちがいます = Không phải, sai rồi"
+    },
+    {
+      "id": 18,
+      "prompt": "本",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Sách",
+        "Danh thiếp",
+        "Từ điển",
+        "Ô, dù"
+      ],
+      "correctIndex": 0,
+      "explanation": "本【ほん】= Sách"
+    },
+    {
+      "id": 19,
+      "prompt": "辞書",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "つくえ",
+        "てちょう",
+        "じしょ",
+        "めいし"
+      ],
+      "correctIndex": 2,
+      "explanation": "辞書 đọc là じしょ = Từ điển"
+    },
+    {
+      "id": 20,
+      "prompt": "雑誌",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tiếng ~",
+        "Từ điển",
+        "Tạp chí",
+        "Bút chì"
+      ],
+      "correctIndex": 2,
+      "explanation": "雑誌【ざっし】= Tạp chí"
+    },
+    {
+      "id": 21,
+      "prompt": "新聞",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "しんぶん",
+        "ちがいます",
+        "かぎ",
+        "かさ"
+      ],
+      "correctIndex": 0,
+      "explanation": "新聞 đọc là しんぶん = Báo"
+    },
+    {
+      "id": 22,
+      "prompt": "手帳",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tiếng ~",
+        "Danh thiếp",
+        "Sổ tay nhỏ",
+        "Đồng hồ"
+      ],
+      "correctIndex": 2,
+      "explanation": "手帳【てちょう】= Sổ tay nhỏ"
+    },
+    {
+      "id": 23,
+      "prompt": "名刺",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ざっし",
+        "えいご",
+        "めいし",
+        "じしょ"
+      ],
+      "correctIndex": 2,
+      "explanation": "名刺 đọc là めいし = Danh thiếp"
+    },
+    {
+      "id": 24,
+      "prompt": "鉛筆",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Ô, dù",
+        "Tiếng Anh",
+        "Tạp chí",
+        "Bút chì"
+      ],
+      "correctIndex": 3,
+      "explanation": "鉛筆【えんぴつ】= Bút chì"
+    },
+    {
+      "id": 25,
+      "prompt": "鍵",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ほん",
+        "かぎ",
+        "えいご",
+        "～ご"
+      ],
+      "correctIndex": 1,
+      "explanation": "鍵 đọc là かぎ = Chìa khóa"
+    },
+    {
+      "id": 26,
+      "prompt": "時計",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Ô, dù",
+        "Đồng hồ",
+        "Tạp chí",
+        "Ô tô"
+      ],
+      "correctIndex": 1,
+      "explanation": "時計【とけい】= Đồng hồ"
+    },
+    {
+      "id": 27,
+      "prompt": "傘",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ざっし",
+        "かさ",
+        "じしょ",
+        "ちがいます"
+      ],
+      "correctIndex": 1,
+      "explanation": "傘 đọc là かさ = Ô, dù"
+    },
+    {
+      "id": 28,
+      "prompt": "自動車",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Từ điển",
+        "Ô tô",
+        "Danh thiếp",
+        "Tiếng Nhật"
+      ],
+      "correctIndex": 1,
+      "explanation": "自動車【じどうしゃ】= Ô tô"
+    },
+    {
+      "id": 29,
+      "prompt": "机",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "じどうしゃ",
+        "えいご",
+        "とけい",
+        "つくえ"
+      ],
+      "correctIndex": 3,
+      "explanation": "机 đọc là つくえ = Bàn học"
+    },
+    {
+      "id": 30,
+      "prompt": "英語",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Chìa khóa",
+        "Bút chì",
+        "Tiếng Anh",
+        "Ô, dù"
+      ],
+      "correctIndex": 2,
+      "explanation": "英語【えいご】= Tiếng Anh"
+    },
+    {
+      "id": 31,
+      "prompt": "日本語",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "かぎ",
+        "にほんご",
+        "ざっし",
+        "めいし"
+      ],
+      "correctIndex": 1,
+      "explanation": "日本語 đọc là にほんご = Tiếng Nhật"
+    },
+    {
+      "id": 32,
+      "prompt": "～語",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tạp chí",
+        "Cái gì",
+        "Chìa khóa",
+        "Tiếng ~"
+      ],
+      "correctIndex": 3,
+      "explanation": "～語【～ご】= Tiếng ~"
+    },
+    {
+      "id": 33,
+      "prompt": "何",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "～ご",
+        "めいし",
+        "なん",
+        "とけい"
+      ],
+      "correctIndex": 2,
+      "explanation": "何 đọc là なん = Cái gì"
+    },
+    {
+      "id": 34,
+      "prompt": "違います",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tiếng Nhật",
+        "Cái gì",
+        "Tiếng ~",
+        "Không phải, sai rồi"
+      ],
+      "correctIndex": 3,
+      "explanation": "違います【ちがいます】= Không phải, sai rồi"
+    },
+    {
+      "id": 35,
+      "prompt": "本",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "てちょう",
+        "ほん",
+        "かさ",
+        "ざっし"
+      ],
+      "correctIndex": 1,
+      "explanation": "本 đọc là ほん = Sách"
+    },
+    {
+      "id": 36,
+      "prompt": "辞書",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tiếng Nhật",
+        "Ô tô",
+        "Tiếng ~",
+        "Từ điển"
+      ],
+      "correctIndex": 3,
+      "explanation": "辞書【じしょ】= Từ điển"
+    },
+    {
+      "id": 37,
+      "prompt": "雑誌",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ざっし",
+        "かぎ",
+        "えんぴつ",
+        "ほん"
+      ],
+      "correctIndex": 0,
+      "explanation": "雑誌 đọc là ざっし = Tạp chí"
+    },
+    {
+      "id": 38,
+      "prompt": "新聞",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Không phải, sai rồi",
+        "Chìa khóa",
+        "Sổ tay nhỏ",
+        "Báo"
+      ],
+      "correctIndex": 3,
+      "explanation": "新聞【しんぶん】= Báo"
+    },
+    {
+      "id": 39,
+      "prompt": "手帳",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "にほんご",
+        "じどうしゃ",
+        "ちがいます",
+        "てちょう"
+      ],
+      "correctIndex": 3,
+      "explanation": "手帳 đọc là てちょう = Sổ tay nhỏ"
+    },
+    {
+      "id": 40,
+      "prompt": "名刺",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Cái gì",
+        "Danh thiếp",
+        "Bàn học",
+        "Tiếng Anh"
+      ],
+      "correctIndex": 1,
+      "explanation": "名刺【めいし】= Danh thiếp"
+    },
+    {
+      "id": 41,
+      "prompt": "鉛筆",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "とけい",
+        "じしょ",
+        "えんぴつ",
+        "ちがいます"
+      ],
+      "correctIndex": 2,
+      "explanation": "鉛筆 đọc là えんぴつ = Bút chì"
+    },
+    {
+      "id": 42,
+      "prompt": "鍵",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Bút chì",
+        "Chìa khóa",
+        "Báo",
+        "Danh thiếp"
+      ],
+      "correctIndex": 1,
+      "explanation": "鍵【かぎ】= Chìa khóa"
+    },
+    {
+      "id": 43,
+      "prompt": "時計",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "えいご",
+        "とけい",
+        "かぎ",
+        "めいし"
+      ],
+      "correctIndex": 1,
+      "explanation": "時計 đọc là とけい = Đồng hồ"
+    },
+    {
+      "id": 44,
+      "prompt": "傘",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Bút chì",
+        "Ô, dù",
+        "Sách",
+        "Sổ tay nhỏ"
+      ],
+      "correctIndex": 1,
+      "explanation": "傘【かさ】= Ô, dù"
+    },
+    {
+      "id": 45,
+      "prompt": "自動車",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "じどうしゃ",
+        "にほんご",
+        "しんぶん",
+        "とけい"
+      ],
+      "correctIndex": 0,
+      "explanation": "自動車 đọc là じどうしゃ = Ô tô"
+    },
+    {
+      "id": 46,
+      "prompt": "机",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Ô tô",
+        "Bàn học",
+        "Sổ tay nhỏ",
+        "Đồng hồ"
+      ],
+      "correctIndex": 1,
+      "explanation": "机【つくえ】= Bàn học"
+    },
+    {
+      "id": 47,
+      "prompt": "英語",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ちがいます",
+        "にほんご",
+        "ほん",
+        "えいご"
+      ],
+      "correctIndex": 3,
+      "explanation": "英語 đọc là えいご = Tiếng Anh"
+    },
+    {
+      "id": 48,
+      "prompt": "日本語",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Bút chì",
+        "Tiếng ~",
+        "Chìa khóa",
+        "Tiếng Nhật"
+      ],
+      "correctIndex": 3,
+      "explanation": "日本語【にほんご】= Tiếng Nhật"
+    },
+    {
+      "id": 49,
+      "prompt": "～語",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "めいし",
+        "かぎ",
+        "えいご",
+        "～ご"
+      ],
+      "correctIndex": 3,
+      "explanation": "～語 đọc là ～ご = Tiếng ~"
+    },
+    {
+      "id": 50,
+      "prompt": "何",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Tiếng Anh",
+        "Cái gì",
+        "Đồng hồ",
+        "Danh thiếp"
+      ],
+      "correctIndex": 1,
+      "explanation": "何【なん】= Cái gì"
+    },
+    {
+      "id": 51,
+      "prompt": "違います",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "しんぶん",
+        "とけい",
+        "ちがいます",
+        "えいご"
+      ],
+      "correctIndex": 2,
+      "explanation": "違います đọc là ちがいます = Không phải, sai rồi"
+    },
+    {
+      "id": 52,
+      "prompt": "本",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Sách",
+        "Ô, dù",
+        "Sổ tay nhỏ",
+        "Tiếng Anh"
+      ],
+      "correctIndex": 0,
+      "explanation": "本【ほん】= Sách"
+    },
+    {
+      "id": 53,
+      "prompt": "辞書",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ざっし",
+        "かさ",
+        "じしょ",
+        "えいご"
+      ],
+      "correctIndex": 2,
+      "explanation": "辞書 đọc là じしょ = Từ điển"
+    },
+    {
+      "id": 54,
+      "prompt": "雑誌",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Sách",
+        "Tạp chí",
+        "Tiếng Anh",
+        "Bàn học"
+      ],
+      "correctIndex": 1,
+      "explanation": "雑誌【ざっし】= Tạp chí"
+    },
+    {
+      "id": 55,
+      "prompt": "新聞",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "かさ",
+        "とけい",
+        "えいご",
+        "しんぶん"
+      ],
+      "correctIndex": 3,
+      "explanation": "新聞 đọc là しんぶん = Báo"
+    },
+    {
+      "id": 56,
+      "prompt": "手帳",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Sổ tay nhỏ",
+        "Tiếng Nhật",
+        "Ô, dù",
+        "Danh thiếp"
+      ],
+      "correctIndex": 0,
+      "explanation": "手帳【てちょう】= Sổ tay nhỏ"
+    },
+    {
+      "id": 57,
+      "prompt": "名刺",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "えんぴつ",
+        "かさ",
+        "かぎ",
+        "めいし"
+      ],
+      "correctIndex": 3,
+      "explanation": "名刺 đọc là めいし = Danh thiếp"
+    },
+    {
+      "id": 58,
+      "prompt": "鉛筆",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Bút chì",
+        "Không phải, sai rồi",
+        "Ô, dù",
+        "Cái gì"
+      ],
+      "correctIndex": 0,
+      "explanation": "鉛筆【えんぴつ】= Bút chì"
+    },
+    {
+      "id": 59,
+      "prompt": "鍵",
+      "subPrompt": "Cách đọc (hiragana)?",
+      "options": [
+        "ほん",
+        "えいご",
+        "かぎ",
+        "にほんご"
+      ],
+      "correctIndex": 2,
+      "explanation": "鍵 đọc là かぎ = Chìa khóa"
+    },
+    {
+      "id": 60,
+      "prompt": "時計",
+      "subPrompt": "Nghĩa tiếng Việt?",
+      "options": [
+        "Sách",
+        "Không phải, sai rồi",
+        "Đồng hồ",
+        "Tiếng ~"
+      ],
+      "correctIndex": 2,
+      "explanation": "時計【とけい】= Đồng hồ"
+    }
+  ]
+}

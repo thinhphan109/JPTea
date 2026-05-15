@@ -1,0 +1,73 @@
+/* ===== Background — Premium Japanese aesthetic ===== */
+
+/* Light theme: warm sakura sky with gradient mesh */
+:root body,
+[data-theme="light"] body {
+  background:
+    radial-gradient(ellipse 800px 600px at 100% 0%, rgba(244, 184, 200, 0.22) 0%, transparent 55%),
+    radial-gradient(ellipse 700px 500px at 0% 100%, rgba(167, 200, 167, 0.16) 0%, transparent 55%),
+    radial-gradient(ellipse 600px 400px at 80% 100%, rgba(245, 222, 179, 0.18) 0%, transparent 55%),
+    radial-gradient(ellipse 1200px 800px at 50% 30%, rgba(255, 245, 240, 0.6) 0%, transparent 70%),
+    var(--color-bg-primary);
+  background-attachment: fixed;
+}
+
+/* Dark theme: night with aurora */
+[data-theme="dark"] body {
+  background:
+    radial-gradient(ellipse 900px 700px at 80% 10%, rgba(244, 114, 168, 0.10) 0%, transparent 55%),
+    radial-gradient(ellipse 800px 600px at 10% 90%, rgba(109, 213, 168, 0.07) 0%, transparent 55%),
+    radial-gradient(ellipse 700px 500px at 50% 50%, rgba(192, 132, 252, 0.06) 0%, transparent 60%),
+    radial-gradient(ellipse 1000px 800px at 100% 100%, rgba(251, 191, 36, 0.04) 0%, transparent 60%),
+    var(--color-bg-primary);
+  background-attachment: fixed;
+}
+
+/* Mt. Fuji silhouette at bottom */
+body::after {
+  content: '';
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 180px;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1440' height='180' viewBox='0 0 1440 180' preserveAspectRatio='none'><path d='M 0 180 L 0 140 L 100 130 L 250 100 L 380 70 L 480 35 L 540 15 L 570 5 L 600 0 L 640 5 L 680 25 L 760 60 L 840 90 L 920 110 L 1000 95 L 1080 70 L 1160 50 L 1240 65 L 1320 90 L 1400 110 L 1440 125 L 1440 180 Z' fill='%23000' opacity='0.06'/></svg>");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.5;
+}
+
+[data-theme="dark"] body::after {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1440' height='180' viewBox='0 0 1440 180' preserveAspectRatio='none'><path d='M 0 180 L 0 140 L 100 130 L 250 100 L 380 70 L 480 35 L 540 15 L 570 5 L 600 0 L 640 5 L 680 25 L 760 60 L 840 90 L 920 110 L 1000 95 L 1080 70 L 1160 50 L 1240 65 L 1320 90 L 1400 110 L 1440 125 L 1440 180 Z' fill='%23ffffff' opacity='0.04'/></svg>");
+  opacity: 0.6;
+}
+
+/* Subtle washi paper texture */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200' viewBox='0 0 200 200'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' seed='5'/><feColorMatrix values='0 0 0 0 0.6  0 0 0 0 0.5  0 0 0 0 0.5  0 0 0 0.04 0'/></filter><rect width='200' height='200' filter='url(%23n)'/></svg>");
+  opacity: 0.04;
+  pointer-events: none;
+  z-index: 0;
+  mix-blend-mode: multiply;
+}
+
+[data-theme="dark"] body::before {
+  mix-blend-mode: screen;
+  opacity: 0.05;
+}
+
+#app {
+  position: relative;
+  z-index: 2;
+}
+
+/* Mobile: smaller fuji silhouette */
+@media (max-width: 768px) {
+  body::after { height: 100px; }
+}

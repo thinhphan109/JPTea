@@ -1,0 +1,706 @@
+{
+  "title": "Từ vựng cơ bản — Bài 3: ここ・そこ・あそこ",
+  "type": "vocab-basic",
+  "questions": [
+    {
+      "id": 1,
+      "promptHtml": "ここ",
+      "prompt": "ここ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "~ yên",
+        "Ở đây (gần người nói)",
+        "Nhà ăn, canteen",
+        "Nhà (của mình)"
+      ],
+      "correctIndex": 1,
+      "explanation": "ここ【ここ】= Ở đây (gần người nói)"
+    },
+    {
+      "id": 2,
+      "promptHtml": "そこ",
+      "prompt": "そこ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Cà vạt",
+        "Ở đó (gần người nghe)",
+        "Sảnh",
+        "Trăm"
+      ],
+      "correctIndex": 1,
+      "explanation": "そこ【そこ】= Ở đó (gần người nghe)"
+    },
+    {
+      "id": 3,
+      "promptHtml": "あそこ",
+      "prompt": "あそこ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Ở kia (xa cả hai)",
+        "Quầy bán hàng",
+        "Nhà vệ sinh",
+        "Rượu vang"
+      ],
+      "correctIndex": 0,
+      "explanation": "あそこ【あそこ】= Ở kia (xa cả hai)"
+    },
+    {
+      "id": 4,
+      "promptHtml": "どこ",
+      "prompt": "どこ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Nghìn",
+        "Ở đâu",
+        "Công ty",
+        "Quầy bán hàng"
+      ],
+      "correctIndex": 1,
+      "explanation": "どこ【どこ】= Ở đâu"
+    },
+    {
+      "id": 5,
+      "promptHtml": "こちら",
+      "prompt": "こちら",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Phía kia (lịch sự)",
+        "Phía này (lịch sự)",
+        "Nhà (của mình)",
+        "Vạn (10.000)"
+      ],
+      "correctIndex": 1,
+      "explanation": "こちら【こちら】= Phía này (lịch sự)"
+    },
+    {
+      "id": 6,
+      "promptHtml": "そちら",
+      "prompt": "そちら",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Phía đó (lịch sự)",
+        "Nhà vệ sinh (lịch sự)",
+        "Sảnh",
+        "Trăm"
+      ],
+      "correctIndex": 0,
+      "explanation": "そちら【そちら】= Phía đó (lịch sự)"
+    },
+    {
+      "id": 7,
+      "promptHtml": "あちら",
+      "prompt": "あちら",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Nước, quốc gia",
+        "Phía kia (lịch sự)",
+        "Phòng họp",
+        "Sảnh"
+      ],
+      "correctIndex": 1,
+      "explanation": "あちら【あちら】= Phía kia (lịch sự)"
+    },
+    {
+      "id": 8,
+      "promptHtml": "どちら",
+      "prompt": "どちら",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Trăm",
+        "Phía nào (lịch sự)",
+        "Phòng học",
+        "Thang cuốn"
+      ],
+      "correctIndex": 1,
+      "explanation": "どちら【どちら】= Phía nào (lịch sự)"
+    },
+    {
+      "id": 9,
+      "promptHtml": "<ruby>教室<rt>きょうしつ</rt></ruby>",
+      "prompt": "きょうしつ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Quà lưu niệm",
+        "Phòng học",
+        "Phía đó (lịch sự)",
+        "Phòng"
+      ],
+      "correctIndex": 1,
+      "explanation": "教室【きょうしつ】= Phòng học"
+    },
+    {
+      "id": 10,
+      "promptHtml": "<ruby>食堂<rt>しょくどう</rt></ruby>",
+      "prompt": "しょくどう",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Quầy lễ tân",
+        "Phòng họp",
+        "Nhà ăn, canteen",
+        "Thang máy"
+      ],
+      "correctIndex": 2,
+      "explanation": "食堂【しょくどう】= Nhà ăn, canteen"
+    },
+    {
+      "id": 11,
+      "promptHtml": "<ruby>事務所<rt>じむしょ</rt></ruby>",
+      "prompt": "じむしょ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Văn phòng",
+        "Quà lưu niệm",
+        "Phía này (lịch sự)",
+        "Tầng mấy"
+      ],
+      "correctIndex": 0,
+      "explanation": "事務所【じむしょ】= Văn phòng"
+    },
+    {
+      "id": 12,
+      "promptHtml": "<ruby>会議室<rt>かいぎしつ</rt></ruby>",
+      "prompt": "かいぎしつ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Ở kia (xa cả hai)",
+        "Tầng hầm",
+        "Phòng họp",
+        "Ở đó (gần người nghe)"
+      ],
+      "correctIndex": 2,
+      "explanation": "会議室【かいぎしつ】= Phòng họp"
+    },
+    {
+      "id": 13,
+      "promptHtml": "<ruby>受付<rt>うけつけ</rt></ruby>",
+      "prompt": "うけつけ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Bao nhiêu tiền",
+        "Phòng họp",
+        "Quầy lễ tân",
+        "Giày"
+      ],
+      "correctIndex": 2,
+      "explanation": "受付【うけつけ】= Quầy lễ tân"
+    },
+    {
+      "id": 14,
+      "promptHtml": "ロビー",
+      "prompt": "ロビー",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Công ty",
+        "Sảnh",
+        "Trăm",
+        "Tầng ~"
+      ],
+      "correctIndex": 1,
+      "explanation": "ロビー【ロビー】= Sảnh"
+    },
+    {
+      "id": 15,
+      "promptHtml": "<ruby>部屋<rt>へや</rt></ruby>",
+      "prompt": "へや",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Sảnh",
+        "Phòng",
+        "Phía đó (lịch sự)",
+        "Rượu vang"
+      ],
+      "correctIndex": 1,
+      "explanation": "部屋【へや】= Phòng"
+    },
+    {
+      "id": 16,
+      "promptHtml": "トイレ",
+      "prompt": "トイレ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Nhà vệ sinh",
+        "Trăm",
+        "Phía kia (lịch sự)",
+        "Tầng hầm"
+      ],
+      "correctIndex": 0,
+      "explanation": "トイレ【トイレ】= Nhà vệ sinh"
+    },
+    {
+      "id": 17,
+      "promptHtml": "<ruby>お手洗い<rt>おてあらい</rt></ruby>",
+      "prompt": "おてあらい",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Phía kia (lịch sự)",
+        "Nhà vệ sinh (lịch sự)",
+        "Giày",
+        "Phòng"
+      ],
+      "correctIndex": 1,
+      "explanation": "お手洗い【おてあらい】= Nhà vệ sinh (lịch sự)"
+    },
+    {
+      "id": 18,
+      "promptHtml": "<ruby>階段<rt>かいだん</rt></ruby>",
+      "prompt": "かいだん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Cầu thang",
+        "Thang máy",
+        "Văn phòng",
+        "Nhà vệ sinh (lịch sự)"
+      ],
+      "correctIndex": 0,
+      "explanation": "階段【かいだん】= Cầu thang"
+    },
+    {
+      "id": 19,
+      "promptHtml": "エレベーター",
+      "prompt": "エレベーター",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Thang máy",
+        "Tầng hầm",
+        "Cà vạt",
+        "Ở đâu"
+      ],
+      "correctIndex": 0,
+      "explanation": "エレベーター【エレベーター】= Thang máy"
+    },
+    {
+      "id": 20,
+      "promptHtml": "エスカレーター",
+      "prompt": "エスカレーター",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Ở đâu",
+        "Quà lưu niệm",
+        "Phòng họp",
+        "Thang cuốn"
+      ],
+      "correctIndex": 3,
+      "explanation": "エスカレーター【エスカレーター】= Thang cuốn"
+    },
+    {
+      "id": 21,
+      "promptHtml": "<ruby>売り場<rt>うりば</rt></ruby>",
+      "prompt": "うりば",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Nhà (của mình)",
+        "Quầy bán hàng",
+        "Phía này (lịch sự)",
+        "Phía nào (lịch sự)"
+      ],
+      "correctIndex": 1,
+      "explanation": "売り場【うりば】= Quầy bán hàng"
+    },
+    {
+      "id": 22,
+      "promptHtml": "<ruby>地下<rt>ちか</rt></ruby>",
+      "prompt": "ちか",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Rượu vang",
+        "Thang máy",
+        "Ở đâu",
+        "Tầng hầm"
+      ],
+      "correctIndex": 3,
+      "explanation": "地下【ちか】= Tầng hầm"
+    },
+    {
+      "id": 23,
+      "promptHtml": "<ruby>～階<rt>～かい</rt></ruby>",
+      "prompt": "～かい",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Giày",
+        "Bao nhiêu tiền",
+        "Tầng ~",
+        "Thang cuốn"
+      ],
+      "correctIndex": 2,
+      "explanation": "～階【～かい】= Tầng ~"
+    },
+    {
+      "id": 24,
+      "promptHtml": "<ruby>何階<rt>なんがい</rt></ruby>",
+      "prompt": "なんがい",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Nghìn",
+        "Ở đây (gần người nói)",
+        "Nước, quốc gia",
+        "Tầng mấy"
+      ],
+      "correctIndex": 3,
+      "explanation": "何階【なんがい】= Tầng mấy"
+    },
+    {
+      "id": 25,
+      "promptHtml": "<ruby>～円<rt>～えん</rt></ruby>",
+      "prompt": "～えん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Nhà ăn, canteen",
+        "~ yên",
+        "Nước, quốc gia",
+        "Nhà vệ sinh"
+      ],
+      "correctIndex": 1,
+      "explanation": "～円【～えん】= ~ yên"
+    },
+    {
+      "id": 26,
+      "promptHtml": "いくら",
+      "prompt": "いくら",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Phía kia (lịch sự)",
+        "Cầu thang",
+        "Phía nào (lịch sự)",
+        "Bao nhiêu tiền"
+      ],
+      "correctIndex": 3,
+      "explanation": "いくら【いくら】= Bao nhiêu tiền"
+    },
+    {
+      "id": 27,
+      "promptHtml": "<ruby>百<rt>ひゃく</rt></ruby>",
+      "prompt": "ひゃく",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Quà lưu niệm",
+        "Trăm",
+        "Điện thoại",
+        "Thang cuốn"
+      ],
+      "correctIndex": 1,
+      "explanation": "百【ひゃく】= Trăm"
+    },
+    {
+      "id": 28,
+      "promptHtml": "<ruby>千<rt>せん</rt></ruby>",
+      "prompt": "せん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Phía nào (lịch sự)",
+        "Ở đó (gần người nghe)",
+        "Văn phòng",
+        "Nghìn"
+      ],
+      "correctIndex": 3,
+      "explanation": "千【せん】= Nghìn"
+    },
+    {
+      "id": 29,
+      "promptHtml": "<ruby>万<rt>まん</rt></ruby>",
+      "prompt": "まん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Phía nào (lịch sự)",
+        "Cầu thang",
+        "Vạn (10.000)",
+        "Nhà vệ sinh"
+      ],
+      "correctIndex": 2,
+      "explanation": "万【まん】= Vạn (10.000)"
+    },
+    {
+      "id": 30,
+      "promptHtml": "<ruby>国<rt>くに</rt></ruby>",
+      "prompt": "くに",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tầng ~",
+        "Phòng họp",
+        "Vạn (10.000)",
+        "Nước, quốc gia"
+      ],
+      "correctIndex": 3,
+      "explanation": "国【くに】= Nước, quốc gia"
+    },
+    {
+      "id": 31,
+      "promptHtml": "<ruby>会社<rt>かいしゃ</rt></ruby>",
+      "prompt": "かいしゃ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Trăm",
+        "Công ty",
+        "Ở kia (xa cả hai)",
+        "Sảnh"
+      ],
+      "correctIndex": 1,
+      "explanation": "会社【かいしゃ】= Công ty"
+    },
+    {
+      "id": 32,
+      "promptHtml": "うち",
+      "prompt": "うち",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Nhà (của mình)",
+        "Nước, quốc gia",
+        "Điện thoại",
+        "Tầng ~"
+      ],
+      "correctIndex": 0,
+      "explanation": "うち【うち】= Nhà (của mình)"
+    },
+    {
+      "id": 33,
+      "promptHtml": "<ruby>電話<rt>でんわ</rt></ruby>",
+      "prompt": "でんわ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Điện thoại",
+        "Quầy lễ tân",
+        "Rượu vang",
+        "Tầng hầm"
+      ],
+      "correctIndex": 0,
+      "explanation": "電話【でんわ】= Điện thoại"
+    },
+    {
+      "id": 34,
+      "promptHtml": "<ruby>靴<rt>くつ</rt></ruby>",
+      "prompt": "くつ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Giày",
+        "Tầng ~",
+        "Ở đây (gần người nói)",
+        "Nhà vệ sinh (lịch sự)"
+      ],
+      "correctIndex": 0,
+      "explanation": "靴【くつ】= Giày"
+    },
+    {
+      "id": 35,
+      "promptHtml": "ネクタイ",
+      "prompt": "ネクタイ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Cà vạt",
+        "Ở đâu",
+        "Phía kia (lịch sự)",
+        "Trăm"
+      ],
+      "correctIndex": 0,
+      "explanation": "ネクタイ【ネクタイ】= Cà vạt"
+    },
+    {
+      "id": 36,
+      "promptHtml": "ワイン",
+      "prompt": "ワイン",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tầng mấy",
+        "Rượu vang",
+        "Phòng họp",
+        "Ở đó (gần người nghe)"
+      ],
+      "correctIndex": 1,
+      "explanation": "ワイン【ワイン】= Rượu vang"
+    },
+    {
+      "id": 37,
+      "promptHtml": "<ruby>お土産<rt>おみやげ</rt></ruby>",
+      "prompt": "おみやげ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Nhà ăn, canteen",
+        "Cà vạt",
+        "Quà lưu niệm",
+        "Thang cuốn"
+      ],
+      "correctIndex": 2,
+      "explanation": "お土産【おみやげ】= Quà lưu niệm"
+    },
+    {
+      "id": 38,
+      "promptHtml": "ここ",
+      "prompt": "ここ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Quà lưu niệm",
+        "Văn phòng",
+        "Ở đây (gần người nói)",
+        "Phòng học"
+      ],
+      "correctIndex": 2,
+      "explanation": "ここ【ここ】= Ở đây (gần người nói)"
+    },
+    {
+      "id": 39,
+      "promptHtml": "そこ",
+      "prompt": "そこ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Trăm",
+        "Phía kia (lịch sự)",
+        "Ở đó (gần người nghe)",
+        "Nước, quốc gia"
+      ],
+      "correctIndex": 2,
+      "explanation": "そこ【そこ】= Ở đó (gần người nghe)"
+    },
+    {
+      "id": 40,
+      "promptHtml": "あそこ",
+      "prompt": "あそこ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Ở kia (xa cả hai)",
+        "Thang máy",
+        "Tầng hầm",
+        "Ở đây (gần người nói)"
+      ],
+      "correctIndex": 0,
+      "explanation": "あそこ【あそこ】= Ở kia (xa cả hai)"
+    },
+    {
+      "id": 41,
+      "promptHtml": "どこ",
+      "prompt": "どこ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Nhà vệ sinh",
+        "Ở đâu",
+        "Ở đó (gần người nghe)",
+        "Ở kia (xa cả hai)"
+      ],
+      "correctIndex": 1,
+      "explanation": "どこ【どこ】= Ở đâu"
+    },
+    {
+      "id": 42,
+      "promptHtml": "こちら",
+      "prompt": "こちら",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Phía này (lịch sự)",
+        "Ở đâu",
+        "Nhà vệ sinh (lịch sự)",
+        "Nghìn"
+      ],
+      "correctIndex": 0,
+      "explanation": "こちら【こちら】= Phía này (lịch sự)"
+    },
+    {
+      "id": 43,
+      "promptHtml": "そちら",
+      "prompt": "そちら",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Nước, quốc gia",
+        "Công ty",
+        "Nhà vệ sinh (lịch sự)",
+        "Phía đó (lịch sự)"
+      ],
+      "correctIndex": 3,
+      "explanation": "そちら【そちら】= Phía đó (lịch sự)"
+    },
+    {
+      "id": 44,
+      "promptHtml": "あちら",
+      "prompt": "あちら",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tầng mấy",
+        "Phía kia (lịch sự)",
+        "Quà lưu niệm",
+        "Thang máy"
+      ],
+      "correctIndex": 1,
+      "explanation": "あちら【あちら】= Phía kia (lịch sự)"
+    },
+    {
+      "id": 45,
+      "promptHtml": "どちら",
+      "prompt": "どちら",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Ở đâu",
+        "Bao nhiêu tiền",
+        "Ở đây (gần người nói)",
+        "Phía nào (lịch sự)"
+      ],
+      "correctIndex": 3,
+      "explanation": "どちら【どちら】= Phía nào (lịch sự)"
+    },
+    {
+      "id": 46,
+      "promptHtml": "<ruby>教室<rt>きょうしつ</rt></ruby>",
+      "prompt": "きょうしつ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Nước, quốc gia",
+        "Phòng học",
+        "Ở kia (xa cả hai)",
+        "Bao nhiêu tiền"
+      ],
+      "correctIndex": 1,
+      "explanation": "教室【きょうしつ】= Phòng học"
+    },
+    {
+      "id": 47,
+      "promptHtml": "<ruby>食堂<rt>しょくどう</rt></ruby>",
+      "prompt": "しょくどう",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Nhà ăn, canteen",
+        "Vạn (10.000)",
+        "Ở kia (xa cả hai)",
+        "Công ty"
+      ],
+      "correctIndex": 0,
+      "explanation": "食堂【しょくどう】= Nhà ăn, canteen"
+    },
+    {
+      "id": 48,
+      "promptHtml": "<ruby>事務所<rt>じむしょ</rt></ruby>",
+      "prompt": "じむしょ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Quầy lễ tân",
+        "Nghìn",
+        "Phòng họp",
+        "Văn phòng"
+      ],
+      "correctIndex": 3,
+      "explanation": "事務所【じむしょ】= Văn phòng"
+    },
+    {
+      "id": 49,
+      "promptHtml": "<ruby>会議室<rt>かいぎしつ</rt></ruby>",
+      "prompt": "かいぎしつ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Phòng họp",
+        "~ yên",
+        "Nhà vệ sinh",
+        "Nghìn"
+      ],
+      "correctIndex": 0,
+      "explanation": "会議室【かいぎしつ】= Phòng họp"
+    },
+    {
+      "id": 50,
+      "promptHtml": "<ruby>受付<rt>うけつけ</rt></ruby>",
+      "prompt": "うけつけ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Quầy lễ tân",
+        "Ở kia (xa cả hai)",
+        "~ yên",
+        "Thang máy"
+      ],
+      "correctIndex": 0,
+      "explanation": "受付【うけつけ】= Quầy lễ tân"
+    }
+  ]
+}

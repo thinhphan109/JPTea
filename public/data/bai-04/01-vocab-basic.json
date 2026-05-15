@@ -1,0 +1,706 @@
+{
+  "title": "Từ vựng cơ bản — Bài 4: いま 何時ですか",
+  "type": "vocab-basic",
+  "questions": [
+    {
+      "id": 1,
+      "promptHtml": "<ruby>今<rt>いま</rt></ruby>",
+      "prompt": "いま",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Đi ngủ",
+        "Bây giờ",
+        "Thứ Bảy",
+        "Hôm kia"
+      ],
+      "correctIndex": 1,
+      "explanation": "今【いま】= Bây giờ"
+    },
+    {
+      "id": 2,
+      "promptHtml": "<ruby>～時<rt>～じ</rt></ruby>",
+      "prompt": "～じ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Bây giờ",
+        "~ giờ",
+        "Ngày kia",
+        "Mỗi tối"
+      ],
+      "correctIndex": 1,
+      "explanation": "～時【～じ】= ~ giờ"
+    },
+    {
+      "id": 3,
+      "promptHtml": "<ruby>～分<rt>～ふん／～ぷん</rt></ruby>",
+      "prompt": "～ふん／～ぷん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "~ phút",
+        "Bưu điện",
+        "Sáng (a.m.)",
+        "Ngày mai"
+      ],
+      "correctIndex": 0,
+      "explanation": "～分【～ふん／～ぷん】= ~ phút"
+    },
+    {
+      "id": 4,
+      "promptHtml": "<ruby>半<rt>はん</rt></ruby>",
+      "prompt": "はん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Chủ Nhật",
+        "Mỗi ngày",
+        "Bảo tàng nghệ thuật",
+        "Rưỡi (30 phút)"
+      ],
+      "correctIndex": 3,
+      "explanation": "半【はん】= Rưỡi (30 phút)"
+    },
+    {
+      "id": 5,
+      "promptHtml": "<ruby>何時<rt>なんじ</rt></ruby>",
+      "prompt": "なんじ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Buổi trưa, ban ngày",
+        "Kết thúc",
+        "Thứ Hai",
+        "Mấy giờ"
+      ],
+      "correctIndex": 3,
+      "explanation": "何時【なんじ】= Mấy giờ"
+    },
+    {
+      "id": 6,
+      "promptHtml": "<ruby>何分<rt>なんぷん</rt></ruby>",
+      "prompt": "なんぷん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Mỗi tối",
+        "Bao nhiêu phút",
+        "Cửa hàng bách hóa",
+        "Ngày mai"
+      ],
+      "correctIndex": 1,
+      "explanation": "何分【なんぷん】= Bao nhiêu phút"
+    },
+    {
+      "id": 7,
+      "promptHtml": "<ruby>午前<rt>ごぜん</rt></ruby>",
+      "prompt": "ごぜん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Ngày kia",
+        "Sáng (a.m.)",
+        "Buổi sáng",
+        "Bao nhiêu phút"
+      ],
+      "correctIndex": 1,
+      "explanation": "午前【ごぜん】= Sáng (a.m.)"
+    },
+    {
+      "id": 8,
+      "promptHtml": "<ruby>午後<rt>ごご</rt></ruby>",
+      "prompt": "ごご",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Buổi sáng",
+        "Chiều (p.m.)",
+        "Cửa hàng bách hóa",
+        "Bây giờ"
+      ],
+      "correctIndex": 1,
+      "explanation": "午後【ごご】= Chiều (p.m.)"
+    },
+    {
+      "id": 9,
+      "promptHtml": "<ruby>朝<rt>あさ</rt></ruby>",
+      "prompt": "あさ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Sáng nay",
+        "Buổi sáng",
+        "Hôm nay",
+        "Tối nay"
+      ],
+      "correctIndex": 1,
+      "explanation": "朝【あさ】= Buổi sáng"
+    },
+    {
+      "id": 10,
+      "promptHtml": "<ruby>昼<rt>ひる</rt></ruby>",
+      "prompt": "ひる",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Hôm nay",
+        "Sáng (a.m.)",
+        "Buổi trưa, ban ngày",
+        "Bắt đầu"
+      ],
+      "correctIndex": 2,
+      "explanation": "昼【ひる】= Buổi trưa, ban ngày"
+    },
+    {
+      "id": 11,
+      "promptHtml": "<ruby>晩<rt>ばん</rt></ruby>",
+      "prompt": "ばん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Nghỉ ngơi",
+        "Hôm qua",
+        "Hôm nay",
+        "Buổi tối"
+      ],
+      "correctIndex": 3,
+      "explanation": "晩【ばん】= Buổi tối"
+    },
+    {
+      "id": 12,
+      "promptHtml": "<ruby>夜<rt>よる</rt></ruby>",
+      "prompt": "よる",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "~ phút",
+        "~ giờ",
+        "Thứ Tư",
+        "Ban đêm"
+      ],
+      "correctIndex": 3,
+      "explanation": "夜【よる】= Ban đêm"
+    },
+    {
+      "id": 13,
+      "promptHtml": "おととい",
+      "prompt": "おととい",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Hôm kia",
+        "Thứ Bảy",
+        "Thứ Ba",
+        "Đi ngủ"
+      ],
+      "correctIndex": 0,
+      "explanation": "おととい【おととい】= Hôm kia"
+    },
+    {
+      "id": 14,
+      "promptHtml": "<ruby>昨日<rt>きのう</rt></ruby>",
+      "prompt": "きのう",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Bưu điện",
+        "Mỗi tối",
+        "Hôm qua",
+        "Ngày mai"
+      ],
+      "correctIndex": 2,
+      "explanation": "昨日【きのう】= Hôm qua"
+    },
+    {
+      "id": 15,
+      "promptHtml": "<ruby>今日<rt>きょう</rt></ruby>",
+      "prompt": "きょう",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Hôm kia",
+        "Bây giờ",
+        "Học",
+        "Hôm nay"
+      ],
+      "correctIndex": 3,
+      "explanation": "今日【きょう】= Hôm nay"
+    },
+    {
+      "id": 16,
+      "promptHtml": "<ruby>明日<rt>あした</rt></ruby>",
+      "prompt": "あした",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Thứ Tư",
+        "Ngày mai",
+        "Hôm qua",
+        "Rưỡi (30 phút)"
+      ],
+      "correctIndex": 1,
+      "explanation": "明日【あした】= Ngày mai"
+    },
+    {
+      "id": 17,
+      "promptHtml": "あさって",
+      "prompt": "あさって",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Kết thúc",
+        "Bưu điện",
+        "Ngày kia",
+        "Sáng (a.m.)"
+      ],
+      "correctIndex": 2,
+      "explanation": "あさって【あさって】= Ngày kia"
+    },
+    {
+      "id": 18,
+      "promptHtml": "<ruby>今朝<rt>けさ</rt></ruby>",
+      "prompt": "けさ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Sáng nay",
+        "Ngày kia",
+        "~ giờ",
+        "Thứ Tư"
+      ],
+      "correctIndex": 0,
+      "explanation": "今朝【けさ】= Sáng nay"
+    },
+    {
+      "id": 19,
+      "promptHtml": "<ruby>今晩<rt>こんばん</rt></ruby>",
+      "prompt": "こんばん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "~ phút",
+        "Hôm kia",
+        "Tối nay",
+        "Ngày mai"
+      ],
+      "correctIndex": 2,
+      "explanation": "今晩【こんばん】= Tối nay"
+    },
+    {
+      "id": 20,
+      "promptHtml": "<ruby>毎日<rt>まいにち</rt></ruby>",
+      "prompt": "まいにち",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Bao nhiêu phút",
+        "Kết thúc",
+        "Bây giờ",
+        "Mỗi ngày"
+      ],
+      "correctIndex": 3,
+      "explanation": "毎日【まいにち】= Mỗi ngày"
+    },
+    {
+      "id": 21,
+      "promptHtml": "<ruby>毎朝<rt>まいあさ</rt></ruby>",
+      "prompt": "まいあさ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Đi ngủ",
+        "Thư viện",
+        "Chủ Nhật",
+        "Mỗi sáng"
+      ],
+      "correctIndex": 3,
+      "explanation": "毎朝【まいあさ】= Mỗi sáng"
+    },
+    {
+      "id": 22,
+      "promptHtml": "<ruby>毎晩<rt>まいばん</rt></ruby>",
+      "prompt": "まいばん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Mỗi sáng",
+        "Thứ Hai",
+        "Hôm qua",
+        "Mỗi tối"
+      ],
+      "correctIndex": 3,
+      "explanation": "毎晩【まいばん】= Mỗi tối"
+    },
+    {
+      "id": 23,
+      "promptHtml": "<ruby>起きます<rt>おきます</rt></ruby>",
+      "prompt": "おきます",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Thức dậy",
+        "Bao nhiêu phút",
+        "Buổi trưa, ban ngày",
+        "Mấy giờ"
+      ],
+      "correctIndex": 0,
+      "explanation": "起きます【おきます】= Thức dậy"
+    },
+    {
+      "id": 24,
+      "promptHtml": "<ruby>寝ます<rt>ねます</rt></ruby>",
+      "prompt": "ねます",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Chủ Nhật",
+        "Đi ngủ",
+        "Thứ Ba",
+        "Mỗi tối"
+      ],
+      "correctIndex": 1,
+      "explanation": "寝ます【ねます】= Đi ngủ"
+    },
+    {
+      "id": 25,
+      "promptHtml": "<ruby>働きます<rt>はたらきます</rt></ruby>",
+      "prompt": "はたらきます",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "~ giờ",
+        "Rưỡi (30 phút)",
+        "Làm việc",
+        "Hôm kia"
+      ],
+      "correctIndex": 2,
+      "explanation": "働きます【はたらきます】= Làm việc"
+    },
+    {
+      "id": 26,
+      "promptHtml": "<ruby>休みます<rt>やすみます</rt></ruby>",
+      "prompt": "やすみます",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Nghỉ ngơi",
+        "Sáng (a.m.)",
+        "Bưu điện",
+        "Thứ Bảy"
+      ],
+      "correctIndex": 0,
+      "explanation": "休みます【やすみます】= Nghỉ ngơi"
+    },
+    {
+      "id": 27,
+      "promptHtml": "<ruby>勉強します<rt>べんきょうします</rt></ruby>",
+      "prompt": "べんきょうします",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Học",
+        "~ phút",
+        "Hôm qua",
+        "Thứ Tư"
+      ],
+      "correctIndex": 0,
+      "explanation": "勉強します【べんきょうします】= Học"
+    },
+    {
+      "id": 28,
+      "promptHtml": "<ruby>終わります<rt>おわります</rt></ruby>",
+      "prompt": "おわります",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Kết thúc",
+        "Ngày mai",
+        "Thức dậy",
+        "Chiều (p.m.)"
+      ],
+      "correctIndex": 0,
+      "explanation": "終わります【おわります】= Kết thúc"
+    },
+    {
+      "id": 29,
+      "promptHtml": "<ruby>始まります<rt>はじまります</rt></ruby>",
+      "prompt": "はじまります",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tối nay",
+        "Bắt đầu",
+        "Thứ Ba",
+        "Mỗi sáng"
+      ],
+      "correctIndex": 1,
+      "explanation": "始まります【はじまります】= Bắt đầu"
+    },
+    {
+      "id": 30,
+      "promptHtml": "デパート",
+      "prompt": "デパート",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Thứ Bảy",
+        "Cửa hàng bách hóa",
+        "Mấy giờ",
+        "Mỗi ngày"
+      ],
+      "correctIndex": 1,
+      "explanation": "デパート【デパート】= Cửa hàng bách hóa"
+    },
+    {
+      "id": 31,
+      "promptHtml": "<ruby>銀行<rt>ぎんこう</rt></ruby>",
+      "prompt": "ぎんこう",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Làm việc",
+        "~ phút",
+        "Ngân hàng",
+        "Mỗi sáng"
+      ],
+      "correctIndex": 2,
+      "explanation": "銀行【ぎんこう】= Ngân hàng"
+    },
+    {
+      "id": 32,
+      "promptHtml": "<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>",
+      "prompt": "ゆうびんきょく",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Ban đêm",
+        "Bây giờ",
+        "Bưu điện",
+        "Thư viện"
+      ],
+      "correctIndex": 2,
+      "explanation": "郵便局【ゆうびんきょく】= Bưu điện"
+    },
+    {
+      "id": 33,
+      "promptHtml": "<ruby>図書館<rt>としょかん</rt></ruby>",
+      "prompt": "としょかん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Hôm kia",
+        "Thư viện",
+        "Mấy giờ",
+        "Thứ Năm"
+      ],
+      "correctIndex": 1,
+      "explanation": "図書館【としょかん】= Thư viện"
+    },
+    {
+      "id": 34,
+      "promptHtml": "<ruby>美術館<rt>びじゅつかん</rt></ruby>",
+      "prompt": "びじゅつかん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Mỗi tối",
+        "Bưu điện",
+        "Chiều (p.m.)",
+        "Bảo tàng nghệ thuật"
+      ],
+      "correctIndex": 3,
+      "explanation": "美術館【びじゅつかん】= Bảo tàng nghệ thuật"
+    },
+    {
+      "id": 35,
+      "promptHtml": "<ruby>月曜日<rt>げつようび</rt></ruby>",
+      "prompt": "げつようび",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Chủ Nhật",
+        "Thứ Hai",
+        "Kết thúc",
+        "Thứ Năm"
+      ],
+      "correctIndex": 1,
+      "explanation": "月曜日【げつようび】= Thứ Hai"
+    },
+    {
+      "id": 36,
+      "promptHtml": "<ruby>火曜日<rt>かようび</rt></ruby>",
+      "prompt": "かようび",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Mỗi tối",
+        "Thứ Năm",
+        "~ phút",
+        "Thứ Ba"
+      ],
+      "correctIndex": 3,
+      "explanation": "火曜日【かようび】= Thứ Ba"
+    },
+    {
+      "id": 37,
+      "promptHtml": "<ruby>水曜日<rt>すいようび</rt></ruby>",
+      "prompt": "すいようび",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Bây giờ",
+        "Thứ Tư",
+        "Thứ Ba",
+        "Học"
+      ],
+      "correctIndex": 1,
+      "explanation": "水曜日【すいようび】= Thứ Tư"
+    },
+    {
+      "id": 38,
+      "promptHtml": "<ruby>木曜日<rt>もくようび</rt></ruby>",
+      "prompt": "もくようび",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Thứ Ba",
+        "Thứ Năm",
+        "Chủ Nhật",
+        "Ngày kia"
+      ],
+      "correctIndex": 1,
+      "explanation": "木曜日【もくようび】= Thứ Năm"
+    },
+    {
+      "id": 39,
+      "promptHtml": "<ruby>金曜日<rt>きんようび</rt></ruby>",
+      "prompt": "きんようび",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Thứ Tư",
+        "Hôm qua",
+        "Thứ Sáu",
+        "Mỗi sáng"
+      ],
+      "correctIndex": 2,
+      "explanation": "金曜日【きんようび】= Thứ Sáu"
+    },
+    {
+      "id": 40,
+      "promptHtml": "<ruby>土曜日<rt>どようび</rt></ruby>",
+      "prompt": "どようび",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Bưu điện",
+        "Ngày kia",
+        "Thư viện",
+        "Thứ Bảy"
+      ],
+      "correctIndex": 3,
+      "explanation": "土曜日【どようび】= Thứ Bảy"
+    },
+    {
+      "id": 41,
+      "promptHtml": "<ruby>日曜日<rt>にちようび</rt></ruby>",
+      "prompt": "にちようび",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Cửa hàng bách hóa",
+        "Chủ Nhật",
+        "Thứ Tư",
+        "Thứ mấy"
+      ],
+      "correctIndex": 1,
+      "explanation": "日曜日【にちようび】= Chủ Nhật"
+    },
+    {
+      "id": 42,
+      "promptHtml": "<ruby>何曜日<rt>なんようび</rt></ruby>",
+      "prompt": "なんようび",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Bảo tàng nghệ thuật",
+        "Thứ mấy",
+        "Ban đêm",
+        "Cửa hàng bách hóa"
+      ],
+      "correctIndex": 1,
+      "explanation": "何曜日【なんようび】= Thứ mấy"
+    },
+    {
+      "id": 43,
+      "promptHtml": "<ruby>今<rt>いま</rt></ruby>",
+      "prompt": "いま",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Buổi sáng",
+        "Bây giờ",
+        "Thứ Bảy",
+        "Sáng nay"
+      ],
+      "correctIndex": 1,
+      "explanation": "今【いま】= Bây giờ"
+    },
+    {
+      "id": 44,
+      "promptHtml": "<ruby>～時<rt>～じ</rt></ruby>",
+      "prompt": "～じ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Thứ mấy",
+        "Hôm nay",
+        "Cửa hàng bách hóa",
+        "~ giờ"
+      ],
+      "correctIndex": 3,
+      "explanation": "～時【～じ】= ~ giờ"
+    },
+    {
+      "id": 45,
+      "promptHtml": "<ruby>～分<rt>～ふん／～ぷん</rt></ruby>",
+      "prompt": "～ふん／～ぷん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Đi ngủ",
+        "~ phút",
+        "Bắt đầu",
+        "Thứ Năm"
+      ],
+      "correctIndex": 1,
+      "explanation": "～分【～ふん／～ぷん】= ~ phút"
+    },
+    {
+      "id": 46,
+      "promptHtml": "<ruby>半<rt>はん</rt></ruby>",
+      "prompt": "はん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Chủ Nhật",
+        "Hôm nay",
+        "Hôm qua",
+        "Rưỡi (30 phút)"
+      ],
+      "correctIndex": 3,
+      "explanation": "半【はん】= Rưỡi (30 phút)"
+    },
+    {
+      "id": 47,
+      "promptHtml": "<ruby>何時<rt>なんじ</rt></ruby>",
+      "prompt": "なんじ",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Thư viện",
+        "Mấy giờ",
+        "Bắt đầu",
+        "Mỗi tối"
+      ],
+      "correctIndex": 1,
+      "explanation": "何時【なんじ】= Mấy giờ"
+    },
+    {
+      "id": 48,
+      "promptHtml": "<ruby>何分<rt>なんぷん</rt></ruby>",
+      "prompt": "なんぷん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Thứ Năm",
+        "Thứ Tư",
+        "Bắt đầu",
+        "Bao nhiêu phút"
+      ],
+      "correctIndex": 3,
+      "explanation": "何分【なんぷん】= Bao nhiêu phút"
+    },
+    {
+      "id": 49,
+      "promptHtml": "<ruby>午前<rt>ごぜん</rt></ruby>",
+      "prompt": "ごぜん",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Tối nay",
+        "Sáng (a.m.)",
+        "Thứ Hai",
+        "Mỗi ngày"
+      ],
+      "correctIndex": 1,
+      "explanation": "午前【ごぜん】= Sáng (a.m.)"
+    },
+    {
+      "id": 50,
+      "promptHtml": "<ruby>午後<rt>ごご</rt></ruby>",
+      "prompt": "ごご",
+      "subPrompt": "Nghĩa tiếng Việt là?",
+      "options": [
+        "Sáng (a.m.)",
+        "Ngày mai",
+        "Hôm nay",
+        "Chiều (p.m.)"
+      ],
+      "correctIndex": 3,
+      "explanation": "午後【ごご】= Chiều (p.m.)"
+    }
+  ]
+}
