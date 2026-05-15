@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "description": "JPTea — Web App Học Tiếng Nhật N5 (Minna no Nihongo)",
   "type": "module",
+  "engines": {
+    "node": "20.x"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
